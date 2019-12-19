@@ -3,6 +3,10 @@ package bgu.spl.mics.application.json;
 import java.util.List;
 
 public class JsonParser {
+    public String[] inventory;
+    public Services services;
+    public Squad[] squad;
+
     public class Squad {
         public String name;
         public String serialNumber;
@@ -28,7 +32,5 @@ public class JsonParser {
         public int time;
     }
 
-    public String[] inventory;
-    public Services services;
-    public Squad[] squad;
+
 }

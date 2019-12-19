@@ -1,5 +1,7 @@
 package bgu.spl.mics;
 
+import java.util.HashMap;
+
 /**
  * The Subscriber is an abstract class that any subscriber in the system
  * must extend. The abstract Subscriber class is responsible to get and
@@ -16,14 +18,17 @@ package bgu.spl.mics;
  * <p>
  */
 public abstract class Subscriber extends RunnableSubPub {
+    private MessageBroker mb;
     private boolean terminated = false;
-
+    private HashMap<Class<? extends Message>, Callback> map;
     /**
      * @param name the Subscriber name (used mainly for debugging purposes -
      *             does not have to be unique)
      */
     public Subscriber(String name) {
         super(name);
+        mb = MessageBrokerImpl.getInstance();
+        map = new HashMap<>();
     }
 
     /**
@@ -48,7 +53,8 @@ public abstract class Subscriber extends RunnableSubPub {
      *                 queue.
      */
     protected final <T, E extends Event<T>> void subscribeEvent(Class<E> type, Callback<E> callback) {
-        //TODO: implement this.
+        mb.subscribeEvent(type, this);
+        map.put(type, callback);
     }
 
     /**
@@ -72,7 +78,8 @@ public abstract class Subscriber extends RunnableSubPub {
      *                 queue.
      */
     protected final <B extends Broadcast> void subscribeBroadcast(Class<B> type, Callback<B> callback) {
-        //TODO: implement this.
+        mb.subscribeBroadcast(type, this);
+        map.put(type, callback);
     }
 
     /**
@@ -86,7 +93,7 @@ public abstract class Subscriber extends RunnableSubPub {
      *               {@code e}.
      */
     protected final <T> void complete(Event<T> e, T result) {
-        //TODO: implement this.
+        mb.complete(e,result);
     }
 
     /**
@@ -105,7 +112,14 @@ public abstract class Subscriber extends RunnableSubPub {
     public final void run() {
         initialize();
         while (!terminated) {
-            System.out.println("NOT IMPLEMENTED!!!"); //TODO: you should delete this line :)
+            try {
+                Message m = mb.awaitMessage(this);
+                map.get(m).call();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
+
         }
     }
 
