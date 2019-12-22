@@ -7,6 +7,7 @@ import bgu.spl.mics.application.passiveObjects.MissionInfo;
 
 
 import java.util.LinkedList;
+import java.util.List;
 
 /**
  * A Publisher\Subscriber.
@@ -16,33 +17,18 @@ import java.util.LinkedList;
  * You MAY change constructor signatures and even add new public constructors.
  */
 public class Intelligence extends Subscriber {
-	private LinkedList<MissionInfo> _MissionMap = new LinkedList<>();
-//    private LinkedList<Event> _Events = new LinkedList<>();
+	private List<MissionInfo> infos;
 
-	public Intelligence() {
-		super("need to change");
+
+	public Intelligence(LinkedList<MissionInfo> _infos) {
+		super("Intelligence");
+		infos = _infos;
 	}
 
 
 	@Override
 	protected void initialize() {
 		// TODO Implement this
-		MessageBroker messageBroker = MessageBrokerImpl.getInstance();
-		messageBroker.register(this);
-//		messageBroker.subscribeBroadcast(TickBroadcast.class, this);
-
-
-
-
-		//exectue events
-//        for(MissionInfo misson : _MissionMap){
-//            MissionReceivedEvent event = new MissionReceivedEvent(misson);
-//            MessageBrokerImpl.getInstance().sendEvent(event);
-//        }
-
 	}
 
-	public void loadMission(MissionInfo missionInfo) {
-		_MissionMap.add(missionInfo);
-	}
 }

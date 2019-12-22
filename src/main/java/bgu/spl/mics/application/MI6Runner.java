@@ -13,6 +13,7 @@ import com.google.gson.Gson;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.util.LinkedList;
 
 /**
  * This is the Main class of the application. You should parse the input file,
@@ -67,18 +68,21 @@ public class MI6Runner {
         // Creating intelligence with Missions
         intelligence = new Intelligence[json.services.intelligence.length];
         int counter = 0;
+        LinkedList<MissionInfo> missions = new LinkedList<>();
         for (JsonParser.Intelligence _intelligence : json.services.intelligence) {
-            intelligence[counter] = new Intelligence();
-            for (JsonParser.Mession mession : _intelligence.missions) {
+            //intelligence[counter] = new Intelligence();
+            for (JsonParser.Mession mission : _intelligence.missions) {
                 MissionInfo missionInfo = new MissionInfo();
-                missionInfo.setSerialAgentsNumbers(mession.serialAgentsNumbers);
-                missionInfo.setDuration(mession.duration);
-                missionInfo.setGadget(mession.gadget);
-                missionInfo.setMissionName(mession.missionName);
-                missionInfo.setTimeExpired(mession.timeExpired);
-                missionInfo.setTimeIssued(mession.timeIssued);
-                intelligence[counter].loadMission(missionInfo);
+                missionInfo.setSerialAgentsNumbers(mission.serialAgentsNumbers);
+                missionInfo.setDuration(mission.duration);
+                missionInfo.setGadget(mission.gadget);
+                missionInfo.setMissionName(mission.missionName);
+                missionInfo.setTimeExpired(mission.timeExpired);
+                missionInfo.setTimeIssued(mission.timeIssued);
+                missions.add(missionInfo);
+                //intelligence[counter].loadMission(missionInfo);
             }
+            intelligence[counter] = new Intelligence(missions);
             counter = counter + 1;
         }
 

@@ -110,17 +110,18 @@ public abstract class Subscriber extends RunnableSubPub {
      */
     @Override
     public final void run() {
+        mb.register(this);
         initialize();
         while (!terminated) {
             try {
                 Message m = mb.awaitMessage(this);
-                map.get(m).call();
+                map.get(m.getClass()).call(m);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
 
-
         }
+        mb.unregister(this);
     }
 
 }

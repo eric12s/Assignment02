@@ -16,15 +16,16 @@ public class MessageBrokerImpl implements MessageBroker {
 	private ConcurrentHashMap<Subscriber, BlockingQueue<Message>> subAndQM;
 	private ConcurrentHashMap<Event, Future> EvAndFut;
 
-	private static class MessageBrokerHolder{
+	private static class MessageBrokerHolder {
 		private static MessageBrokerImpl instance = new MessageBrokerImpl();
 	}
 
-	private MessageBrokerImpl(){
+	private MessageBrokerImpl() {
 		typeAndQS = new ConcurrentHashMap<>();
 		subAndQM = new ConcurrentHashMap<>();
 		EvAndFut = new ConcurrentHashMap<>();
 	}
+
 	/**
 	 * Retrieves the single instance of this class.
 	 */
@@ -34,20 +35,18 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	@Override
 	public <T> void subscribeEvent(Class<? extends Event<T>> type, Subscriber m) {
-		if(subAndQM.get(m)!=null) {
-			while(!typeAndQS.contains(type)) {
-				synchronized (type) {
-					BlockingQueue<Subscriber> tmp = new LinkedBlockingQueue<>();
-					typeAndQS.put(type, tmp);
-					}
+		synchronized (type) {
+			if (subAndQM.get(m) != null) {
+				BlockingQueue<Subscriber> t = typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
+				if (t!=null) {
+					typeAndQS.get(t).add(m);
 				}
-			typeAndQS.get(type).add(m);
-		}
-		else{
-			System.out.println("No Such Subscriber");
+				typeAndQS.get(type).add(m);
+			} else {
+				System.out.println("No Such Subscriber");
+			}
 		}
 	}
-
 	@Override
 	public void subscribeBroadcast(Class<? extends Broadcast> type, Subscriber m) {
 		if(subAndQM.get(m)!=null) {
