@@ -21,6 +21,7 @@ public abstract class Subscriber extends RunnableSubPub {
     private MessageBroker mb;
     private boolean terminated = false;
     private HashMap<Class<? extends Message>, Callback> map;
+
     /**
      * @param name the Subscriber name (used mainly for debugging purposes -
      *             does not have to be unique)

@@ -1,8 +1,8 @@
 package bgu.spl.mics.application.subscribers;
-
-import bgu.spl.mics.MessageBroker;
-import bgu.spl.mics.MessageBrokerImpl;
-import bgu.spl.mics.Subscriber;
+import bgu.spl.mics.*;
+import bgu.spl.mics.application.messages.MissionReceivedEvent;
+import bgu.spl.mics.application.messages.TerminateBroadcast;
+import bgu.spl.mics.application.messages.TickBroadcast;
 import bgu.spl.mics.application.passiveObjects.MissionInfo;
 
 
@@ -18,6 +18,7 @@ import java.util.List;
  */
 public class Intelligence extends Subscriber {
 	private List<MissionInfo> infos;
+	private int tick;
 
 
 	public Intelligence(LinkedList<MissionInfo> _infos) {
@@ -28,7 +29,23 @@ public class Intelligence extends Subscriber {
 
 	@Override
 	protected void initialize() {
-		// TODO Implement this
+		subscribeBroadcast(
+				TickBroadcast.class,
+				e -> {
+					tick = e.getTick();
+					for(MissionInfo m : infos){
+						int tmp = m.getTimeIssued();
+						if(tmp <= tick){
+							this.getSimplePublisher().sendEvent(new MissionReceivedEvent(m));
+							infos.remove(m);
+						}
+					}
+				}
+		);
+
+		subscribeBroadcast(TerminateBroadcast.class,
+				e->{this.terminate();}
+				);
 	}
 
 }
