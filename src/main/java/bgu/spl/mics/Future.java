@@ -34,7 +34,7 @@ public class Future<T> {
 	public synchronized T get() {
 		while(!isDone){
 			try{
-				Thread.currentThread().wait();
+				wait();
 			}catch (InterruptedException ex){}
 		}
 		return solution;
@@ -67,9 +67,14 @@ public class Future<T> {
      * 	       wait for {@code timeout} TimeUnits {@code unit}. If time has
      *         elapsed, return null.
      */
-	public synchronized T get(long timeout, TimeUnit unit) throws InterruptedException {
-		if(!isDone())
-			this.wait(unit.toMillis(timeout));
+	public synchronized T get(long timeout, TimeUnit unit){
+		if(!isDone()) {
+			try {
+				this.wait(unit.toMillis(timeout));
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
+		}
 		return solution;
 	}
 

@@ -46,7 +46,7 @@ public class MI6Runner {
         JsonParser json = null;
 
         try {
-            json = gson.fromJson(new FileReader("/users/studs/bsc/2020/ericsa/workspace/assignment2/input.json"), JsonParser.class);
+            json = gson.fromJson(new FileReader("/users/studs/bsc/2020/ericsa/workspace/Assignment02/input.json"), JsonParser.class);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -58,19 +58,19 @@ public class MI6Runner {
         // Creating M
         m = new M[json.services.M];
         for (int i = 0; i < json.services.M; i = i + 1)
-            m[i] = new M(); // TODO: Add M.id field
+            m[i] = new M(i);
 
         // Creating Monneypenny
         monneypenny = new Moneypenny[json.services.Moneypenny];
         for (int i = 0; i < json.services.Moneypenny; i = i + 1)
-            monneypenny[i] = new Moneypenny();
+            monneypenny[i] = new Moneypenny(i);
 
         // Creating intelligence with Missions
         intelligence = new Intelligence[json.services.intelligence.length];
         int counter = 0;
         LinkedList<MissionInfo> missions = new LinkedList<>();
         for (JsonParser.Intelligence _intelligence : json.services.intelligence) {
-            //intelligence[counter] = new Intelligence();
+         //   MissionInfo[] missionInfos = gson.fromJson(json.services.intelligence ,MissionInfo[].class);
             for (JsonParser.Mession mission : _intelligence.missions) {
                 MissionInfo missionInfo = new MissionInfo();
                 missionInfo.setSerialAgentsNumbers(mission.serialAgentsNumbers);
@@ -80,7 +80,6 @@ public class MI6Runner {
                 missionInfo.setTimeExpired(mission.timeExpired);
                 missionInfo.setTimeIssued(mission.timeIssued);
                 missions.add(missionInfo);
-                //intelligence[counter].loadMission(missionInfo);
             }
             intelligence[counter] = new Intelligence(missions);
             counter = counter + 1;
@@ -90,7 +89,7 @@ public class MI6Runner {
         // Creating Squad
         Agent[] agents = new Agent[json.squad.length];
         for (int i = 0; i < json.squad.length; i = i + 1) {
-            agents[i] = new Agent();
+          //  agents[i] = new Agent();
             agents[i].setName(json.squad[i].name);
             agents[i].setSerialNumber(json.squad[i].serialNumber);
         }

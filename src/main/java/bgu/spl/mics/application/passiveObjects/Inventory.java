@@ -1,6 +1,14 @@
 package bgu.spl.mics.application.passiveObjects;
 
+import bgu.spl.mics.MessageBrokerImpl;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Locale;
 
 /**
  *  That's where Q holds his gadget (e.g. an explosive pen was used in GoldenEye, a geiger counter in Dr. No, etc).
@@ -12,12 +20,20 @@ import java.util.List;
  */
 public class Inventory {
 	private List<String> gadgets;
+
+	private static class InventoryHolder {
+		private static Inventory instance = new Inventory();
+	}
+
+	private Inventory(){
+		gadgets = new LinkedList<>();
+	}
+
 	/**
      * Retrieves the single instance of this class.
      */
 	public static Inventory getInstance() {
-		//TODO: Implement this
-		return null;
+		return InventoryHolder.instance;
 	}
 
 	/**
@@ -28,7 +44,8 @@ public class Inventory {
      * 						of the inventory.
      */
 	public void load (String[] inventory) {
-		//TODO: Implement this
+		for(int i = 0; i  < inventory.length; i++)
+			gadgets.add(inventory[i]);
 	}
 	
 	/**
@@ -38,8 +55,11 @@ public class Inventory {
      * @return 	‘false’ if the gadget is missing, and ‘true’ otherwise
      */
 	public boolean getItem(String gadget){
-		//TODO: Implement this
-		return true;
+		if(gadgets.contains(gadget)){
+			gadgets.remove(gadget);
+			return true;
+		}
+		return false;
 	}
 
 	/**
@@ -50,6 +70,19 @@ public class Inventory {
 	 * This method is called by the main method in order to generate the output.
 	 */
 	public void printToFile(String filename){
-		//TODO: Implement this
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		String jsonOutput = gson.toJson(gadgets);
+
+			try {
+				FileWriter fileWriter = new FileWriter(filename);
+				fileWriter.write(jsonOutput);
+				fileWriter.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+	}
+
+	public List<String> getGadgets() {
+		return gadgets;
 	}
 }

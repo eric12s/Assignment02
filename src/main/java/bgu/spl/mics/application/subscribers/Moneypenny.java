@@ -1,6 +1,12 @@
 package bgu.spl.mics.application.subscribers;
 
 import bgu.spl.mics.Subscriber;
+import bgu.spl.mics.application.messages.AgentsAvailableEvent;
+import bgu.spl.mics.application.messages.TerminateBroadcast;
+import bgu.spl.mics.application.messages.TickBroadcast;
+import bgu.spl.mics.application.passiveObjects.Squad;
+
+import java.util.List;
 
 /**
  * Only this type of Subscriber can access the squad.
@@ -11,15 +17,36 @@ import bgu.spl.mics.Subscriber;
  */
 public class Moneypenny extends Subscriber {
 
-	public Moneypenny() {
+	private int id;
+
+	public Moneypenny(int _id) {
 		super("Change_This_Name");
+		id = _id;
 		// TODO Implement this
 	}
 
 	@Override
 	protected void initialize() {
-		// TODO Implement this
-		
+		subscribeEvent(AgentsAvailableEvent.class, e -> {
+			List<String> serialNumbers = e.getSerialNumbers();
+			boolean b =Squad.getInstance().getAgents(serialNumbers);
+			if(b){
+				if(e.getSendEvent().get()){
+					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getTimeIssued());
+					complete(e, true);
+				}
+				else{
+					Squad.getInstance().releaseAgents(serialNumbers);
+					complete(e, false);
+				}
+			}else{
+				complete(e, false);
+			}
+		});
+
+		subscribeBroadcast(TerminateBroadcast.class, e -> terminate());
+
+
 	}
 
 }
