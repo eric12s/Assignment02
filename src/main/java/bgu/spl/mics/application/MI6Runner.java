@@ -46,7 +46,7 @@ public class MI6Runner {
         JsonParser json = null;
 
         try {
-            json = gson.fromJson(new FileReader("/users/studs/bsc/2020/ericsa/workspace/Assignment02/input.json"), JsonParser.class);
+            json = gson.fromJson(new FileReader("C:/Users/erics/Desktop/Studies/SPL/Assignment02/input.json"), JsonParser.class);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
@@ -89,9 +89,9 @@ public class MI6Runner {
         // Creating Squad
         Agent[] agents = new Agent[json.squad.length];
         for (int i = 0; i < json.squad.length; i = i + 1) {
-          //  agents[i] = new Agent();
-            agents[i].setName(json.squad[i].name);
-            agents[i].setSerialNumber(json.squad[i].serialNumber);
+            String name = json.squad[i].name;
+            String serialNumber = json.squad[i].serialNumber;
+            agents[i] = new Agent(serialNumber, name);
         }
         squad = Squad.getInstance();
         squad.load(agents);

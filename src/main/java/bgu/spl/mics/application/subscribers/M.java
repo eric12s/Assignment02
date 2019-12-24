@@ -6,8 +6,7 @@ import bgu.spl.mics.application.messages.*;
 import bgu.spl.mics.application.passiveObjects.Diary;
 import bgu.spl.mics.application.passiveObjects.MissionInfo;
 import bgu.spl.mics.application.passiveObjects.Report;
-import jdk.internal.net.http.common.Pair;
-
+import javafx.util.Pair;
 
 
 import java.util.List;
@@ -46,11 +45,11 @@ public class M extends Subscriber {
 							Report r = new Report();
 							r.setM(id);
 							r.setMissionName(missionInfo.getMissionName());
-							r.setAgentsNames(futAgent.get().first);
+							r.setAgentsNames(futAgent.get().getKey());
 							r.setAgentsSerialNumbers(missionInfo.getSerialAgentsNumbers());
 							r.setGadgetName(missionInfo.getGadget());
 							r.setTimeIssued(missionInfo.getTimeIssued());
-							r.setMoneypenny(futAgent.get().second);
+							r.setMoneypenny(futAgent.get().getValue());
 							r.setQTime(futGadget.get());
 							r.setTimeCreated(tick);
 							Diary.getInstance().addReport(r);
