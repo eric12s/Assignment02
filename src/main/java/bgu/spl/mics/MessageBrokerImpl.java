@@ -37,10 +37,7 @@ public class MessageBrokerImpl implements MessageBroker {
 	public <T> void subscribeEvent(Class<? extends Event<T>> type, Subscriber m) {
 		synchronized (type) {
 			if (subAndQM.get(m) != null) {
-				BlockingQueue<Subscriber> t = typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
-				if (t!=null) {
-					typeAndQS.get(t).add(m);
-				}
+				typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
 				typeAndQS.get(type).add(m);
 			} else {
 				System.out.println("No Such Subscriber");
@@ -50,28 +47,24 @@ public class MessageBrokerImpl implements MessageBroker {
 	@Override
 	public void subscribeBroadcast(Class<? extends Broadcast> type, Subscriber m) {
 		if(subAndQM.get(m)!=null) {
-			if (typeAndQS.contains(type)) {
-				typeAndQS.get(type).add(m);
-			} else {
-				BlockingQueue<Subscriber> tmp = new LinkedBlockingQueue<>();
-				typeAndQS.put(type, tmp);
-				tmp.add(m);
+			typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
+			typeAndQS.get(type).add(m);
 			}
-		}
 		else{
 			System.out.println("No Such Subscriber");
 		}
 	}
 
 	@Override
-	public <T> void complete(Event<T> e, T result) {
+	public synchronized  <T> void complete(Event<T> e, T result) {
 		EvAndFut.get(e).resolve(result);
-		EvAndFut.get(e).notify();
+		this.notify();
 	}
 
 	@Override
 	public void sendBroadcast(Broadcast b) {
 		Class type = b.getClass();
+		typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
 		int size = typeAndQS.get(type).size();
 		try {
 			for(int i = 0; i < size; i++) {
@@ -85,23 +78,26 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	
 	@Override
-	public <T> Future<T> sendEvent(Event<T> e) {
+	public synchronized  <T> Future<T> sendEvent(Event<T> e) {
 		Class type = e.getClass();
-		Future<T> fut = new Future<>();
-		EvAndFut.put(e, fut);
-		if(typeAndQS.get(e.getClass()).isEmpty())
-			return null;
+		typeAndQS.putIfAbsent(e.getClass(), new LinkedBlockingQueue<>());
 		synchronized (e.getClass()) {
+			if(typeAndQS.get(type).isEmpty())
+				return null;
+			//TODO: Check if Terminated
+
 			try {
 				Subscriber tmp = typeAndQS.get(e.getClass()).take();
 				subAndQM.get(tmp).put(e);
 				typeAndQS.get(e.getClass()).put(tmp);
 			} catch (InterruptedException ex) {}
 		}
+		Future<T> fut = new Future<>();
+		EvAndFut.put(e, fut);
 
 		while(!fut.isDone()) {
 			try {
-				fut.wait();
+				wait();
 			} catch (InterruptedException ex) {}
 		}
 		return fut;

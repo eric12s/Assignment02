@@ -19,11 +19,12 @@ import java.util.List;
 public class Intelligence extends Subscriber {
 	private List<MissionInfo> infos;
 	private int tick;
+	private int id;
 
-
-	public Intelligence(LinkedList<MissionInfo> _infos) {
-		super("Intelligence");
+	public Intelligence(LinkedList<MissionInfo> _infos, int _id) {
+		super("Intelligence " + _id);
 		infos = _infos;
+		id = _id;
 	}
 
 
@@ -34,8 +35,9 @@ public class Intelligence extends Subscriber {
 				e -> {
 					tick = e.getTick();
 					for(MissionInfo m : infos){
-						int tmp = m.getTimeIssued();
-						if(tmp <= tick){
+						int start = m.getTimeIssued();
+						int end = m.getTimeExpired();
+						if(start <= tick && end >= tick){
 							this.getSimplePublisher().sendEvent(new MissionReceivedEvent(m));
 							infos.remove(m);
 						}
@@ -44,8 +46,8 @@ public class Intelligence extends Subscriber {
 		);
 
 		subscribeBroadcast(TerminateBroadcast.class,
-				e->{this.terminate();}
-				);
+				e->this.terminate()
+            );
 	}
 
 }

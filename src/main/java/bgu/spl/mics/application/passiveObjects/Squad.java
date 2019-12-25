@@ -82,10 +82,14 @@ public class Squad {
                     e.printStackTrace();
                 }
             }
+        }
+        for (String serial : serials) {
             agents.get(serial).acquire();
         }
         return true;
     }
+
+
 
 
     /**

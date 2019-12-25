@@ -22,7 +22,7 @@ public class M extends Subscriber {
 	private int id;
 
 	public M(int _id) {
-		super("Change_This_Name");
+		super("M " + _id);
 		id = _id;
 		// TODO Implement this
 	}
@@ -38,8 +38,8 @@ public class M extends Subscriber {
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
 					GadgetAvailableEvent GadgetAvail = new GadgetAvailableEvent(missionInfo.getGadget());
-					Future<Integer> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
-					if(futAgent.get() != null && futGadget != null) {
+					Future<Pair<Integer, Boolean>> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
+					if(futAgent.get() != null && futGadget.get().getValue()) {
 						if (tick <= missionInfo.getTimeExpired()) {
 							agAvail.getSendEvent().resolve(true);
 							Report r = new Report();
@@ -50,7 +50,7 @@ public class M extends Subscriber {
 							r.setGadgetName(missionInfo.getGadget());
 							r.setTimeIssued(missionInfo.getTimeIssued());
 							r.setMoneypenny(futAgent.get().getValue());
-							r.setQTime(futGadget.get());
+							r.setQTime(futGadget.get().getKey());
 							r.setTimeCreated(tick);
 							Diary.getInstance().addReport(r);
 							complete(e, true);
