@@ -3,6 +3,8 @@ package bgu.spl.mics;
 
 //import com.sun.org.apache.xpath.internal.operations.Bool;
 
+import bgu.spl.mics.application.messages.TerminateBroadcast;
+
 import java.util.concurrent.*;
 
 /**
@@ -15,6 +17,7 @@ public class MessageBrokerImpl implements MessageBroker {
 	private ConcurrentHashMap<Class<? extends Message>, BlockingQueue<Subscriber>> typeAndQS;
 	private ConcurrentHashMap<Subscriber, BlockingQueue<Message>> subAndQM;
 	private ConcurrentHashMap<Event, Future> EvAndFut;
+	private boolean terminated;
 
 	private static class MessageBrokerHolder {
 		private static MessageBrokerImpl instance = new MessageBrokerImpl();
@@ -24,6 +27,7 @@ public class MessageBrokerImpl implements MessageBroker {
 		typeAndQS = new ConcurrentHashMap<>();
 		subAndQM = new ConcurrentHashMap<>();
 		EvAndFut = new ConcurrentHashMap<>();
+		terminated = false;
 	}
 
 	/**
@@ -37,10 +41,7 @@ public class MessageBrokerImpl implements MessageBroker {
 	public <T> void subscribeEvent(Class<? extends Event<T>> type, Subscriber m) {
 		synchronized (type) {
 			if (subAndQM.get(m) != null) {
-				BlockingQueue<Subscriber> t = typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
-				if (t!=null) {
-					typeAndQS.get(t).add(m);
-				}
+				typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
 				typeAndQS.get(type).add(m);
 			} else {
 				System.out.println("No Such Subscriber");
@@ -50,30 +51,36 @@ public class MessageBrokerImpl implements MessageBroker {
 	@Override
 	public void subscribeBroadcast(Class<? extends Broadcast> type, Subscriber m) {
 		if(subAndQM.get(m)!=null) {
-			if (typeAndQS.contains(type)) {
-				typeAndQS.get(type).add(m);
-			} else {
-				BlockingQueue<Subscriber> tmp = new LinkedBlockingQueue<>();
-				typeAndQS.put(type, tmp);
-				tmp.add(m);
+			typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
+			typeAndQS.get(type).add(m);
 			}
-		}
 		else{
 			System.out.println("No Such Subscriber");
 		}
 	}
 
 	@Override
-	public <T> void complete(Event<T> e, T result) {
+	public synchronized  <T> void complete(Event<T> e, T result) {
 		EvAndFut.get(e).resolve(result);
-		EvAndFut.get(e).notify();
 	}
 
 	@Override
 	public void sendBroadcast(Broadcast b) {
+		if(terminated)
+			return;
+
 		Class type = b.getClass();
+		typeAndQS.putIfAbsent(type, new LinkedBlockingQueue<>());
 		int size = typeAndQS.get(type).size();
 		try {
+			if (type == TerminateBroadcast.class) {
+				terminated = true;
+				for (BlockingQueue<Message> tmp : subAndQM.values())
+					tmp.clear();
+				for (Future future : EvAndFut.values())
+					future.resolve(null);
+			}
+
 			for(int i = 0; i < size; i++) {
 				Subscriber s = typeAndQS.get(type).take();
 				subAndQM.get(s).add(b);
@@ -86,24 +93,26 @@ public class MessageBrokerImpl implements MessageBroker {
 	
 	@Override
 	public <T> Future<T> sendEvent(Event<T> e) {
-		Class type = e.getClass();
-		Future<T> fut = new Future<>();
-		EvAndFut.put(e, fut);
-		if(typeAndQS.get(e.getClass()).isEmpty())
+		if(terminated)
 			return null;
+
+		Class type = e.getClass();
+		typeAndQS.putIfAbsent(e.getClass(), new LinkedBlockingQueue<>());
 		synchronized (e.getClass()) {
+			if(typeAndQS.get(type).isEmpty())
+				return null;
+			//TODO: Check if Terminated
+
 			try {
 				Subscriber tmp = typeAndQS.get(e.getClass()).take();
+				System.out.println(tmp.getName() + " got message");
 				subAndQM.get(tmp).put(e);
 				typeAndQS.get(e.getClass()).put(tmp);
 			} catch (InterruptedException ex) {}
 		}
+		Future<T> fut = new Future<>();
+		EvAndFut.put(e, fut);
 
-		while(!fut.isDone()) {
-			try {
-				fut.wait();
-			} catch (InterruptedException ex) {}
-		}
 		return fut;
 	}
 

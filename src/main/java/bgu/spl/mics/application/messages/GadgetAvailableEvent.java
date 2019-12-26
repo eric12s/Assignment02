@@ -8,4 +8,8 @@ public class GadgetAvailableEvent implements Event {
     public GadgetAvailableEvent(String _gadget){
         gadget = _gadget;
     }
+
+    public String getGadget() {
+        return gadget;
+    }
 }

@@ -1,10 +1,8 @@
 package bgu.spl.mics.application;
 
 import bgu.spl.mics.application.json.JsonParser;
-import bgu.spl.mics.application.passiveObjects.Agent;
-import bgu.spl.mics.application.passiveObjects.Inventory;
-import bgu.spl.mics.application.passiveObjects.MissionInfo;
-import bgu.spl.mics.application.passiveObjects.Squad;
+import bgu.spl.mics.application.passiveObjects.*;
+import bgu.spl.mics.application.publishers.TimeService;
 import bgu.spl.mics.application.subscribers.Intelligence;
 import bgu.spl.mics.application.subscribers.M;
 import bgu.spl.mics.application.subscribers.Moneypenny;
@@ -14,6 +12,10 @@ import com.google.gson.Gson;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.LinkedList;
+import java.util.List;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingDeque;
+import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * This is the Main class of the application. You should parse the input file,
@@ -25,50 +27,71 @@ public class MI6Runner {
     private static M[] m;
     private static Moneypenny[] monneypenny;
     private static Intelligence[] intelligence;
+    private static Q q;
     private static Squad squad;
+    private static List<Thread> threadPool;
+    private static Diary diary;
+    private static TimeService timeService;
 
     public static void main(String[] args) {
-        initialize();
+        initialize(args);
 
-        Thread _intelligence = new Thread(intelligence[0]);
-        Thread _m = new Thread(m[0]);
-        Thread _monneypenny = new Thread(monneypenny[0]);
-        Thread _q = new Thread(new Q());
+        // start all threads
+        for (Thread thread : threadPool)
+            thread.start();
 
-        _intelligence.start();
-        _m.start();
-        _monneypenny.start();
-        _q.start();
+        // join all threads to the current thread
+        for (Thread thread : threadPool) {
+            try {
+                thread.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+
+        // after the threads finish their tasks
+        inventory.printToFile(args[1]);
+        diary.printToFile(args[2]);
     }
 
-    public static void initialize() {
+    public static void initialize(String args[]) {
         Gson gson = new Gson();
         JsonParser json = null;
 
         try {
-            json = gson.fromJson(new FileReader("/users/studs/bsc/2020/ericsa/workspace/Assignment02/input.json"), JsonParser.class);
+            json = gson.fromJson(new FileReader(args[0]), JsonParser.class);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+
+        threadPool = new LinkedList<>();
 
         // Creating Inventory
         inventory = Inventory.getInstance();
         inventory.load(json.inventory);
 
+        diary = Diary.getInstance();
+        //diary.setTotal(0);
+
         // Creating M
         m = new M[json.services.M];
-        for (int i = 0; i < json.services.M; i = i + 1)
+        for (int i = 0; i < json.services.M; i = i + 1) {
             m[i] = new M(i);
+            threadPool.add(new Thread(m[i]));
+        }
 
         // Creating Monneypenny
         monneypenny = new Moneypenny[json.services.Moneypenny];
-        for (int i = 0; i < json.services.Moneypenny; i = i + 1)
+        for (int i = 0; i < json.services.Moneypenny; i = i + 1) {
             monneypenny[i] = new Moneypenny(i);
+            threadPool.add(new Thread(monneypenny[i]));
+        }
+
 
         // Creating intelligence with Missions
         intelligence = new Intelligence[json.services.intelligence.length];
         int counter = 0;
-        LinkedList<MissionInfo> missions = new LinkedList<>();
+        BlockingQueue<MissionInfo> missions = new LinkedBlockingQueue<>();
         for (JsonParser.Intelligence _intelligence : json.services.intelligence) {
          //   MissionInfo[] missionInfos = gson.fromJson(json.services.intelligence ,MissionInfo[].class);
             for (JsonParser.Mession mission : _intelligence.missions) {
@@ -81,19 +104,27 @@ public class MI6Runner {
                 missionInfo.setTimeIssued(mission.timeIssued);
                 missions.add(missionInfo);
             }
-            intelligence[counter] = new Intelligence(missions);
-            counter = counter + 1;
+            intelligence[counter] = new Intelligence(missions, counter);
+            threadPool.add(new Thread(intelligence[counter]));
+            counter++;
         }
 
+        //Creating TimeService
+        timeService = new TimeService(json.services.time);
+        threadPool.add(new Thread(timeService));
+
+        //creating q
+        q = new Q();
+        threadPool.add(new Thread(q));
 
         // Creating Squad
+        squad = Squad.getInstance();
         Agent[] agents = new Agent[json.squad.length];
         for (int i = 0; i < json.squad.length; i = i + 1) {
-          //  agents[i] = new Agent();
-            agents[i].setName(json.squad[i].name);
-            agents[i].setSerialNumber(json.squad[i].serialNumber);
+            String name = json.squad[i].name;
+            String serialNumber = json.squad[i].serialNumber;
+            agents[i] = new Agent(serialNumber, name);
         }
-        squad = Squad.getInstance();
         squad.load(agents);
     }
 }

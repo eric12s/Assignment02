@@ -23,8 +23,8 @@ public class MessageBrokerTest {
     myBroadcast br;
     @BeforeEach
     public void setUp(){
-        sub1 = new M();
-        sub2 = new M();
+        sub1 = new M(1);
+        sub2 = new M(2);
 
         mb = MessageBrokerImpl.getInstance();
         mb.register(sub1);
@@ -69,7 +69,7 @@ public class MessageBrokerTest {
 
     @Test
     public void registerTest(){
-        Subscriber s3 = new M();
+        Subscriber s3 = new M(3);
         mb.register(s3);
         mb.subscribeEvent(ev.getClass(), s3);
         mb.sendEvent(ev);
@@ -83,7 +83,7 @@ public class MessageBrokerTest {
 
     @Test
     public void sendEventTest(){
-        Subscriber s3 = new M();
+        Subscriber s3 = new M(3);
         mb.register(s3);
         mb.subscribeEvent(ev.getClass(), s3);
         mb.sendEvent(ev);
@@ -97,7 +97,7 @@ public class MessageBrokerTest {
 
     @Test
     public void sendBroadcastTest(){
-        Subscriber s3 = new M();
+        Subscriber s3 = new M(3);
         mb.register(s3);
         mb.subscribeBroadcast(br.getClass(), s3);
         mb.sendBroadcast(br);
