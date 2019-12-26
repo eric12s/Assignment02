@@ -1,5 +1,7 @@
 package bgu.spl.mics.application.json;
 
+import bgu.spl.mics.application.passiveObjects.MissionInfo;
+
 import java.util.List;
 
 public class JsonParser {
@@ -12,17 +14,17 @@ public class JsonParser {
         public String serialNumber;
     }
 
-    public class Mession {
+    public class Mission {
         public List<String> serialAgentsNumbers;
         public int duration;
         public String gadget;
-        public String missionName;
+        public String name;
         public int timeExpired;
         public int timeIssued;
     }
 
     public class Intelligence {
-        public Mession[] missions;
+        public Mission[] missions;
     }
 
     public class Services {

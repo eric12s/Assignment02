@@ -4,10 +4,7 @@ import bgu.spl.mics.application.messages.MissionReceivedEvent;
 import bgu.spl.mics.application.messages.TerminateBroadcast;
 import bgu.spl.mics.application.messages.TickBroadcast;
 import bgu.spl.mics.application.passiveObjects.MissionInfo;
-
-
-import java.util.LinkedList;
-import java.util.List;
+import java.util.concurrent.BlockingQueue;
 
 /**
  * A Publisher\Subscriber.
@@ -17,11 +14,11 @@ import java.util.List;
  * You MAY change constructor signatures and even add new public constructors.
  */
 public class Intelligence extends Subscriber {
-	private List<MissionInfo> infos;
+	private BlockingQueue<MissionInfo> infos;
 	private int tick;
 	private int id;
 
-	public Intelligence(LinkedList<MissionInfo> _infos, int _id) {
+	public Intelligence(BlockingQueue<MissionInfo> _infos, int _id) {
 		super("Intelligence " + _id);
 		infos = _infos;
 		id = _id;

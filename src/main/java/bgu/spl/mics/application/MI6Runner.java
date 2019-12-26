@@ -13,6 +13,9 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingDeque;
+import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * This is the Main class of the application. You should parse the input file,
@@ -88,15 +91,15 @@ public class MI6Runner {
         // Creating intelligence with Missions
         intelligence = new Intelligence[json.services.intelligence.length];
         int counter = 0;
-        LinkedList<MissionInfo> missions = new LinkedList<>();
+
         for (JsonParser.Intelligence _intelligence : json.services.intelligence) {
-         //   MissionInfo[] missionInfos = gson.fromJson(json.services.intelligence ,MissionInfo[].class);
-            for (JsonParser.Mession mission : _intelligence.missions) {
+            BlockingQueue<MissionInfo> missions = new LinkedBlockingQueue<>();
+            for (JsonParser.Mission mission : _intelligence.missions) {
                 MissionInfo missionInfo = new MissionInfo();
                 missionInfo.setSerialAgentsNumbers(mission.serialAgentsNumbers);
                 missionInfo.setDuration(mission.duration);
                 missionInfo.setGadget(mission.gadget);
-                missionInfo.setMissionName(mission.missionName);
+                missionInfo.setMissionName(mission.name);
                 missionInfo.setTimeExpired(mission.timeExpired);
                 missionInfo.setTimeIssued(mission.timeIssued);
                 missions.add(missionInfo);
@@ -107,7 +110,7 @@ public class MI6Runner {
         }
 
         //Creating TimeService
-        timeService = new TimeService();//TODO: change this const
+        timeService = new TimeService(json.services.time);
         threadPool.add(new Thread(timeService));
 
         //creating q

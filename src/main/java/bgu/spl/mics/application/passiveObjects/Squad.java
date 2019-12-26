@@ -70,6 +70,7 @@ public class Squad {
 	 * @return ‘false’ if an agent of serialNumber ‘serial’ is missing, and ‘true’ otherwise
 	 */
 	public synchronized boolean getAgents(List<String> serials) {
+	    serials.sort(String::compareTo);
         for (String serial : serials) {
             if (!agents.containsKey(serial))
                 return false;

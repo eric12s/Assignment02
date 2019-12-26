@@ -5,7 +5,6 @@ import bgu.spl.mics.application.messages.AgentsAvailableEvent;
 import bgu.spl.mics.application.messages.TerminateBroadcast;
 import bgu.spl.mics.application.messages.TickBroadcast;
 import bgu.spl.mics.application.passiveObjects.Squad;
-import javafx.util.Pair;
 
 import java.util.List;
 
@@ -31,13 +30,14 @@ public class Moneypenny extends Subscriber {
 	@Override
 	protected void initialize() {
 		subscribeEvent(AgentsAvailableEvent.class, e -> {
+			System.out.println("Moneypenny got AgentAvailableEvent");
 			List<String> serialNumbers = e.getSerialNumbers();
 			boolean b =Squad.getInstance().getAgents(serialNumbers);
+			Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);
+			complete(e, pair);
 			if(b){
 				if(e.getSendEvent().get()){
-					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getTimeIssued());
-					Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);
-					complete(e, pair);
+					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getDuration());
 				}
 				else{
 					Squad.getInstance().releaseAgents(serialNumbers);

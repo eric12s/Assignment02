@@ -5,7 +5,6 @@ import bgu.spl.mics.application.messages.GadgetAvailableEvent;
 import bgu.spl.mics.application.messages.TerminateBroadcast;
 import bgu.spl.mics.application.messages.TickBroadcast;
 import bgu.spl.mics.application.passiveObjects.Inventory;
-import javafx.util.Pair;
 
 /**
  * Q is the only Subscriber\Publisher that has access to the {@link bgu.spl.mics.application.passiveObjects.Inventory}.
@@ -27,6 +26,7 @@ public class Q extends Subscriber {
 		subscribeBroadcast(TickBroadcast.class, e -> tick = e.getTick());
 
 		subscribeEvent(GadgetAvailableEvent.class, e ->{
+			System.out.println("Q got GadgetAvailableEvent");
 			Pair<Integer, Boolean> pair = new Pair<>(tick, inv.getItem(e.getGadget()));
 			complete(e,  pair);
 		});

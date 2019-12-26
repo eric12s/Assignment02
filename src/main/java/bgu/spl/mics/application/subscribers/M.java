@@ -6,7 +6,6 @@ import bgu.spl.mics.application.messages.*;
 import bgu.spl.mics.application.passiveObjects.Diary;
 import bgu.spl.mics.application.passiveObjects.MissionInfo;
 import bgu.spl.mics.application.passiveObjects.Report;
-import javafx.util.Pair;
 
 
 import java.util.List;
@@ -29,28 +28,33 @@ public class M extends Subscriber {
 
 	@Override
 	protected void initialize() {
+	    System.out.println(id);
 		subscribeBroadcast(TickBroadcast.class, e -> tick = e.getTick());
 
 		subscribeEvent(MissionReceivedEvent.class,
 				e ->
 				{
+					System.out.println("M got MissionReceivedEvent");
 					MissionInfo missionInfo = e.getMissionInfo();
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
+
+					System.out.println("M send AgentAvailable Event");
 					GadgetAvailableEvent GadgetAvail = new GadgetAvailableEvent(missionInfo.getGadget());
 					Future<Pair<Integer, Boolean>> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
-					if(futAgent.get() != null && futGadget.get().getValue()) {
-						if (tick <= missionInfo.getTimeExpired()) {
+					System.out.println("M send GadgetAvailableEvent");
+					if(futAgent != null &&futAgent.get() != null && futGadget != null &&  futGadget.get() != null && futGadget.get().getElement1()) {
+						if (tick < missionInfo.getTimeExpired()) {
 							agAvail.getSendEvent().resolve(true);
 							Report r = new Report();
 							r.setM(id);
 							r.setMissionName(missionInfo.getMissionName());
-							r.setAgentsNames(futAgent.get().getKey());
+							r.setAgentsNames(futAgent.get().getElement0());
 							r.setAgentsSerialNumbers(missionInfo.getSerialAgentsNumbers());
 							r.setGadgetName(missionInfo.getGadget());
 							r.setTimeIssued(missionInfo.getTimeIssued());
-							r.setMoneypenny(futAgent.get().getValue());
-							r.setQTime(futGadget.get().getKey());
+							r.setMoneypenny(futAgent.get().getElement1());
+							r.setQTime(futGadget.get().getElement0());
 							r.setTimeCreated(tick);
 							Diary.getInstance().addReport(r);
 							complete(e, true);
