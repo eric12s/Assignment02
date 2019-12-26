@@ -28,6 +28,11 @@ public class Diary {
 		return DiaryHolder.instance;
 	}
 
+	public void clear() {
+		reports.clear();
+		total = 0;
+	}
+
 	private static class DiaryHolder {
 		private static Diary instance = new Diary();
 	}

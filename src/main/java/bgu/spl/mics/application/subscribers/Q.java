@@ -26,9 +26,11 @@ public class Q extends Subscriber {
 		subscribeBroadcast(TickBroadcast.class, e -> tick = e.getTick());
 
 		subscribeEvent(GadgetAvailableEvent.class, e ->{
-			System.out.println("Q got GadgetAvailableEvent");
-			Pair<Integer, Boolean> pair = new Pair<>(tick, inv.getItem(e.getGadget()));
-			complete(e,  pair);
+			boolean isAvailable = inv.getItem(e.getGadget());
+			Pair<Integer, Boolean> pair = new Pair<>(tick, isAvailable);
+            complete(e,  pair);
+            if(isAvailable && e.getReturnGadget().get())
+			    inv.addGadget(e.getGadget());
 		});
 
 		subscribeBroadcast(TerminateBroadcast.class, e -> terminate());

@@ -30,7 +30,6 @@ public class Moneypenny extends Subscriber {
 	@Override
 	protected void initialize() {
 		subscribeEvent(AgentsAvailableEvent.class, e -> {
-			System.out.println("Moneypenny got AgentAvailableEvent");
 			List<String> serialNumbers = e.getSerialNumbers();
 			boolean b =Squad.getInstance().getAgents(serialNumbers);
 			Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);

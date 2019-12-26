@@ -21,6 +21,10 @@ import java.util.Locale;
 public class Inventory {
 	private List<String> gadgets;
 
+	public void addGadget(String gadget) {
+		gadgets.add(gadget);
+	}
+
 	private static class InventoryHolder {
 		private static Inventory instance = new Inventory();
 	}

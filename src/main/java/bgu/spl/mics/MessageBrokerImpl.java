@@ -117,7 +117,6 @@ public class MessageBrokerImpl implements MessageBroker {
 
 			try {
 				Subscriber tmp = typeAndQS.get(e.getClass()).take();
-				System.out.println(tmp.getName() + " got message");
 				subAndQM.get(tmp).put(e);
 				typeAndQS.get(e.getClass()).put(tmp);
 			} catch (InterruptedException ex) {}
@@ -159,7 +158,14 @@ public class MessageBrokerImpl implements MessageBroker {
 			return subAndQM.get(m).take();
 	}
 
-	
+	@Override
+	public void clear() {
+		typeAndQS.clear();
+		subAndQM.clear();
+		EvAndFut.clear();
+		terminated = false;
+	}
+
 
 }
 
