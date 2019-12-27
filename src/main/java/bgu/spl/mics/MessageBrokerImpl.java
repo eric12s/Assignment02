@@ -69,7 +69,10 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	@Override
 	public synchronized  <T> void complete(Event<T> e, T result) {
-		EvAndFut.get(e).resolve(result);
+		if(!terminated)
+			EvAndFut.get(e).resolve(result);
+		else
+			EvAndFut.get(e).resolve(null);
 	}
 
 	@Override
@@ -83,6 +86,8 @@ public class MessageBrokerImpl implements MessageBroker {
 		try {
 			if (type == TerminateBroadcast.class) {
 				terminated = true;
+				for(Subscriber sub : subAndQM.keySet())
+					sub.terminate();
 				for (BlockingQueue<Message> tmp : subAndQM.values())
 					tmp.clear();
 				for (Future future : EvAndFut.values())

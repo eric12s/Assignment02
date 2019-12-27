@@ -39,38 +39,36 @@ public class M extends Subscriber {
 					MissionInfo missionInfo = e.getMissionInfo();
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
-
-					GadgetAvailableEvent GadgetAvail = new GadgetAvailableEvent(missionInfo.getGadget());
-					Future<Pair<Integer, Boolean>> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
-					//futGadget.get();
-					//System.out.println("M is done waiting for futGadget");
-					//futGadget.get().getElement1();
-					if(futAgent != null && futAgent.get().getElement0() != null && futGadget != null &&  futGadget.get() != null && futGadget.get().getElement1()) {
-						if (tick < missionInfo.getTimeExpired()) {
-							agAvail.getSendEvent().resolve(true);
-							GadgetAvail.getReturnGadget().resolve(false);
-							Report r = new Report();
-							r.setM(id);
-							r.setMissionName(missionInfo.getMissionName());
-							r.setAgentsNames(futAgent.get().getElement0());
-							r.setAgentsSerialNumbers(missionInfo.getSerialAgentsNumbers());
-							r.setGadgetName(missionInfo.getGadget());
-							r.setTimeIssued(missionInfo.getTimeIssued());
-							r.setMoneypenny(futAgent.get().getElement1());
-							r.setQTime(futGadget.get().getElement0());
-							r.setTimeCreated(tick);
-							System.out.println(r.getMissionName());
-							Diary.getInstance().addReport(r);
-							complete(e, true);
+					if(futAgent != null && futAgent.get() != null && futAgent.get().getElement0() != null) {
+						GadgetAvailableEvent GadgetAvail = new GadgetAvailableEvent(missionInfo.getGadget());
+						Future<Pair<Integer, Boolean>> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
+						if (futGadget != null && futGadget.get() != null && futGadget.get().getElement1()) {
+							if (tick < missionInfo.getTimeExpired()) {
+								agAvail.getSendEvent().resolve(true);
+								GadgetAvail.getReturnGadget().resolve(false);
+								Report r = new Report();
+								r.setM(id);
+								r.setMissionName(missionInfo.getMissionName());
+								r.setAgentsNames(futAgent.get().getElement0());
+								r.setAgentsSerialNumbers(missionInfo.getSerialAgentsNumbers());
+								r.setGadgetName(missionInfo.getGadget());
+								r.setTimeIssued(missionInfo.getTimeIssued());
+								r.setMoneypenny(futAgent.get().getElement1());
+								r.setQTime(futGadget.get().getElement0());
+								r.setTimeCreated(tick);
+								System.out.println(r.getMissionName());
+								Diary.getInstance().addReport(r);
+								complete(e, true);
+							} else {
+								complete(e, false);
+								agAvail.getSendEvent().resolve(false);
+								GadgetAvail.getReturnGadget().resolve(true);//TODO: Check if need to return gadget when tick is too late
+							}
 						} else {
 							complete(e, false);
 							agAvail.getSendEvent().resolve(false);
 							GadgetAvail.getReturnGadget().resolve(true);
 						}
-					}else{
-						complete(e, false);
-						agAvail.getSendEvent().resolve(false);
-						GadgetAvail.getReturnGadget().resolve(true);
 					}
 					Diary.getInstance().incrementTotal();
 				});
