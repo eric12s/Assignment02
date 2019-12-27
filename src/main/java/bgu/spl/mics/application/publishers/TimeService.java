@@ -34,7 +34,6 @@ public class TimeService extends Publisher {
 	public void run() {
 		while(currentTick != lastTick){
 			increaseTick();
-			System.out.println(currentTick);
 			getSimplePublisher().sendBroadcast(new TickBroadcast(currentTick));
 		}
 		getSimplePublisher().sendBroadcast(new TerminateBroadcast());

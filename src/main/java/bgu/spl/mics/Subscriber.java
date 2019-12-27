@@ -117,10 +117,10 @@ public abstract class Subscriber extends RunnableSubPub {
     public final void run() {
         mb.register(this);
         initialize();
+        System.out.println(this.getName() + " register");
         while (!terminated) {
             try {
                 Message m = mb.awaitMessage(this);
-                System.out.println(this.getName() + " got a message");
                 map.get(m.getClass()).call(m);
             } catch (InterruptedException e) {
                 e.printStackTrace();
@@ -128,6 +128,7 @@ public abstract class Subscriber extends RunnableSubPub {
 
         }
         mb.unregister(this);
+        System.out.println(this.getName());
     }
 
 }

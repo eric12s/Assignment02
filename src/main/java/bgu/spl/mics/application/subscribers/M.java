@@ -35,7 +35,6 @@ public class M extends Subscriber {
 		subscribeEvent(MissionReceivedEvent.class,
 				e ->
 				{
-					System.out.println("M Received a mission");
 					MissionInfo missionInfo = e.getMissionInfo();
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
@@ -56,7 +55,6 @@ public class M extends Subscriber {
 								r.setMoneypenny(futAgent.get().getElement1());
 								r.setQTime(futGadget.get().getElement0());
 								r.setTimeCreated(tick);
-								System.out.println(r.getMissionName());
 								Diary.getInstance().addReport(r);
 								complete(e, true);
 							} else {

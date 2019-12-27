@@ -86,8 +86,7 @@ public class MessageBrokerImpl implements MessageBroker {
 		try {
 			if (type == TerminateBroadcast.class) {
 				terminated = true;
-				for(Subscriber sub : subAndQM.keySet())
-					sub.terminate();
+
 				for (BlockingQueue<Message> tmp : subAndQM.values())
 					tmp.clear();
 				for (Future future : EvAndFut.values())
@@ -98,6 +97,11 @@ public class MessageBrokerImpl implements MessageBroker {
 				Subscriber s = typeAndQS.get(type).take();
 				subAndQM.get(s).add(b);
 				typeAndQS.get(type).add(s);
+			}
+
+			if(terminated) {
+				for (Subscriber sub : subAndQM.keySet())
+					sub.terminate();
 			}
 		}
 		catch (InterruptedException e){}
@@ -113,7 +117,6 @@ public class MessageBrokerImpl implements MessageBroker {
 		typeAndQS.putIfAbsent(e.getClass(), new LinkedBlockingQueue<>());
 		synchronized (e.getClass()) {
 			if(typeAndQS.get(type).isEmpty()) {
-				System.out.println("null because empty");
 				return null;
 			}
 			if(terminated)
@@ -138,7 +141,6 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	@Override
 	public void unregister(Subscriber m) {
-		System.out.println(m.getName() + " is unregistering");
 		try {
 			while (!subAndQM.get(m).isEmpty()) {
 				Message tmp = subAndQM.get(m).take();
@@ -160,8 +162,7 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	@Override
 	public Message awaitMessage(Subscriber m) throws InterruptedException {
-		System.out.println(m.getName() + " is waiting for message");
-			return subAndQM.get(m).take();
+		return subAndQM.get(m).take();
 	}
 
 	@Override
@@ -175,6 +176,7 @@ public class MessageBrokerImpl implements MessageBroker {
 
 }
 
+
 /*
 
 package bgu.spl.mics;
@@ -185,6 +187,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 
+
 */
 /**
  * The {@link MessageBrokerImpl class is the implementation of the MessageBroker interface.
@@ -192,7 +195,8 @@ import java.util.concurrent.LinkedBlockingQueue;
  * Only private fields and methods can be added to this class.
  *//*
 
-public class MessageBrokerImpl implements MessageBroker {
+
+/*public class MessageBrokerImpl implements MessageBroker {
     private static class MessageBrokerImplHolder {
         private static MessageBrokerImpl instance = new MessageBrokerImpl();
     }
@@ -211,8 +215,8 @@ public class MessageBrokerImpl implements MessageBroker {
         terminated = false;
     }
 
-    */
-/**
+
+*//**
      * Retrieves the single instance of this class.
      *//*
 
@@ -340,5 +344,5 @@ public class MessageBrokerImpl implements MessageBroker {
         allFutures.clear();
         terminated = false;
     }
-}
-*/
+}*/
+
