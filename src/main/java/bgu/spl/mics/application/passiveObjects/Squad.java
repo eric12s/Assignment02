@@ -105,6 +105,8 @@ public class Squad {
                 names.add(agents.get(serial).getName());
             }
         }
+        if(names.size() == 0)
+            return null;
         return names;
     }
 

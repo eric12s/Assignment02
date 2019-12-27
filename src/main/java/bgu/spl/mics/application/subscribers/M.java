@@ -1,6 +1,8 @@
 package bgu.spl.mics.application.subscribers;
 
 import bgu.spl.mics.Future;
+import bgu.spl.mics.MessageBroker;
+import bgu.spl.mics.MessageBrokerImpl;
 import bgu.spl.mics.Subscriber;
 import bgu.spl.mics.application.messages.*;
 import bgu.spl.mics.application.passiveObjects.Diary;
@@ -33,13 +35,17 @@ public class M extends Subscriber {
 		subscribeEvent(MissionReceivedEvent.class,
 				e ->
 				{
+					System.out.println("M Received a mission");
 					MissionInfo missionInfo = e.getMissionInfo();
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
 
 					GadgetAvailableEvent GadgetAvail = new GadgetAvailableEvent(missionInfo.getGadget());
 					Future<Pair<Integer, Boolean>> futGadget = getSimplePublisher().sendEvent(GadgetAvail);
-					if(futAgent != null &&futAgent.get() != null && futGadget != null &&  futGadget.get() != null && futGadget.get().getElement1()) {
+					//futGadget.get();
+					//System.out.println("M is done waiting for futGadget");
+					//futGadget.get().getElement1();
+					if(futAgent != null && futAgent.get().getElement0() != null && futGadget != null &&  futGadget.get() != null && futGadget.get().getElement1()) {
 						if (tick < missionInfo.getTimeExpired()) {
 							agAvail.getSendEvent().resolve(true);
 							GadgetAvail.getReturnGadget().resolve(false);

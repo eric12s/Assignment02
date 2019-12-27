@@ -40,10 +40,8 @@ public class Moneypenny extends Subscriber {
 				}
 				else{
 					Squad.getInstance().releaseAgents(serialNumbers);
-					complete(e, null);
+					//complete(e, null);
 				}
-			}else{
-				complete(e, null);
 			}
 		});
 

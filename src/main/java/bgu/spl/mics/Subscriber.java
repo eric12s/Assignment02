@@ -116,6 +116,7 @@ public abstract class Subscriber extends RunnableSubPub {
         while (!terminated) {
             try {
                 Message m = mb.awaitMessage(this);
+                System.out.println(this.getName() + " got a message");
                 map.get(m.getClass()).call(m);
             } catch (InterruptedException e) {
                 e.printStackTrace();
