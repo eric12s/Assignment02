@@ -91,15 +91,15 @@ public class MI6Runner {
         // Creating intelligence with Missions
         intelligence = new Intelligence[json.services.intelligence.length];
         int counter = 0;
-        BlockingQueue<MissionInfo> missions = new LinkedBlockingQueue<>();
+
         for (JsonParser.Intelligence _intelligence : json.services.intelligence) {
-         //   MissionInfo[] missionInfos = gson.fromJson(json.services.intelligence ,MissionInfo[].class);
-            for (JsonParser.Mession mission : _intelligence.missions) {
+            BlockingQueue<MissionInfo> missions = new LinkedBlockingQueue<>();
+            for (JsonParser.Mission mission : _intelligence.missions) {
                 MissionInfo missionInfo = new MissionInfo();
                 missionInfo.setSerialAgentsNumbers(mission.serialAgentsNumbers);
                 missionInfo.setDuration(mission.duration);
                 missionInfo.setGadget(mission.gadget);
-                missionInfo.setMissionName(mission.missionName);
+                missionInfo.setMissionName(mission.name);
                 missionInfo.setTimeExpired(mission.timeExpired);
                 missionInfo.setTimeIssued(mission.timeIssued);
                 missions.add(missionInfo);

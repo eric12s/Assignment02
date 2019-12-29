@@ -32,6 +32,10 @@ public abstract class Subscriber extends RunnableSubPub {
         map = new HashMap<>();
     }
 
+    public boolean isTerminated() {
+        return terminated;
+    }
+
     /**
      * Subscribes to events of type {@code type} with the callback
      * {@code callback}. This means two things:

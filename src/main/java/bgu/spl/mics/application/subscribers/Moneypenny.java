@@ -30,21 +30,23 @@ public class Moneypenny extends Subscriber {
 	@Override
 	protected void initialize() {
 		subscribeEvent(AgentsAvailableEvent.class, e -> {
-			System.out.println("Moneypenny got AgentAvailableEvent");
 			List<String> serialNumbers = e.getSerialNumbers();
-			boolean b =Squad.getInstance().getAgents(serialNumbers);
+			boolean b = squad.getAgents(serialNumbers);
+			if(isTerminated()) {
+				complete(e, null);
+				squad.releaseAgents(serialNumbers);
+				return;
+			}
+
 			Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);
 			complete(e, pair);
 			if(b){
-				if(e.getSendEvent().get()){
-					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getTimeIssued());
+				if(!isTerminated() && e.getSendEvent() != null && e.getSendEvent().get()){
+					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getDuration());
 				}
 				else{
 					Squad.getInstance().releaseAgents(serialNumbers);
-					complete(e, null);
 				}
-			}else{
-				complete(e, null);
 			}
 		});
 

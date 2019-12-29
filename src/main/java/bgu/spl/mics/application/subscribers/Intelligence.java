@@ -34,7 +34,7 @@ public class Intelligence extends Subscriber {
 					for(MissionInfo m : infos){
 						int start = m.getTimeIssued();
 						int end = m.getTimeExpired();
-						if(start <= tick && end >= tick){
+						if(start <= tick && end >= tick && !isTerminated()){
 							this.getSimplePublisher().sendEvent(new MissionReceivedEvent(m));
 							infos.remove(m);
 						}
