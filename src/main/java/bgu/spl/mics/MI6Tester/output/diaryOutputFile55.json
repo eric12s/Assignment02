@@ -1,0 +1,67 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 3,
+      "QTime": 12,
+      "timeCreated": 3
+    },
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 5,
+      "QTime": 16,
+      "timeCreated": 5
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 1,
+      "QTime": 21,
+      "timeCreated": 1
+    }
+  ],
+  "total": 7
+}

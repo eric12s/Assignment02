@@ -1,0 +1,241 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "006"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 7,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jessica",
+        "Squanchy",
+        "Jerry Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 4,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Mr. Needful"
+      ],
+      "gadgetName": "Laser Gun5",
+      "timeIssued": 14,
+      "QTime": 16,
+      "timeCreated": 14
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 13,
+      "QTime": 16,
+      "timeCreated": 13
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "009"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Evil Morty"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 13,
+      "QTime": 29,
+      "timeCreated": 13
+    },
+    {
+      "M": 4,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Summer Smith",
+        "Tammy Gueterman",
+        "Jerry Smith",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 42,
+      "QTime": 48,
+      "timeCreated": 42
+    },
+    {
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Needful"
+      ],
+      "gadgetName": "Dark matter5",
+      "timeIssued": 25,
+      "QTime": 48,
+      "timeCreated": 25
+    },
+    {
+      "M": 8,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 19,
+      "QTime": 72,
+      "timeCreated": 19
+    },
+    {
+      "M": 6,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 47,
+      "QTime": 72,
+      "timeCreated": 47
+    },
+    {
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "008"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Summer Smith",
+        "Fart",
+        "Mr. Needful"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 22,
+      "QTime": 74,
+      "timeCreated": 22
+    },
+    {
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 42,
+      "QTime": 102,
+      "timeCreated": 42
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "009"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jessica",
+        "Tammy Gueterman",
+        "Evil Morty"
+      ],
+      "gadgetName": "Ionic Defibulizer5",
+      "timeIssued": 32,
+      "QTime": 106,
+      "timeCreated": 32
+    },
+    {
+      "M": 10,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Mr. Needful"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 27,
+      "QTime": 120,
+      "timeCreated": 27
+    },
+    {
+      "M": 7,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Tammy Gueterman",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 44,
+      "QTime": 127,
+      "timeCreated": 44
+    }
+  ],
+  "total": 25
+}

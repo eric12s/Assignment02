@@ -1,0 +1,243 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Mr. Poopybutthole",
+        "Eyeholes Man",
+        "Summer Smith"
+      ],
+      "gadgetName": "Cognition amplifier5",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Eyeholes Man",
+        "Snuffles"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 3,
+      "QTime": 12,
+      "timeCreated": 3
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 3,
+      "QTime": 12,
+      "timeCreated": 3
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Birdperson",
+        "Arthricia",
+        "Tinkles",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers4",
+      "timeIssued": 6,
+      "QTime": 22,
+      "timeCreated": 6
+    },
+    {
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Summer Smith"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 21,
+      "QTime": 25,
+      "timeCreated": 21
+    },
+    {
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "009"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Snuffles"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 13,
+      "QTime": 30,
+      "timeCreated": 13
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Birdperson",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Eyeholes Man",
+        "Snuffles"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 14,
+      "QTime": 49,
+      "timeCreated": 14
+    },
+    {
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 15,
+      "QTime": 49,
+      "timeCreated": 15
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Laser Gun6",
+      "timeIssued": 4,
+      "QTime": 53,
+      "timeCreated": 4
+    },
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Birdperson"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 28,
+      "QTime": 53,
+      "timeCreated": 28
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Dr. Glip-Glop",
+        "Snuffles"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 32,
+      "QTime": 61,
+      "timeCreated": 32
+    },
+    {
+      "M": 19,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Tinkles"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 28,
+      "QTime": 61,
+      "timeCreated": 28
+    },
+    {
+      "M": 8,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "008"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Summer Smith"
+      ],
+      "gadgetName": "Purge Suit5",
+      "timeIssued": 13,
+      "QTime": 61,
+      "timeCreated": 13
+    }
+  ],
+  "total": 33
+}

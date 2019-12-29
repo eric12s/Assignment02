@@ -1,0 +1,95 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Tinkles"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Tophat Jones"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 5,
+      "QTime": 13,
+      "timeCreated": 5
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Fart",
+        "Loggins",
+        "Beta VII",
+        "Beth Smith"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 4,
+      "QTime": 13,
+      "timeCreated": 4
+    },
+    {
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Tinkles",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 2,
+      "QTime": 14,
+      "timeCreated": 2
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Fart",
+        "Morty Smith",
+        "Beth Smith"
+      ],
+      "gadgetName": "Curse Remover3",
+      "timeIssued": 2,
+      "QTime": 18,
+      "timeCreated": 2
+    }
+  ],
+  "total": 16
+}

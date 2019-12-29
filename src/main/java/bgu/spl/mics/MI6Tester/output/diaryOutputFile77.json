@@ -1,0 +1,157 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Morty Jr.",
+        "Tinkles",
+        "Abradolf Lincler",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Morty Jr.",
+        "Tinkles",
+        "Abradolf Lincler",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 1,
+      "QTime": 8,
+      "timeCreated": 1
+    },
+    {
+      "M": 10,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Fart"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 16,
+      "QTime": 22,
+      "timeCreated": 16
+    },
+    {
+      "M": 9,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 15,
+      "QTime": 22,
+      "timeCreated": 15
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 14,
+      "QTime": 22,
+      "timeCreated": 14
+    },
+    {
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 14,
+      "QTime": 62,
+      "timeCreated": 14
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Fart",
+        "Tinkles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 8,
+      "QTime": 62,
+      "timeCreated": 8
+    },
+    {
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 29,
+      "QTime": 63,
+      "timeCreated": 29
+    },
+    {
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "King Jellybean"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 12,
+      "QTime": 63,
+      "timeCreated": 12
+    }
+  ],
+  "total": 20
+}

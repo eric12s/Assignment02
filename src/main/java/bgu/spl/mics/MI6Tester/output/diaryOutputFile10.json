@@ -1,0 +1,353 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 11,
+      "QTime": 15,
+      "timeCreated": 11
+    },
+    {
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 10,
+      "QTime": 15,
+      "timeCreated": 10
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 28,
+      "QTime": 30,
+      "timeCreated": 28
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 4,
+      "QTime": 32,
+      "timeCreated": 4
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Morty Jr.",
+        "Gazorpazorpfield",
+        "Squanchy",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 17,
+      "QTime": 40,
+      "timeCreated": 17
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 17,
+      "QTime": 40,
+      "timeCreated": 17
+    },
+    {
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Morty Smith",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 33,
+      "QTime": 56,
+      "timeCreated": 33
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 37,
+      "QTime": 56,
+      "timeCreated": 37
+    },
+    {
+      "M": 13,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 37,
+      "QTime": 56,
+      "timeCreated": 37
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr."
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 51,
+      "QTime": 60,
+      "timeCreated": 51
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 56,
+      "QTime": 72,
+      "timeCreated": 56
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 42,
+      "QTime": 87,
+      "timeCreated": 42
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 58,
+      "QTime": 87,
+      "timeCreated": 58
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 25,
+      "QTime": 93,
+      "timeCreated": 25
+    },
+    {
+      "M": 5,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Morty Jr.",
+        "Squanchy",
+        "Mr. Meeseeks",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 102,
+      "QTime": 113,
+      "timeCreated": 102
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 20,
+      "QTime": 121,
+      "timeCreated": 20
+    },
+    {
+      "M": 11,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Morty Jr.",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 79,
+      "QTime": 124,
+      "timeCreated": 79
+    },
+    {
+      "M": 8,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "008"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 68,
+      "QTime": 124,
+      "timeCreated": 68
+    },
+    {
+      "M": 1,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Morty Jr.",
+        "Mr. Poopybutthole",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 93,
+      "QTime": 138,
+      "timeCreated": 93
+    }
+  ],
+  "total": 34
+}

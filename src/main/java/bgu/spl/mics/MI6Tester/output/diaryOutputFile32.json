@@ -1,0 +1,93 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jerry\u0027s Mytholog",
+        "Summer Smith",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Evil Morty",
+        "Stealy"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Jerry\u0027s Mytholog",
+        "Summer Smith"
+      ],
+      "gadgetName": "Combat suit3",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "M": 5,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 8,
+      "QTime": 22,
+      "timeCreated": 8
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Evil Morty",
+        "Stealy"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 11,
+      "QTime": 34,
+      "timeCreated": 11
+    }
+  ],
+  "total": 23
+}

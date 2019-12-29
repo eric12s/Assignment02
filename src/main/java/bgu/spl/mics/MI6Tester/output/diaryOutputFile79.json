@@ -1,0 +1,21 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    }
+  ],
+  "total": 6
+}

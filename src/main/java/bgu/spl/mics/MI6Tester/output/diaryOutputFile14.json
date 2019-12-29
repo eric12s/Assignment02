@@ -1,0 +1,297 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Stealy",
+        "Squanchy",
+        "Mr. Goldenfold",
+        "Snuffles"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Mr. Meeseeks",
+        "Squanchy",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Timeline viewer4",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "005",
+        "009"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Dr. Glip-Glop",
+        "Snuffles"
+      ],
+      "gadgetName": "Shrink ray8",
+      "timeIssued": 5,
+      "QTime": 18,
+      "timeCreated": 5
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Goldenfold",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 17,
+      "QTime": 18,
+      "timeCreated": 17
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Morty Jr.",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Timeline viewer5",
+      "timeIssued": 11,
+      "QTime": 20,
+      "timeCreated": 11
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Mr. Meeseeks",
+        "Stealy",
+        "Baby Legs"
+      ],
+      "gadgetName": "Grappling Shoes3",
+      "timeIssued": 15,
+      "QTime": 22,
+      "timeCreated": 15
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Stealy",
+        "Dr. Glip-Glop",
+        "Tiny Rick",
+        "Snuffles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box5",
+      "timeIssued": 10,
+      "QTime": 22,
+      "timeCreated": 10
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 15,
+      "QTime": 33,
+      "timeCreated": 15
+    },
+    {
+      "M": 15,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 32,
+      "QTime": 33,
+      "timeCreated": 32
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 44,
+      "QTime": 46,
+      "timeCreated": 44
+    },
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 40,
+      "QTime": 46,
+      "timeCreated": 40
+    },
+    {
+      "M": 18,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 38,
+      "QTime": 46,
+      "timeCreated": 38
+    },
+    {
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000",
+        "008"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 31,
+      "QTime": 51,
+      "timeCreated": 31
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "0010",
+        "003",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Squanchy",
+        "Mr. Goldenfold",
+        "Snuffles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box5",
+      "timeIssued": 20,
+      "QTime": 51,
+      "timeCreated": 20
+    },
+    {
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 22,
+      "QTime": 51,
+      "timeCreated": 22
+    },
+    {
+      "M": 7,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Microverse battery2",
+      "timeIssued": 60,
+      "QTime": 67,
+      "timeCreated": 60
+    },
+    {
+      "M": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Mr. Meeseeks",
+        "Stealy",
+        "Tiny Rick",
+        "Snuffles"
+      ],
+      "gadgetName": "Ionic Defibulizer5",
+      "timeIssued": 49,
+      "QTime": 81,
+      "timeCreated": 49
+    }
+  ],
+  "total": 36
+}

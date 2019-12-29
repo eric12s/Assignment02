@@ -1,0 +1,63 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 3,
+      "QTime": 4,
+      "timeCreated": 3
+    }
+  ],
+  "total": 12
+}

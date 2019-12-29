@@ -1,0 +1,93 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 1,
+      "QTime": 10,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Tiny Rick"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 5,
+      "QTime": 13,
+      "timeCreated": 5
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 13,
+      "QTime": 26,
+      "timeCreated": 13
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 18,
+      "QTime": 26,
+      "timeCreated": 18
+    }
+  ],
+  "total": 10
+}

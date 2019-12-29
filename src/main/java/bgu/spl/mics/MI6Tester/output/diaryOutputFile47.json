@@ -1,0 +1,177 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Snuffles",
+        "Baby Legs",
+        "Loggins"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 7,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Baby Legs",
+        "Cousin Nicky",
+        "Loggins"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 13,
+      "QTime": 14,
+      "timeCreated": 13
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Baby Legs",
+        "Loggins"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 5,
+      "QTime": 29,
+      "timeCreated": 5
+    },
+    {
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Loggins"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 26,
+      "QTime": 34,
+      "timeCreated": 26
+    },
+    {
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Laser Gun3",
+      "timeIssued": 29,
+      "QTime": 34,
+      "timeCreated": 29
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Cousin Nicky",
+        "Morty Smith"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 6,
+      "QTime": 46,
+      "timeCreated": 6
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Cousin Nicky",
+        "Birdperson",
+        "Loggins"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 5,
+      "QTime": 46,
+      "timeCreated": 5
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 40,
+      "QTime": 59,
+      "timeCreated": 40
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 32,
+      "QTime": 59,
+      "timeCreated": 32
+    },
+    {
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Loggins"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 42,
+      "QTime": 62,
+      "timeCreated": 42
+    }
+  ],
+  "total": 24
+}

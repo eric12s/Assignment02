@@ -1,0 +1,79 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Fart"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 14,
+      "QTime": 20,
+      "timeCreated": 14
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 26,
+      "QTime": 31,
+      "timeCreated": 26
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Fart"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 33,
+      "QTime": 43,
+      "timeCreated": 33
+    }
+  ],
+  "total": 8
+}

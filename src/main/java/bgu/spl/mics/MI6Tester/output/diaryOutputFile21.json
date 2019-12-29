@@ -1,0 +1,107 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "M": 11,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Stealy"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 14,
+      "QTime": 16,
+      "timeCreated": 14
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Microverse battery3",
+      "timeIssued": 11,
+      "QTime": 26,
+      "timeCreated": 11
+    },
+    {
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 10,
+      "QTime": 26,
+      "timeCreated": 10
+    },
+    {
+      "M": 12,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 14,
+      "QTime": 32,
+      "timeCreated": 14
+    },
+    {
+      "M": 9,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Futuristic guns4",
+      "timeIssued": 14,
+      "QTime": 32,
+      "timeCreated": 14
+    }
+  ],
+  "total": 20
+}

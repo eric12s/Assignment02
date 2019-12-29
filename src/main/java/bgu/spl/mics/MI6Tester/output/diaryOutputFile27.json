@@ -1,0 +1,85 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 3,
+      "QTime": 11,
+      "timeCreated": 3
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 16,
+      "QTime": 23,
+      "timeCreated": 16
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 19,
+      "QTime": 35,
+      "timeCreated": 19
+    }
+  ],
+  "total": 9
+}

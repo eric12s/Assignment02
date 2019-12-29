@@ -1,0 +1,245 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Loggins"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Loggins"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 11,
+      "QTime": 12,
+      "timeCreated": 11
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Arthricia"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 7,
+      "QTime": 21,
+      "timeCreated": 7
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Curse Remover3",
+      "timeIssued": 14,
+      "QTime": 34,
+      "timeCreated": 14
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Loggins"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 13,
+      "QTime": 35,
+      "timeCreated": 13
+    },
+    {
+      "M": 9,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Snowball",
+        "Mr. Goldenfold",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 18,
+      "QTime": 45,
+      "timeCreated": 18
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Portal gun3",
+      "timeIssued": 27,
+      "QTime": 53,
+      "timeCreated": 27
+    },
+    {
+      "M": 7,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "007"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Arthricia"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 49,
+      "QTime": 62,
+      "timeCreated": 49
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 39,
+      "QTime": 62,
+      "timeCreated": 39
+    },
+    {
+      "M": 9,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 51,
+      "QTime": 65,
+      "timeCreated": 51
+    },
+    {
+      "M": 4,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 11,
+      "QTime": 73,
+      "timeCreated": 11
+    },
+    {
+      "M": 10,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Loggins"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 25,
+      "QTime": 86,
+      "timeCreated": 25
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Loggins",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 39,
+      "QTime": 90,
+      "timeCreated": 39
+    },
+    {
+      "M": 6,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 48,
+      "QTime": 96,
+      "timeCreated": 48
+    }
+  ],
+  "total": 32
+}

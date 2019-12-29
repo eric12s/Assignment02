@@ -1,0 +1,49 @@
+{
+  "reports": [
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    }
+  ],
+  "total": 8
+}

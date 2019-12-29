@@ -1,0 +1,155 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Squanchy"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Snowball",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Beta VII"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 8,
+      "QTime": 11,
+      "timeCreated": 8
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 7,
+      "QTime": 16,
+      "timeCreated": 7
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "007",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Squanchy",
+        "Summer Smith",
+        "Gazorpazorpfield",
+        "Tinkles"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 9,
+      "QTime": 29,
+      "timeCreated": 9
+    },
+    {
+      "M": 6,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 7,
+      "QTime": 47,
+      "timeCreated": 7
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Beta VII"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 14,
+      "QTime": 47,
+      "timeCreated": 14
+    },
+    {
+      "M": 8,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 32,
+      "QTime": 57,
+      "timeCreated": 32
+    },
+    {
+      "M": 9,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Tinkles"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 33,
+      "QTime": 57,
+      "timeCreated": 33
+    }
+  ],
+  "total": 24
+}

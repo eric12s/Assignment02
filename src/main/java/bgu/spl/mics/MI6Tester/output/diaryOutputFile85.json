@@ -1,0 +1,67 @@
+{
+  "reports": [
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "King Jellybean",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 10,
+      "QTime": 11,
+      "timeCreated": 10
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 8,
+      "QTime": 20,
+      "timeCreated": 8
+    },
+    {
+      "M": 0,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "King Jellybean"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 10,
+      "QTime": 20,
+      "timeCreated": 10
+    }
+  ],
+  "total": 10
+}

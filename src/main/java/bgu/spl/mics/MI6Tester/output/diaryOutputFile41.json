@@ -1,0 +1,53 @@
+{
+  "reports": [
+    {
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Gazorpazorpfield",
+        "Shrimply Pibbles",
+        "Unity"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 5,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "009"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    }
+  ],
+  "total": 18
+}
