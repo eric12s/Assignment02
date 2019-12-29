@@ -31,16 +31,17 @@ public class Moneypenny extends Subscriber {
 	protected void initialize() {
 		subscribeEvent(AgentsAvailableEvent.class, e -> {
 			List<String> serialNumbers = e.getSerialNumbers();
-			boolean b =Squad.getInstance().getAgents(serialNumbers);
+			boolean b = squad.getAgents(serialNumbers);
 			if(isTerminated()) {
 				complete(e, null);
+				squad.releaseAgents(serialNumbers);
 				return;
 			}
 
 			Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);
 			complete(e, pair);
 			if(b){
-				if(!isTerminated() && e.getSendEvent().get()){
+				if(!isTerminated() && e.getSendEvent() != null && e.getSendEvent().get()){
 					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getDuration());
 				}
 				else{

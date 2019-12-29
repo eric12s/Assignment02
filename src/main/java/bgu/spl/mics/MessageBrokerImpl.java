@@ -69,10 +69,12 @@ public class MessageBrokerImpl implements MessageBroker {
 
 	@Override
 	public synchronized  <T> void complete(Event<T> e, T result) {
-		if(!terminated)
-			EvAndFut.get(e).resolve(result);
-		else
-			EvAndFut.get(e).resolve(null);
+		//if(EvAndFut.get(e) != null) { //TODO: why not null??
+			if (!terminated)
+				EvAndFut.get(e).resolve(result);
+			else
+				EvAndFut.get(e).resolve(null);
+		//}
 	}
 
 	@Override
@@ -166,7 +168,7 @@ public class MessageBrokerImpl implements MessageBroker {
 	}
 
 	@Override
-	public void clear() {
+	public void clear() {//TODO: Remove it
 		typeAndQS.clear();
 		subAndQM.clear();
 		EvAndFut.clear();

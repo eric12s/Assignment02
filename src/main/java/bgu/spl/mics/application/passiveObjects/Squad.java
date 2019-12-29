@@ -1,4 +1,7 @@
 package bgu.spl.mics.application.passiveObjects;
+import bgu.spl.mics.MessageBroker;
+import bgu.spl.mics.MessageBrokerImpl;
+
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
@@ -13,6 +16,7 @@ import java.util.Map;
 public class Squad {
 
 	private Map<String, Agent> agents;
+    private MessageBroker mb = MessageBrokerImpl.getInstance();
 
 	private static class SquadHolder{
 	    private static Squad instance = new Squad();
@@ -89,6 +93,31 @@ public class Squad {
         }
         return true;
     }
+    /*public synchronized boolean getAgents(List<String> serials) {
+        for (String serial : serials)
+            if (!(agents.containsKey(serial)))
+                return false;
+
+        while (!this.agentsAvailable(serials)) {
+            try {
+                this.wait();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+
+        for (String serial : serials)
+            agents.get(serial).acquire();
+
+        return true;
+    }
+
+    private boolean agentsAvailable(List<String> serials) {
+        for (String serial : serials)
+            if (!agents.get(serial).isAvailable())
+                return false;
+        return true;
+    }*/
 
 
 

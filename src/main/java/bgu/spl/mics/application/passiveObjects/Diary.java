@@ -28,7 +28,7 @@ public class Diary {
 		return DiaryHolder.instance;
 	}
 
-	public void clear() {
+	public void clear() {//TODO:remove it
 		reports.clear();
 		total = 0;
 	}

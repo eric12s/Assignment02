@@ -117,7 +117,6 @@ public abstract class Subscriber extends RunnableSubPub {
     public final void run() {
         mb.register(this);
         initialize();
-        System.out.println(this.getName() + " register");
         while (!terminated) {
             try {
                 Message m = mb.awaitMessage(this);
@@ -128,7 +127,6 @@ public abstract class Subscriber extends RunnableSubPub {
 
         }
         mb.unregister(this);
-        System.out.println(this.getName());
     }
 
 }
