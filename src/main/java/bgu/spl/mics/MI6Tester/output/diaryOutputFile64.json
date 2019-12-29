@@ -1,0 +1,73 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Summer Smith",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Fart",
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 9,
+      "QTime": 11,
+      "timeCreated": 9
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Eyeholes Man",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Timeline viewer2",
+      "timeIssued": 9,
+      "QTime": 11,
+      "timeCreated": 9
+    },
+    {
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 4,
+      "QTime": 23,
+      "timeCreated": 4
+    }
+  ],
+  "total": 13
+}

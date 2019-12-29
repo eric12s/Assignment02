@@ -1,0 +1,203 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Mr. Meeseeks",
+        "Loggins"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 7,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Shrimply Pibbles",
+        "Loggins"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 11,
+      "QTime": 12,
+      "timeCreated": 11
+    },
+    {
+      "M": 6,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 10,
+      "QTime": 14,
+      "timeCreated": 10
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Beth\u0027s Mytholog",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 30,
+      "QTime": 31,
+      "timeCreated": 30
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks",
+        "Loggins"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 26,
+      "QTime": 41,
+      "timeCreated": 26
+    },
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Jan Michael Vincent",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 36,
+      "QTime": 41,
+      "timeCreated": 36
+    },
+    {
+      "M": 9,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Jan Michael Vincent",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 38,
+      "QTime": 53,
+      "timeCreated": 38
+    },
+    {
+      "M": 9,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 52,
+      "QTime": 57,
+      "timeCreated": 52
+    },
+    {
+      "M": 6,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 42,
+      "QTime": 57,
+      "timeCreated": 42
+    },
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 49,
+      "QTime": 63,
+      "timeCreated": 49
+    }
+  ],
+  "total": 21
+}

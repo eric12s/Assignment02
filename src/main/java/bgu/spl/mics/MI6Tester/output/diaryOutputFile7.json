@@ -1,0 +1,89 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Morty Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Scary Terry",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 15,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Lighthouse Chief",
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 10,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Loggins"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 6,
+      "QTime": 21,
+      "timeCreated": 6
+    },
+    {
+      "M": 11,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "King Jellybean"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 6,
+      "QTime": 21,
+      "timeCreated": 6
+    }
+  ],
+  "total": 22
+}

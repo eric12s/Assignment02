@@ -1,0 +1,215 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Fart"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Jessica",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 1,
+      "QTime": 4,
+      "timeCreated": 1
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 3,
+      "QTime": 18,
+      "timeCreated": 3
+    },
+    {
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 15,
+      "QTime": 18,
+      "timeCreated": 15
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 13,
+      "QTime": 22,
+      "timeCreated": 13
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Fart"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 19,
+      "QTime": 25,
+      "timeCreated": 19
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 13,
+      "QTime": 25,
+      "timeCreated": 13
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 8,
+      "QTime": 25,
+      "timeCreated": 8
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Tammy Gueterman",
+        "Fart"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 27,
+      "QTime": 47,
+      "timeCreated": 27
+    },
+    {
+      "M": 6,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 53,
+      "QTime": 58,
+      "timeCreated": 53
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 30,
+      "QTime": 58,
+      "timeCreated": 30
+    },
+    {
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Fart"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 30,
+      "QTime": 60,
+      "timeCreated": 30
+    },
+    {
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Tammy Gueterman",
+        "Fart"
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 70,
+      "QTime": 82,
+      "timeCreated": 70
+    }
+  ],
+  "total": 19
+}

@@ -1,0 +1,35 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 3,
+      "QTime": 4,
+      "timeCreated": 3
+    }
+  ],
+  "total": 6
+}

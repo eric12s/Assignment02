@@ -1,0 +1,81 @@
+{
+  "reports": [
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Timeline viewer3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Mr. Poopybutthole",
+        "Evil Morty"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 10,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 4,
+      "QTime": 8,
+      "timeCreated": 4
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Tophat Jones"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 4,
+      "QTime": 8,
+      "timeCreated": 4
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 3,
+      "QTime": 8,
+      "timeCreated": 3
+    }
+  ],
+  "total": 17
+}

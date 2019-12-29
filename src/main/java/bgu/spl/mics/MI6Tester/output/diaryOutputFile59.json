@@ -1,0 +1,139 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Timeline viewer3",
+      "timeIssued": 1,
+      "QTime": 8,
+      "timeCreated": 1
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Tinkles",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 7,
+      "QTime": 20,
+      "timeCreated": 7
+    },
+    {
+      "M": 6,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 8,
+      "QTime": 20,
+      "timeCreated": 8
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Arthricia",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 9,
+      "QTime": 31,
+      "timeCreated": 9
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 5,
+      "QTime": 31,
+      "timeCreated": 5
+    },
+    {
+      "M": 15,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 21,
+      "QTime": 44,
+      "timeCreated": 21
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 21,
+      "QTime": 56,
+      "timeCreated": 21
+    }
+  ],
+  "total": 24
+}

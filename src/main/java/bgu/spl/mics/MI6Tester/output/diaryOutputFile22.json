@@ -1,0 +1,313 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Birdperson"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Snuffles",
+        "Beth\u0027s Mytholog",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Microverse battery5",
+      "timeIssued": 8,
+      "QTime": 20,
+      "timeCreated": 8
+    },
+    {
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "006",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Fart",
+        "Baby Legs",
+        "Beth\u0027s Mytholog",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 12,
+      "QTime": 27,
+      "timeCreated": 12
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Birdperson",
+        "Fart",
+        "Baby Legs",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Grappling Shoes4",
+      "timeIssued": 21,
+      "QTime": 29,
+      "timeCreated": 21
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Summer Smith",
+        "Baby Legs",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 28,
+      "QTime": 37,
+      "timeCreated": 28
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Baby Legs",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 16,
+      "QTime": 42,
+      "timeCreated": 16
+    },
+    {
+      "M": 12,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 33,
+      "QTime": 42,
+      "timeCreated": 33
+    },
+    {
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 30,
+      "QTime": 42,
+      "timeCreated": 30
+    },
+    {
+      "M": 17,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "004",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Beth\u0027s Mytholog",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 42,
+      "QTime": 43,
+      "timeCreated": 42
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Baby Legs"
+      ],
+      "gadgetName": "Dream inceptor4",
+      "timeIssued": 23,
+      "QTime": 43,
+      "timeCreated": 23
+    },
+    {
+      "M": 6,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Baby Legs"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 22,
+      "QTime": 65,
+      "timeCreated": 22
+    },
+    {
+      "M": 0,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Birdperson"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 47,
+      "QTime": 73,
+      "timeCreated": 47
+    },
+    {
+      "M": 15,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 43,
+      "QTime": 80,
+      "timeCreated": 43
+    },
+    {
+      "M": 16,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Fart",
+        "Snuffles"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 46,
+      "QTime": 80,
+      "timeCreated": 46
+    },
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 50,
+      "QTime": 82,
+      "timeCreated": 50
+    },
+    {
+      "M": 18,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 43,
+      "QTime": 95,
+      "timeCreated": 43
+    },
+    {
+      "M": 13,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Birdperson",
+        "Snuffles",
+        "Baby Legs",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster3",
+      "timeIssued": 34,
+      "QTime": 95,
+      "timeCreated": 34
+    }
+  ],
+  "total": 37
+}

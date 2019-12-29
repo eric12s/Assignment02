@@ -1,0 +1,27 @@
+{
+  "reports": [
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Mr. Needful",
+        "Snuffles",
+        "King Jellybean",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    }
+  ],
+  "total": 19
+}

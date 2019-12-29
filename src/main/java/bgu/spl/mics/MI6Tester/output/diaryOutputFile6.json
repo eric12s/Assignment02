@@ -1,0 +1,57 @@
+{
+  "reports": [
+    {
+      "M": 5,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Mr. Needful",
+        "Morty Smith",
+        "Scary Terry",
+        "Abradolf Lincler"
+      ],
+      "gadgetName": "Love Potion4",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    }
+  ],
+  "total": 15
+}

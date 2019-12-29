@@ -1,0 +1,49 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Arthricia"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    }
+  ],
+  "total": 9
+}

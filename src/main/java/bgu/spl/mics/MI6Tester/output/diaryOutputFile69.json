@@ -1,0 +1,67 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Snuffles"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 4,
+      "QTime": 19,
+      "timeCreated": 4
+    },
+    {
+      "M": 4,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Loggins",
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 14,
+      "QTime": 24,
+      "timeCreated": 14
+    }
+  ],
+  "total": 10
+}

@@ -1,0 +1,361 @@
+{
+  "reports": [
+    {
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "008"
+      ],
+      "agentsNames": [
+        "Abradolf Lincler",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Emergency Bionic Arm4",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "0010",
+        "002",
+        "003",
+        "009"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Scary Terry",
+        "Abradolf Lincler",
+        "King Jellybean",
+        "Beth Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 1,
+      "QTime": 9,
+      "timeCreated": 1
+    },
+    {
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "008"
+      ],
+      "agentsNames": [
+        "Abradolf Lincler",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 4,
+      "QTime": 24,
+      "timeCreated": 4
+    },
+    {
+      "M": 6,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "009"
+      ],
+      "agentsNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 19,
+      "QTime": 24,
+      "timeCreated": 19
+    },
+    {
+      "M": 4,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Mr. Needful"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 16,
+      "QTime": 24,
+      "timeCreated": 16
+    },
+    {
+      "M": 3,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 16,
+      "QTime": 24,
+      "timeCreated": 16
+    },
+    {
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 40,
+      "QTime": 47,
+      "timeCreated": 40
+    },
+    {
+      "M": 5,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Mr. Needful",
+        "Beta VII"
+      ],
+      "gadgetName": "Combat suit3",
+      "timeIssued": 11,
+      "QTime": 47,
+      "timeCreated": 11
+    },
+    {
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "009"
+      ],
+      "agentsNames": [
+        "Abradolf Lincler",
+        "King Jellybean",
+        "Beth Smith"
+      ],
+      "gadgetName": "Emergency Bionic Arm5",
+      "timeIssued": 29,
+      "QTime": 56,
+      "timeCreated": 29
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 26,
+      "QTime": 56,
+      "timeCreated": 26
+    },
+    {
+      "M": 4,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "King Jellybean",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Arthricia",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 56,
+      "QTime": 60,
+      "timeCreated": 56
+    },
+    {
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Mr. Needful",
+        "Beth Smith"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 40,
+      "QTime": 80,
+      "timeCreated": 40
+    },
+    {
+      "M": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "009"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Arthricia",
+        "Beth Smith"
+      ],
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 44,
+      "QTime": 85,
+      "timeCreated": 44
+    },
+    {
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Abradolf Lincler",
+        "King Jellybean",
+        "Mr. Needful",
+        "Beta VII"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 53,
+      "QTime": 85,
+      "timeCreated": 53
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman",
+        "Beth Smith"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 66,
+      "QTime": 90,
+      "timeCreated": 66
+    },
+    {
+      "M": 0,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Dream inceptor5",
+      "timeIssued": 81,
+      "QTime": 90,
+      "timeCreated": 81
+    },
+    {
+      "M": 11,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Abradolf Lincler",
+        "Arthricia"
+      ],
+      "gadgetName": "Love Potion5",
+      "timeIssued": 34,
+      "QTime": 90,
+      "timeCreated": 34
+    },
+    {
+      "M": 11,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "King Jellybean",
+        "Tammy Gueterman",
+        "Beth Smith"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 70,
+      "QTime": 135,
+      "timeCreated": 70
+    },
+    {
+      "M": 0,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Arthricia"
+      ],
+      "gadgetName": "Butter-passing robot5",
+      "timeIssued": 123,
+      "QTime": 135,
+      "timeCreated": 123
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Mr. Needful",
+        "Beth Smith"
+      ],
+      "gadgetName": "Emergency Bionic Arm7",
+      "timeIssued": 27,
+      "QTime": 140,
+      "timeCreated": 27
+    },
+    {
+      "M": 10,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Mr. Needful"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 70,
+      "QTime": 144,
+      "timeCreated": 70
+    }
+  ],
+  "total": 33
+}

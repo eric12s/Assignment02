@@ -1,0 +1,121 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "King Jellybean"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional Goggles4",
+      "timeIssued": 16,
+      "QTime": 17,
+      "timeCreated": 16
+    },
+    {
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 13,
+      "QTime": 26,
+      "timeCreated": 13
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "King Jellybean",
+        "Tinkles"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 7,
+      "QTime": 26,
+      "timeCreated": 7
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 16,
+      "QTime": 41,
+      "timeCreated": 16
+    },
+    {
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 13,
+      "QTime": 54,
+      "timeCreated": 13
+    },
+    {
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 36,
+      "QTime": 63,
+      "timeCreated": 36
+    }
+  ],
+  "total": 19
+}

@@ -1,0 +1,253 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003",
+        "009"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Summer Smith"
+      ],
+      "gadgetName": "Dream inceptor5",
+      "timeIssued": 10,
+      "QTime": 15,
+      "timeCreated": 10
+    },
+    {
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Loggins",
+        "Krombopulos Michael",
+        "Morty Jr."
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 8,
+      "QTime": 15,
+      "timeCreated": 8
+    },
+    {
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Summer Smith"
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 7,
+      "QTime": 22,
+      "timeCreated": 7
+    },
+    {
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Birdperson"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 20,
+      "QTime": 36,
+      "timeCreated": 20
+    },
+    {
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "009"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
+      "timeIssued": 18,
+      "QTime": 36,
+      "timeCreated": 18
+    },
+    {
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Eyeholes Man",
+        "Shrimply Pibbles",
+        "Loggins"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 20,
+      "QTime": 38,
+      "timeCreated": 20
+    },
+    {
+      "M": 14,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Birdperson",
+        "Summer Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 21,
+      "QTime": 49,
+      "timeCreated": 21
+    },
+    {
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002",
+        "007"
+      ],
+      "agentsNames": [
+        "Eyeholes Man",
+        "Morty Jr."
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 7,
+      "QTime": 49,
+      "timeCreated": 7
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 3,
+      "QTime": 49,
+      "timeCreated": 3
+    },
+    {
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "0010",
+        "002",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Tophat Jones",
+        "Eyeholes Man",
+        "Birdperson",
+        "Summer Smith"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 3,
+      "QTime": 53,
+      "timeCreated": 3
+    },
+    {
+      "M": 13,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002",
+        "007"
+      ],
+      "agentsNames": [
+        "Eyeholes Man",
+        "Morty Jr."
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 37,
+      "QTime": 70,
+      "timeCreated": 37
+    },
+    {
+      "M": 13,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Cousin Nicky",
+        "Loggins"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 75,
+      "QTime": 84,
+      "timeCreated": 75
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 5,
+      "QTime": 96,
+      "timeCreated": 5
+    },
+    {
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Krombopulos Michael",
+        "Birdperson"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 25,
+      "QTime": 102,
+      "timeCreated": 25
+    }
+  ],
+  "total": 29
+}

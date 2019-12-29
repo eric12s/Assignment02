@@ -1,0 +1,209 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Neutrino bomb3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Eyeholes Man",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Purge Suit6",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 4,
+      "QTime": 8,
+      "timeCreated": 4
+    },
+    {
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 6,
+      "QTime": 12,
+      "timeCreated": 6
+    },
+    {
+      "M": 4,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 11,
+      "QTime": 15,
+      "timeCreated": 11
+    },
+    {
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 27,
+      "QTime": 33,
+      "timeCreated": 27
+    },
+    {
+      "M": 8,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Portal gun5",
+      "timeIssued": 20,
+      "QTime": 33,
+      "timeCreated": 20
+    },
+    {
+      "M": 0,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 24,
+      "QTime": 39,
+      "timeCreated": 24
+    },
+    {
+      "M": 8,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 42,
+      "QTime": 51,
+      "timeCreated": 42
+    },
+    {
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 49,
+      "QTime": 58,
+      "timeCreated": 49
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Eyeholes Man",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 25,
+      "QTime": 58,
+      "timeCreated": 25
+    },
+    {
+      "M": 8,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 70,
+      "QTime": 77,
+      "timeCreated": 70
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth Smith",
+        "Tinkles",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 46,
+      "QTime": 77,
+      "timeCreated": 46
+    }
+  ],
+  "total": 21
+}

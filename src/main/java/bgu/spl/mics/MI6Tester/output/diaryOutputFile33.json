@@ -1,0 +1,33 @@
+{
+  "reports": [
+    {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 3,
+      "QTime": 12,
+      "timeCreated": 3
+    }
+  ],
+  "total": 6
+}
