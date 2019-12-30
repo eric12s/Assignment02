@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,7 +16,39 @@
       "timeIssued": 1,
       "QTime": 1,
       "timeCreated": 1
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Oh Summer, haha first race war, huh?",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jessica",
+        "Unity"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
     }
   ],
-  "total": 5
+  "total": 7
 }

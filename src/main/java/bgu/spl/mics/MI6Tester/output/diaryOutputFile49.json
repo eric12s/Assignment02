@@ -1,8 +1,9 @@
 {
   "reports": [
     {
-      "M": 1,
-      "Moneypenny": 0,
+      "missionName": "Keep Summer safe.",
+      "M": 0,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "004",
         "005",
@@ -21,8 +22,9 @@
       "timeCreated": 3
     },
     {
-      "M": 0,
-      "Moneypenny": 2,
+      "missionName": "Yo! What up my glip glops!",
+      "M": 1,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "002",
         "003",
@@ -39,12 +41,13 @@
       ],
       "gadgetName": "Butter-passing robot2",
       "timeIssued": 3,
-      "QTime": 12,
+      "QTime": 3,
       "timeCreated": 3
     },
     {
+      "missionName": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn\u0027t.",
       "M": 2,
-      "Moneypenny": 1,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "002",
         "005"
@@ -55,10 +58,47 @@
       ],
       "gadgetName": "Interdimensional cable TV box2",
       "timeIssued": 3,
-      "QTime": 12,
+      "QTime": 3,
       "timeCreated": 3
     },
     {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Laser Gun6",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "009"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Tinkles",
+        "Snuffles"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
       "M": 5,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
@@ -77,48 +117,68 @@
       ],
       "gadgetName": "Morty\u0027s Mind Blowers4",
       "timeIssued": 6,
-      "QTime": 22,
+      "QTime": 6,
       "timeCreated": 6
     },
     {
-      "M": 14,
-      "Moneypenny": 14,
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 6,
+      "Moneypenny": 6,
       "agentsSerialNumbers": [
-        "002",
-        "003",
+        "000",
+        "001",
         "004",
+        "005",
         "008"
       ],
       "agentsNames": [
-        "Arthricia",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Unity",
+        "Birdperson",
         "Tinkles",
+        "Mr. Poopybutthole",
         "Summer Smith"
       ],
-      "gadgetName": "Purge Suit3",
-      "timeIssued": 21,
-      "QTime": 25,
-      "timeCreated": 21
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
     },
     {
-      "M": 10,
-      "Moneypenny": 10,
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
+      "M": 7,
+      "Moneypenny": 7,
       "agentsSerialNumbers": [
-        "002",
-        "003",
+        "004",
+        "007",
         "009"
       ],
       "agentsNames": [
-        "Arthricia",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Eyeholes Man",
         "Snuffles"
       ],
-      "gadgetName": "Futuristic guns2",
-      "timeIssued": 13,
-      "QTime": 30,
-      "timeCreated": 13
+      "gadgetName": "Combat suit4",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
     },
     {
+      "missionName": "Oh Summer, haha first race war, huh?",
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 15,
+      "QTime": 17,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
       "M": 12,
       "Moneypenny": 12,
       "agentsSerialNumbers": [
@@ -137,89 +197,50 @@
       ],
       "gadgetName": "Futuristic guns2",
       "timeIssued": 14,
-      "QTime": 49,
+      "QTime": 17,
       "timeCreated": 14
     },
     {
-      "M": 13,
-      "Moneypenny": 13,
-      "agentsSerialNumbers": [
-        "008"
-      ],
-      "agentsNames": [
-        "Summer Smith"
-      ],
-      "gadgetName": "Futuristic guns",
-      "timeIssued": 15,
-      "QTime": 49,
-      "timeCreated": 15
-    },
-    {
-      "M": 6,
-      "Moneypenny": 3,
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 10,
+      "Moneypenny": 10,
       "agentsSerialNumbers": [
         "002",
-        "005"
-      ],
-      "agentsNames": [
-        "Arthricia",
-        "Mr. Poopybutthole"
-      ],
-      "gadgetName": "Laser Gun6",
-      "timeIssued": 4,
-      "QTime": 53,
-      "timeCreated": 4
-    },
-    {
-      "M": 0,
-      "Moneypenny": 2,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Birdperson"
-      ],
-      "gadgetName": "Space cruiser",
-      "timeIssued": 28,
-      "QTime": 53,
-      "timeCreated": 28
-    },
-    {
-      "M": 5,
-      "Moneypenny": 5,
-      "agentsSerialNumbers": [
-        "000",
-        "006",
+        "003",
         "009"
       ],
       "agentsNames": [
-        "Unity",
-        "Dr. Glip-Glop",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
         "Snuffles"
       ],
-      "gadgetName": "Dream inceptor",
-      "timeIssued": 32,
-      "QTime": 61,
-      "timeCreated": 32
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 13,
+      "QTime": 17,
+      "timeCreated": 13
     },
     {
-      "M": 19,
-      "Moneypenny": 1,
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 8,
+      "Moneypenny": 8,
       "agentsSerialNumbers": [
         "000",
-        "004"
+        "004",
+        "006"
       ],
       "agentsNames": [
         "Unity",
-        "Tinkles"
+        "Tinkles",
+        "Dr. Glip-Glop"
       ],
-      "gadgetName": "Ionic Defibulizer",
-      "timeIssued": 28,
-      "QTime": 61,
-      "timeCreated": 28
+      "gadgetName": "Portal gun5",
+      "timeIssued": 12,
+      "QTime": 17,
+      "timeCreated": 12
     },
     {
-      "M": 8,
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 9,
       "Moneypenny": 9,
       "agentsSerialNumbers": [
         "000",
@@ -235,9 +256,438 @@
       ],
       "gadgetName": "Purge Suit5",
       "timeIssued": 13,
-      "QTime": 61,
+      "QTime": 30,
       "timeCreated": 13
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Birdperson"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 29,
+      "QTime": 30,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 17,
+      "Moneypenny": 17,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Mr. Poopybutthole",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 25,
+      "QTime": 30,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 16,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "003",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Mr. Poopybutthole",
+        "Eyeholes Man",
+        "Summer Smith"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 24,
+      "QTime": 30,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 19,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Tinkles"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 28,
+      "QTime": 30,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Birdperson"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 28,
+      "QTime": 30,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Dr. Glip-Glop",
+        "Summer Smith",
+        "Snuffles"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 10,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 36,
+      "QTime": 38,
+      "timeCreated": 36
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Dr. Glip-Glop",
+        "Snuffles"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 32,
+      "QTime": 38,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001",
+        "0010",
+        "003"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Morty Smith",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Space cruiser4",
+      "timeIssued": 32,
+      "QTime": 38,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 18,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004",
+        "006",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Dr. Glip-Glop",
+        "Eyeholes Man",
+        "Snuffles"
+      ],
+      "gadgetName": "Combat suit6",
+      "timeIssued": 26,
+      "QTime": 43,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 15,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Arthricia",
+        "Tinkles",
+        "Eyeholes Man",
+        "Summer Smith"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 23,
+      "QTime": 43,
+      "timeCreated": 23
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "009"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Snuffles"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 31,
+      "QTime": 43,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 8,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Dr. Glip-Glop",
+        "Summer Smith"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 35,
+      "QTime": 43,
+      "timeCreated": 35
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Birdperson",
+        "Mr. Poopybutthole",
+        "Summer Smith",
+        "Snuffles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 32,
+      "QTime": 43,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Mr. Poopybutthole",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 30,
+      "QTime": 43,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Arthricia",
+        "Tinkles",
+        "Summer Smith",
+        "Snuffles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box4",
+      "timeIssued": 14,
+      "QTime": 43,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 15,
+      "Moneypenny": 17,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 46,
+      "QTime": 53,
+      "timeCreated": 46
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 11,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Laser Gun4",
+      "timeIssued": 37,
+      "QTime": 53,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 16,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Interdimensional cable TV box4",
+      "timeIssued": 46,
+      "QTime": 60,
+      "timeCreated": 46
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 17,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "006",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Eyeholes Man",
+        "Snuffles"
+      ],
+      "gadgetName": "Futuristic guns5",
+      "timeIssued": 52,
+      "QTime": 60,
+      "timeCreated": 52
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Summer Smith"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 21,
+      "QTime": 60,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 13,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Tinkles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 45,
+      "QTime": 60,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 5,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 58,
+      "QTime": 60,
+      "timeCreated": 58
     }
   ],
-  "total": 33
+  "total": 52
 }

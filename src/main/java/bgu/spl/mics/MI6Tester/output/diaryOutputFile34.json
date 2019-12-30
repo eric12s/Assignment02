@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,22 +16,7 @@
       "timeCreated": 3
     },
     {
-      "M": 3,
-      "Moneypenny": 0,
-      "agentsSerialNumbers": [
-        "000",
-        "001"
-      ],
-      "agentsNames": [
-        "Krombopulos Michael",
-        "Snuffles"
-      ],
-      "gadgetName": "Shrink ray",
-      "timeIssued": 12,
-      "QTime": 17,
-      "timeCreated": 12
-    },
-    {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -43,9 +29,205 @@
       ],
       "gadgetName": "Microverse battery",
       "timeIssued": 10,
-      "QTime": 24,
+      "QTime": 10,
       "timeCreated": 10
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 4,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "You\u0027re like Hitler, except...Hitler cared about Germany, or something.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Loggins"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 4,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "missionName": "Oh Summer, haha first race war, huh?",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Snuffles"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
     }
   ],
-  "total": 8
+  "total": 14
 }

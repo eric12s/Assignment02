@@ -1,8 +1,24 @@
 {
   "reports": [
     {
-      "M": 1,
+      "missionName": "Don’t even trip dawg.",
+      "M": 0,
       "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Beta VII"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 2,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "003",
         "006"
@@ -17,22 +33,43 @@
       "timeCreated": 1
     },
     {
-      "M": 0,
-      "Moneypenny": 3,
+      "missionName": "I like what you got.",
+      "M": 1,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
-        "006"
+        "001",
+        "002",
+        "005"
       ],
       "agentsNames": [
-        "Beta VII"
+        "Snuffles",
+        "Scary Terry",
+        "Unity"
       ],
-      "gadgetName": "Combat suit",
-      "timeIssued": 1,
-      "QTime": 9,
-      "timeCreated": 1
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
     },
     {
-      "M": 5,
-      "Moneypenny": 6,
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 6,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "001",
         "003",
@@ -49,38 +86,9 @@
       "timeCreated": 9
     },
     {
-      "M": 3,
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 5,
       "Moneypenny": 5,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Baby Legs"
-      ],
-      "gadgetName": "Emergency Bionic Arm",
-      "timeIssued": 8,
-      "QTime": 9,
-      "timeCreated": 8
-    },
-    {
-      "M": 0,
-      "Moneypenny": 5,
-      "agentsSerialNumbers": [
-        "005",
-        "006"
-      ],
-      "agentsNames": [
-        "Unity",
-        "Beta VII"
-      ],
-      "gadgetName": "Demonic Alien Containment Box2",
-      "timeIssued": 37,
-      "QTime": 38,
-      "timeCreated": 37
-    },
-    {
-      "M": 6,
-      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "004"
       ],
@@ -89,56 +97,13 @@
       ],
       "gadgetName": "Emergency Bionic Arm",
       "timeIssued": 12,
-      "QTime": 38,
+      "QTime": 12,
       "timeCreated": 12
     },
     {
-      "M": 7,
-      "Moneypenny": 7,
-      "agentsSerialNumbers": [
-        "001",
-        "007"
-      ],
-      "agentsNames": [
-        "Snuffles",
-        "Snowball"
-      ],
-      "gadgetName": "Meeseeks Box2",
-      "timeIssued": 15,
-      "QTime": 38,
-      "timeCreated": 15
-    },
-    {
-      "M": 9,
-      "Moneypenny": 9,
-      "agentsSerialNumbers": [
-        "003"
-      ],
-      "agentsNames": [
-        "Stealy"
-      ],
-      "gadgetName": "Microverse battery2",
-      "timeIssued": 15,
-      "QTime": 38,
-      "timeCreated": 15
-    },
-    {
-      "M": 8,
-      "Moneypenny": 3,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Baby Legs"
-      ],
-      "gadgetName": "Demonic Alien Containment Box2",
-      "timeIssued": 26,
-      "QTime": 47,
-      "timeCreated": 26
-    },
-    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
       "M": 4,
-      "Moneypenny": 8,
+      "Moneypenny": 6,
       "agentsSerialNumbers": [
         "000",
         "002",
@@ -153,40 +118,170 @@
       ],
       "gadgetName": "Grappling Shoes",
       "timeIssued": 13,
-      "QTime": 47,
+      "QTime": 13,
       "timeCreated": 13
     },
     {
-      "M": 4,
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 7,
       "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "007"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Snowball"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "You\u0027re like Hitler, except...Hitler cared about Germany, or something.",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Microverse battery2",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 10,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Stealy",
+        "Beta VII"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 9,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Scary Terry",
+        "Jan Michael Vincent",
+        "Unity"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 11,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Beta VII"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 1,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "005"
       ],
       "agentsNames": [
         "Unity"
       ],
-      "gadgetName": "Morty\u0027s Mind Blowers",
-      "timeIssued": 45,
-      "QTime": 79,
-      "timeCreated": 45
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 39,
+      "QTime": 39,
+      "timeCreated": 39
     },
     {
-      "M": 7,
-      "Moneypenny": 9,
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 3,
+      "Moneypenny": 5,
       "agentsSerialNumbers": [
-        "006"
+        "000",
+        "002",
+        "004",
+        "005"
       ],
       "agentsNames": [
-        "Beta VII"
+        "Baby Legs",
+        "Scary Terry",
+        "Jan Michael Vincent",
+        "Unity"
       ],
-      "gadgetName": "Cognition amplifier",
-      "timeIssued": 54,
-      "QTime": 95,
-      "timeCreated": 54
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
     },
     {
-      "M": 5,
-      "Moneypenny": 4,
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 6,
+      "Moneypenny": 6,
       "agentsSerialNumbers": [
         "001",
         "004"
@@ -197,9 +292,374 @@
       ],
       "gadgetName": "Space cruiser",
       "timeIssued": 42,
-      "QTime": 95,
+      "QTime": 42,
       "timeCreated": 42
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 44,
+      "QTime": 44,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 4,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Unity"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 45,
+      "QTime": 45,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Beta VII"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 54,
+      "QTime": 56,
+      "timeCreated": 54
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 8,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Microverse battery2",
+      "timeIssued": 57,
+      "QTime": 57,
+      "timeCreated": 57
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 10,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Beta VII"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 57,
+      "QTime": 57,
+      "timeCreated": 57
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 9,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 11,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Unity"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 60,
+      "QTime": 60,
+      "timeCreated": 60
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 0,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Love Potion3",
+      "timeIssued": 61,
+      "QTime": 61,
+      "timeCreated": 61
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 2,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Microverse battery2",
+      "timeIssued": 63,
+      "QTime": 63,
+      "timeCreated": 63
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 1,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Scary Terry"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 67,
+      "QTime": 67,
+      "timeCreated": 67
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 69,
+      "QTime": 69,
+      "timeCreated": 69
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Scary Terry",
+        "Stealy",
+        "Beta VII"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 74,
+      "QTime": 74,
+      "timeCreated": 74
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 5,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Stealy",
+        "Unity"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 77,
+      "QTime": 77,
+      "timeCreated": 77
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 4,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Unity",
+        "Beta VII"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 78,
+      "QTime": 78,
+      "timeCreated": 78
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 7,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Unity"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 84,
+      "QTime": 84,
+      "timeCreated": 84
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 8,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Stealy",
+        "Unity"
+      ],
+      "gadgetName": "Grappling Shoes3",
+      "timeIssued": 88,
+      "QTime": 88,
+      "timeCreated": 88
+    },
+    {
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 10,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Stealy",
+        "Unity",
+        "Beta VII"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 91,
+      "QTime": 91,
+      "timeCreated": 91
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 9,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Stealy",
+        "Unity",
+        "Beta VII"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 94,
+      "QTime": 94,
+      "timeCreated": 94
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 11,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 95,
+      "QTime": 95,
+      "timeCreated": 95
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 0,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Scary Terry",
+        "Beta VII"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 98,
+      "QTime": 98,
+      "timeCreated": 98
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 2,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Scary Terry",
+        "Stealy",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 99,
+      "QTime": 99,
+      "timeCreated": 99
     }
   ],
-  "total": 25
+  "total": 39
 }

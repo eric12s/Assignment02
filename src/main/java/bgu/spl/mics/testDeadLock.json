@@ -1,0 +1,116 @@
+{
+  "inventory": [
+    "Sky Hook 1",
+    "Sky Hook 2",
+    "Sky Hook 3",
+    "Sky Hook 4",
+    "Sky Hook 5",
+    "Sky Hook 6",
+    "Sky Hook 7",
+    "Sky Hook 8"
+  ],
+  "services": {
+    "M": 1,
+    "Moneypenny": 2,
+    "intelligence": [
+      {
+        "missions": [
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 1",
+            "name": "Thunderball 1",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 2",
+            "name": "Thunderball 2",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 3",
+            "name": "Thunderball 3",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007","006"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 4",
+            "name": "Thunderball 4",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 5",
+            "name": "Thunderball 5",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 6",
+            "name": "Thunderball 6",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },
+          {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 7",
+            "name": "Thunderball 7",
+            "timeExpired": 15,
+            "timeIssued": 3
+          },                    {
+            "serialAgentsNumbers": [
+              "007"
+            ],
+            "duration": 3,
+            "gadget": "Sky Hook 8",
+            "name": "Thunderball 8",
+            "timeExpired": 15,
+            "timeIssued": 3
+          }
+        ]
+      }
+    ],
+    "time": 10
+  },
+  "squad": [
+    {
+      "name": "James Bond",
+      "serialNumber": "007"
+    },
+    {
+      "name": "Alec Trevelyan",
+      "serialNumber": "006"
+    },
+    {
+      "name": "John Wick",
+      "serialNumber": "008"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -21,41 +22,42 @@
       "timeCreated": 1
     },
     {
-      "M": 4,
-      "Moneypenny": 4,
+      "missionName": "Where are my testicles, Summer?",
+      "M": 1,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
-        "001",
-        "005"
+        "003",
+        "004"
       ],
       "agentsNames": [
-        "Eyeholes Man",
-        "Unity"
+        "Cousin Nicky",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
       ],
-      "gadgetName": "Purge Suit2",
-      "timeIssued": 13,
-      "QTime": 13,
-      "timeCreated": 13
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
     },
     {
-      "M": 3,
-      "Moneypenny": 3,
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
-        "000",
-        "002",
-        "003"
+        "003",
+        "004"
       ],
       "agentsNames": [
-        "Arthricia",
-        "Beta VII",
-        "Cousin Nicky"
+        "Cousin Nicky",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
       ],
-      "gadgetName": "Morty\u0027s Mind Blowers3",
-      "timeIssued": 11,
-      "QTime": 13,
-      "timeCreated": 11
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
     },
     {
-      "M": 8,
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 6,
       "Moneypenny": 6,
       "agentsSerialNumbers": [
         "007"
@@ -65,10 +67,11 @@
       ],
       "gadgetName": "Time freezer",
       "timeIssued": 17,
-      "QTime": 20,
+      "QTime": 23,
       "timeCreated": 17
     },
     {
+      "missionName": "Yo! What up my glip glops!",
       "M": 5,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
@@ -83,42 +86,49 @@
       ],
       "gadgetName": "Morty\u0027s Mind Blowers5",
       "timeIssued": 17,
-      "QTime": 30,
+      "QTime": 23,
       "timeCreated": 17
     },
     {
-      "M": 2,
-      "Moneypenny": 2,
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 3,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
-        "003",
-        "004"
+        "000",
+        "002",
+        "003"
       ],
       "agentsNames": [
-        "Cousin Nicky",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+        "Arthricia",
+        "Beta VII",
+        "Cousin Nicky"
       ],
-      "gadgetName": "Futuristic guns",
-      "timeIssued": 9,
-      "QTime": 30,
-      "timeCreated": 9
+      "gadgetName": "Morty\u0027s Mind Blowers3",
+      "timeIssued": 11,
+      "QTime": 32,
+      "timeCreated": 11
     },
     {
-      "M": 5,
-      "Moneypenny": 6,
+      "missionName": "Go home and drink, grandpa.",
+      "M": 4,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
+        "001",
         "005"
       ],
       "agentsNames": [
+        "Eyeholes Man",
         "Unity"
       ],
-      "gadgetName": "Butter-passing robot",
-      "timeIssued": 34,
-      "QTime": 50,
-      "timeCreated": 34
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 13,
+      "QTime": 32,
+      "timeCreated": 13
     },
     {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
       "M": 0,
-      "Moneypenny": 2,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000",
         "004"
@@ -129,12 +139,13 @@
       ],
       "gadgetName": "Ionic Defibulizer",
       "timeIssued": 29,
-      "QTime": 69,
+      "QTime": 32,
       "timeCreated": 29
     },
     {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
       "M": 2,
-      "Moneypenny": 3,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "002",
         "003",
@@ -147,12 +158,13 @@
       ],
       "gadgetName": "Futuristic guns",
       "timeIssued": 30,
-      "QTime": 69,
+      "QTime": 39,
       "timeCreated": 30
     },
     {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
       "M": 9,
-      "Moneypenny": 8,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
         "002",
@@ -165,9 +177,227 @@
       ],
       "gadgetName": "Demonic Alien Containment Box2",
       "timeIssued": 26,
-      "QTime": 69,
+      "QTime": 39,
       "timeCreated": 26
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Cousin Nicky",
+        "Tophat Jones",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers4",
+      "timeIssued": 32,
+      "QTime": 39,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 29,
+      "QTime": 39,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 10,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 26,
+      "QTime": 45,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 11,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Eyeholes Man",
+        "Beta VII",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
+      "timeIssued": 26,
+      "QTime": 45,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Beta VII",
+        "Cousin Nicky",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Curse Remover3",
+      "timeIssued": 44,
+      "QTime": 58,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Cousin Nicky",
+        "Unity",
+        "Tophat Jones"
+      ],
+      "gadgetName": "Interdimensional cable TV box3",
+      "timeIssued": 43,
+      "QTime": 58,
+      "timeCreated": 43
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 37,
+      "QTime": 58,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 11,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 39,
+      "QTime": 58,
+      "timeCreated": 39
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Eyeholes Man",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 31,
+      "QTime": 65,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 47,
+      "QTime": 65,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 4,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Beta VII",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Neutrino bomb6",
+      "timeIssued": 52,
+      "QTime": 65,
+      "timeCreated": 52
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 10,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Eyeholes Man",
+        "Cousin Nicky",
+        "Unity"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster3",
+      "timeIssued": 38,
+      "QTime": 65,
+      "timeCreated": 38
     }
   ],
-  "total": 22
+  "total": 34
 }

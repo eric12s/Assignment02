@@ -31,15 +31,19 @@
       "timeCreated": 5
     },
     {
-      "M": 10,
+      "M": 9,
       "Moneypenny": 10,
       "agentsSerialNumbers": [
-        "000"
+        "000",
+        "001",
+        "004"
       ],
       "agentsNames": [
-        "Jessica"
+        "Jessica",
+        "Mr. Needful",
+        "Beta VII"
       ],
-      "gadgetName": "Froopyland Chalk",
+      "gadgetName": "Dark matter3",
       "timeIssued": 4,
       "QTime": 9,
       "timeCreated": 4

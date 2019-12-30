@@ -1,7 +1,8 @@
 {
   "reports": [
     {
-      "M": 1,
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
         "001",
@@ -19,26 +20,119 @@
       "timeCreated": 2
     },
     {
-      "M": 10,
-      "Moneypenny": 10,
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 1,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
-        "003",
-        "006",
+        "001",
+        "002",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Squanchy",
+        "Gazorpazorpfield",
+        "Tinkles"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "007"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Summer Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "004",
         "008"
       ],
       "agentsNames": [
-        "Snuffles",
-        "Snowball",
+        "Beta VII",
         "Gazorpazorpfield"
       ],
-      "gadgetName": "Dark matter",
-      "timeIssued": 11,
-      "QTime": 11,
-      "timeCreated": 11
+      "gadgetName": "Microverse battery",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
     },
     {
-      "M": 8,
-      "Moneypenny": 8,
+      "missionName": "Yo! What up my glip glops!",
+      "M": 4,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 5,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Snuffles",
+        "Beta VII",
+        "Summer Smith"
+      ],
+      "gadgetName": "Space cruiser2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 7,
+      "Moneypenny": 7,
       "agentsSerialNumbers": [
         "002",
         "004"
@@ -49,24 +143,28 @@
       ],
       "gadgetName": "Space cruiser2",
       "timeIssued": 8,
-      "QTime": 11,
+      "QTime": 8,
       "timeCreated": 8
     },
     {
-      "M": 5,
-      "Moneypenny": 5,
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 8,
+      "Moneypenny": 8,
       "agentsSerialNumbers": [
-        "003"
+        "004",
+        "009"
       ],
       "agentsNames": [
-        "Snuffles"
+        "Beta VII",
+        "Tinkles"
       ],
-      "gadgetName": "Purge Suit",
-      "timeIssued": 7,
-      "QTime": 16,
-      "timeCreated": 7
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
     },
     {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
       "M": 9,
       "Moneypenny": 9,
       "agentsSerialNumbers": [
@@ -85,26 +183,53 @@
       ],
       "gadgetName": "Purge Suit4",
       "timeIssued": 9,
-      "QTime": 29,
+      "QTime": 9,
       "timeCreated": 9
     },
     {
-      "M": 6,
-      "Moneypenny": 4,
+      "missionName": "Keep Summer safe.",
+      "M": 10,
+      "Moneypenny": 10,
       "agentsSerialNumbers": [
-        "000",
-        "001"
+        "003",
+        "006",
+        "008"
       ],
       "agentsNames": [
-        "Rick Sanchez",
-        "Jerry\u0027s Mytholog"
+        "Snuffles",
+        "Snowball",
+        "Gazorpazorpfield"
       ],
-      "gadgetName": "Ionic Defibulizer3",
-      "timeIssued": 7,
-      "QTime": 47,
-      "timeCreated": 7
+      "gadgetName": "Dark matter",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
     },
     {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Beta VII",
+        "Snowball",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
       "M": 12,
       "Moneypenny": 12,
       "agentsSerialNumbers": [
@@ -117,12 +242,205 @@
       ],
       "gadgetName": "Combat suit",
       "timeIssued": 14,
-      "QTime": 47,
+      "QTime": 14,
       "timeCreated": 14
     },
     {
-      "M": 8,
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 14,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 13,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Summer Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004",
+        "009"
+      ],
+      "agentsNames": [
+        "Beta VII",
+        "Tinkles"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 18,
+      "QTime": 18,
+      "timeCreated": 18
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 2,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog",
+        "Snuffles",
+        "Snowball",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 3,
       "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog",
+        "Snowball",
+        "Tinkles"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Squanchy",
+        "Summer Smith",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Mr. Needful",
+        "Beta VII",
+        "Snowball",
+        "Tinkles"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "005",
+        "007",
+        "009"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Beta VII",
+        "Squanchy",
+        "Summer Smith",
+        "Tinkles"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 8,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 7,
+      "Moneypenny": 10,
       "agentsSerialNumbers": [
         "008"
       ],
@@ -131,12 +449,13 @@
       ],
       "gadgetName": "Dream inceptor",
       "timeIssued": 32,
-      "QTime": 57,
+      "QTime": 32,
       "timeCreated": 32
     },
     {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
       "M": 9,
-      "Moneypenny": 5,
+      "Moneypenny": 11,
       "agentsSerialNumbers": [
         "000",
         "009"
@@ -147,9 +466,508 @@
       ],
       "gadgetName": "Dark matter2",
       "timeIssued": 33,
-      "QTime": 57,
+      "QTime": 33,
       "timeCreated": 33
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 10,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 11,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Beta VII",
+        "Summer Smith"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 12,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Beta VII",
+        "Gazorpazorpfield",
+        "Tinkles"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 13,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Mr. Needful",
+        "Squanchy"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 37,
+      "QTime": 41,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 0,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 14,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "009"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Beta VII",
+        "Squanchy"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 44,
+      "QTime": 44,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog",
+        "Snuffles",
+        "Squanchy",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 44,
+      "QTime": 44,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Snowball",
+        "Summer Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 4,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Mr. Needful",
+        "Snuffles",
+        "Squanchy",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 6,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 5,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Beta VII",
+        "Squanchy",
+        "Gazorpazorpfield",
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 7,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Snuffles",
+        "Gazorpazorpfield",
+        "Tinkles"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 8,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "007"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Mr. Needful",
+        "Summer Smith"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 51,
+      "QTime": 51,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 9,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Jerry\u0027s Mytholog",
+        "Squanchy",
+        "Snowball"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 54,
+      "QTime": 54,
+      "timeCreated": 54
+    },
+    {
+      "missionName": "You\u0027re like Hitler, except...Hitler cared about Germany, or something.",
+      "M": 11,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "008"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Snuffles",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 54,
+      "QTime": 54,
+      "timeCreated": 54
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 10,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 54,
+      "QTime": 54,
+      "timeCreated": 54
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 12,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "005"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Squanchy"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 57,
+      "QTime": 57,
+      "timeCreated": 57
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 13,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Beta VII",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 57,
+      "QTime": 57,
+      "timeCreated": 57
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 14,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "missionName": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn\u0027t.",
+      "M": 0,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Squanchy",
+        "Snowball"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 1,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Squanchy",
+        "Summer Smith"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 59,
+      "QTime": 59,
+      "timeCreated": 59
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 2,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Squanchy",
+        "Snowball"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 60,
+      "QTime": 60,
+      "timeCreated": 60
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 3,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Squanchy"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 61,
+      "QTime": 61,
+      "timeCreated": 61
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 4,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "003",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Snowball",
+        "Tinkles"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 63,
+      "QTime": 63,
+      "timeCreated": 63
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 5,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "009"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 63,
+      "QTime": 63,
+      "timeCreated": 63
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 6,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Mr. Needful",
+        "Beta VII"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 65,
+      "QTime": 65,
+      "timeCreated": 65
     }
   ],
-  "total": 24
+  "total": 52
 }

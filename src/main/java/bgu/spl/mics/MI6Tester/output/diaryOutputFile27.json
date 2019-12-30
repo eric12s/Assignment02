@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Oh Summer, haha first race war, huh?",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -17,6 +18,24 @@
       "timeCreated": 1
     },
     {
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Interdimensional cable TV box",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
       "M": 2,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
@@ -33,8 +52,9 @@
       "timeCreated": 7
     },
     {
-      "M": 1,
-      "Moneypenny": 1,
+      "missionName": "Oh Summer, haha first race war, huh?",
+      "M": 3,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000",
         "001"
@@ -43,12 +63,30 @@
         "Shrimply Pibbles",
         "Tammy Gueterman"
       ],
-      "gadgetName": "Interdimensional cable TV box",
-      "timeIssued": 3,
-      "QTime": 11,
-      "timeCreated": 3
+      "gadgetName": "Morty\u0027s Mind Blowers3",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
     },
     {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -61,10 +99,11 @@
       ],
       "gadgetName": "Shrink ray",
       "timeIssued": 16,
-      "QTime": 23,
+      "QTime": 18,
       "timeCreated": 16
     },
     {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
       "M": 2,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
@@ -77,9 +116,131 @@
       ],
       "gadgetName": "Laser Gun",
       "timeIssued": 19,
-      "QTime": 35,
+      "QTime": 19,
       "timeCreated": 19
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 21,
+      "QTime": 21,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers3",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers3",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
     }
   ],
-  "total": 9
+  "total": 15
 }

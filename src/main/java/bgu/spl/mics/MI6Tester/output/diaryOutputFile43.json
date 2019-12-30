@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Ohh yea, you gotta get schwifty.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -19,8 +20,98 @@
       "timeCreated": 6
     },
     {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
       "M": 7,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "King Jellybean",
+        "Tinkles",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 16,
+      "QTime": 17,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 13,
+      "QTime": 17,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Tinkles"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 14,
+      "QTime": 17,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 14,
+      "QTime": 17,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 8,
       "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "002",
+        "005"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 16,
+      "QTime": 17,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 6,
+      "Moneypenny": 6,
       "agentsSerialNumbers": [
         "001",
         "002",
@@ -37,8 +128,9 @@
       "timeCreated": 16
     },
     {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 2,
-      "Moneypenny": 3,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "001",
         "005"
@@ -49,10 +141,11 @@
       ],
       "gadgetName": "Interdimensional Goggles",
       "timeIssued": 13,
-      "QTime": 26,
+      "QTime": 17,
       "timeCreated": 13
     },
     {
+      "missionName": "Weddings are basically funerals with cake.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -67,44 +160,47 @@
       ],
       "gadgetName": "Curse Remover",
       "timeIssued": 7,
-      "QTime": 26,
+      "QTime": 17,
       "timeCreated": 7
     },
     {
-      "M": 8,
-      "Moneypenny": 8,
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 10,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
-        "002",
-        "005"
+        "001",
+        "002"
       ],
       "agentsNames": [
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Jerry Smith"
+        "Krombopulos Michael",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
       ],
-      "gadgetName": "Curse Remover",
-      "timeIssued": 16,
-      "QTime": 41,
-      "timeCreated": 16
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 18,
+      "QTime": 32,
+      "timeCreated": 18
     },
     {
-      "M": 3,
-      "Moneypenny": 2,
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 11,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "000",
-        "001"
+        "004"
       ],
       "agentsNames": [
         "Snowball",
-        "Krombopulos Michael"
+        "Tinkles"
       ],
-      "gadgetName": "Time freezer2",
-      "timeIssued": 13,
-      "QTime": 54,
-      "timeCreated": 13
+      "gadgetName": "Space cruiser",
+      "timeIssued": 25,
+      "QTime": 41,
+      "timeCreated": 25
     },
     {
-      "M": 3,
-      "Moneypenny": 7,
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 2,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "003"
       ],
@@ -113,9 +209,341 @@
       ],
       "gadgetName": "Space cruiser2",
       "timeIssued": 36,
-      "QTime": 63,
+      "QTime": 41,
       "timeCreated": 36
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 34,
+      "QTime": 41,
+      "timeCreated": 34
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 34,
+      "QTime": 41,
+      "timeCreated": 34
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 18,
+      "QTime": 41,
+      "timeCreated": 18
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Tinkles",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 40,
+      "QTime": 41,
+      "timeCreated": 40
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 10,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 9,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 47,
+      "QTime": 49,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 8,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 45,
+      "QTime": 49,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 44,
+      "QTime": 49,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 45,
+      "QTime": 49,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 45,
+      "QTime": 49,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "King Jellybean",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 44,
+      "QTime": 49,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 0,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Ionic Defibulizer4",
+      "timeIssued": 53,
+      "QTime": 53,
+      "timeCreated": 53
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 11,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Krombopulos Michael",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles6",
+      "timeIssued": 51,
+      "QTime": 53,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 1,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "005"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Jerry Smith"
+      ],
+      "gadgetName": "Ionic Defibulizer5",
+      "timeIssued": 55,
+      "QTime": 55,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Tinkles"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 55,
+      "QTime": 55,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "King Jellybean"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 56,
+      "QTime": 56,
+      "timeCreated": 56
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 4,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Froopyland Chalk5",
+      "timeIssued": 58,
+      "QTime": 58,
+      "timeCreated": 58
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 6,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Interdimensional Goggles4",
+      "timeIssued": 65,
+      "QTime": 67,
+      "timeCreated": 65
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 5,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional Goggles4",
+      "timeIssued": 59,
+      "QTime": 67,
+      "timeCreated": 59
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 7,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 72,
+      "QTime": 72,
+      "timeCreated": 72
     }
   ],
-  "total": 19
+  "total": 34
 }

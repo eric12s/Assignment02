@@ -1,8 +1,26 @@
 {
   "reports": [
     {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Unity"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
       "M": 0,
-      "Moneypenny": 2,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "001",
         "002"
@@ -17,22 +35,9 @@
       "timeCreated": 3
     },
     {
-      "M": 4,
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 2,
       "Moneypenny": 2,
-      "agentsSerialNumbers": [
-        "002"
-      ],
-      "agentsNames": [
-        "Unity"
-      ],
-      "gadgetName": "Portal gun",
-      "timeIssued": 6,
-      "QTime": 12,
-      "timeCreated": 6
-    },
-    {
-      "M": 3,
-      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000"
       ],
@@ -41,26 +46,28 @@
       ],
       "gadgetName": "Time freezer",
       "timeIssued": 5,
-      "QTime": 12,
+      "QTime": 5,
       "timeCreated": 5
     },
     {
-      "M": 4,
-      "Moneypenny": 2,
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 3,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "002"
       ],
       "agentsNames": [
         "Unity"
       ],
-      "gadgetName": "Emergency Bionic Arm",
-      "timeIssued": 10,
-      "QTime": 15,
-      "timeCreated": 10
+      "gadgetName": "Portal gun",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
     },
     {
-      "M": 0,
-      "Moneypenny": 0,
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 4,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "000",
         "001"
@@ -71,11 +78,232 @@
       ],
       "gadgetName": "Portal gun2",
       "timeIssued": 8,
-      "QTime": 22,
+      "QTime": 8,
       "timeCreated": 8
     },
     {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Unity"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 4,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 12,
+      "QTime": 14,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 10,
+      "QTime": 14,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 4,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Unity"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers",
+      "timeIssued": 20,
+      "QTime": 23,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 18,
+      "QTime": 23,
+      "timeCreated": 18
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Unity"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 12,
+      "QTime": 23,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 18,
+      "QTime": 23,
+      "timeCreated": 18
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Unity"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 21,
+      "QTime": 23,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 21,
+      "QTime": 33,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Unity",
+        "Snowball"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 22,
+      "QTime": 33,
+      "timeCreated": 22
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 23,
+      "QTime": 33,
+      "timeCreated": 23
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 4,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
         "001",
@@ -85,25 +313,11 @@
         "Gazorpazorpfield",
         "Unity"
       ],
-      "gadgetName": "Grappling Shoes",
-      "timeIssued": 3,
-      "QTime": 25,
-      "timeCreated": 3
-    },
-    {
-      "M": 4,
-      "Moneypenny": 0,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Gazorpazorpfield"
-      ],
-      "gadgetName": "Grappling Shoes",
-      "timeIssued": 18,
-      "QTime": 27,
-      "timeCreated": 18
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 31,
+      "QTime": 33,
+      "timeCreated": 31
     }
   ],
-  "total": 12
+  "total": 20
 }

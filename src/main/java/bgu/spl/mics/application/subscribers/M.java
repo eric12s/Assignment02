@@ -12,6 +12,8 @@ import bgu.spl.mics.application.passiveObjects.Report;
 
 import java.util.List;
 
+import static java.lang.Thread.sleep;
+
 /**
  * M handles ReadyEvent - fills a report and sends agents to mission.
  *
@@ -25,7 +27,6 @@ public class M extends Subscriber {
 	public M(int _id) {
 		super("M " + _id);
 		id = _id;
-		// TODO Implement this
 	}
 
 	@Override
@@ -35,6 +36,7 @@ public class M extends Subscriber {
 		subscribeEvent(MissionReceivedEvent.class,
 				e ->
 				{
+					Diary.getInstance().incrementTotal();
 					MissionInfo missionInfo = e.getMissionInfo();
 					AgentsAvailableEvent agAvail = new AgentsAvailableEvent(missionInfo.getSerialAgentsNumbers(), missionInfo);
 					Future<Pair<List<String>, Integer>> futAgent = getSimplePublisher().sendEvent(agAvail);
@@ -60,7 +62,7 @@ public class M extends Subscriber {
 							} else {
 								complete(e, false);
 								agAvail.getSendEvent().resolve(false);
-								GadgetAvail.getReturnGadget().resolve(true);//TODO: Check if need to return gadget when tick is too late
+								GadgetAvail.getReturnGadget().resolve(true);
 							}
 						} else {
 							complete(e, false);
@@ -68,7 +70,9 @@ public class M extends Subscriber {
 							GadgetAvail.getReturnGadget().resolve(true);
 						}
 					}
-					Diary.getInstance().incrementTotal();
+					else {
+						agAvail.getSendEvent().resolve(false);
+					}
 				});
 
 		subscribeBroadcast(TerminateBroadcast.class, e -> this.terminate());

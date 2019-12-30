@@ -1,8 +1,9 @@
 {
   "reports": [
     {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
       "M": 0,
-      "Moneypenny": 0,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "001",
         "002"
@@ -17,8 +18,58 @@
       "timeCreated": 1
     },
     {
+      "missionName": "Keep Summer safe.",
       "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 1,
       "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog",
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "001"
       ],
@@ -27,9 +78,9 @@
       ],
       "gadgetName": "Neutrino bomb",
       "timeIssued": 3,
-      "QTime": 4,
+      "QTime": 3,
       "timeCreated": 3
     }
   ],
-  "total": 6
+  "total": 9
 }

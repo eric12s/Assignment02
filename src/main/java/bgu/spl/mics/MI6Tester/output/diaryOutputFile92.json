@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -17,8 +18,9 @@
       "timeCreated": 4
     },
     {
-      "M": 3,
-      "Moneypenny": 2,
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 1,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "002",
         "004",
@@ -35,7 +37,25 @@
       "timeCreated": 6
     },
     {
-      "M": 7,
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 3,
       "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000",
@@ -49,26 +69,11 @@
       ],
       "gadgetName": "Purge Suit",
       "timeIssued": 11,
-      "QTime": 12,
+      "QTime": 11,
       "timeCreated": 11
     },
     {
-      "M": 6,
-      "Moneypenny": 1,
-      "agentsSerialNumbers": [
-        "003",
-        "004"
-      ],
-      "agentsNames": [
-        "Shrimply Pibbles",
-        "Mr. Meeseeks"
-      ],
-      "gadgetName": "Dream inceptor",
-      "timeIssued": 10,
-      "QTime": 14,
-      "timeCreated": 10
-    },
-    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
       "M": 4,
       "Moneypenny": 4,
       "agentsSerialNumbers": [
@@ -87,22 +92,7 @@
       "timeCreated": 19
     },
     {
-      "M": 2,
-      "Moneypenny": 6,
-      "agentsSerialNumbers": [
-        "003",
-        "004"
-      ],
-      "agentsNames": [
-        "Shrimply Pibbles",
-        "Mr. Meeseeks"
-      ],
-      "gadgetName": "Futuristic guns",
-      "timeIssued": 30,
-      "QTime": 31,
-      "timeCreated": 30
-    },
-    {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
       "M": 5,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
@@ -117,11 +107,84 @@
       ],
       "gadgetName": "Interdimensional Goggles",
       "timeIssued": 26,
-      "QTime": 41,
+      "QTime": 26,
       "timeCreated": 26
     },
     {
-      "M": 1,
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Beth\u0027s Mytholog",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 10,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Jan Michael Vincent",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 38,
+      "QTime": 38,
+      "timeCreated": 38
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 9,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
@@ -135,12 +198,107 @@
       ],
       "gadgetName": "Futuristic guns",
       "timeIssued": 36,
-      "QTime": 41,
+      "QTime": 38,
       "timeCreated": 36
     },
     {
-      "M": 9,
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 0,
       "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 41,
+      "QTime": 41,
+      "timeCreated": 41
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 43,
+      "QTime": 43,
+      "timeCreated": 43
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 44,
+      "QTime": 44,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 6,
+      "Moneypenny": 8,
       "agentsSerialNumbers": [
         "000",
         "001",
@@ -151,14 +309,15 @@
         "Jan Michael Vincent",
         "Shrimply Pibbles"
       ],
-      "gadgetName": "Butter-passing robot2",
-      "timeIssued": 38,
-      "QTime": 53,
-      "timeCreated": 38
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
     },
     {
-      "M": 9,
-      "Moneypenny": 2,
+      "missionName": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn\u0027t.",
+      "M": 10,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "003"
       ],
@@ -167,26 +326,13 @@
       ],
       "gadgetName": "Froopyland Chalk",
       "timeIssued": 52,
-      "QTime": 57,
+      "QTime": 53,
       "timeCreated": 52
     },
     {
-      "M": 6,
-      "Moneypenny": 4,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Jan Michael Vincent"
-      ],
-      "gadgetName": "Dark matter",
-      "timeIssued": 42,
-      "QTime": 57,
-      "timeCreated": 42
-    },
-    {
-      "M": 1,
-      "Moneypenny": 0,
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 9,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "004"
       ],
@@ -195,9 +341,162 @@
       ],
       "gadgetName": "Meeseeks Box",
       "timeIssued": 49,
-      "QTime": 63,
+      "QTime": 53,
       "timeCreated": 49
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 7,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 47,
+      "QTime": 53,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 8,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 47,
+      "QTime": 53,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 0,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 55,
+      "QTime": 55,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 1,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 55,
+      "QTime": 55,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 59,
+      "QTime": 59,
+      "timeCreated": 59
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 62,
+      "QTime": 62,
+      "timeCreated": 62
+    },
+    {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
+      "M": 4,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 65,
+      "QTime": 65,
+      "timeCreated": 65
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 5,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 66,
+      "QTime": 66,
+      "timeCreated": 66
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 6,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Dr. Glip-Glop",
+        "Jan Michael Vincent",
+        "Shrimply Pibbles"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 67,
+      "QTime": 67,
+      "timeCreated": 67
     }
   ],
-  "total": 21
+  "total": 29
 }

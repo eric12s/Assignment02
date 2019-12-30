@@ -1,7 +1,25 @@
 {
   "reports": [
     {
-      "M": 2,
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Stealy",
+        "Beth Smith"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
         "000",
@@ -17,8 +35,9 @@
       "timeCreated": 1
     },
     {
-      "M": 1,
-      "Moneypenny": 0,
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "002"
       ],
@@ -31,8 +50,9 @@
       "timeCreated": 1
     },
     {
-      "M": 1,
-      "Moneypenny": 1,
+      "missionName": "Don’t even trip dawg.",
+      "M": 4,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000"
       ],
@@ -43,7 +63,88 @@
       "timeIssued": 2,
       "QTime": 2,
       "timeCreated": 2
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Stealy"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
     }
   ],
-  "total": 8
+  "total": 14
 }

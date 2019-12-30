@@ -29,7 +29,6 @@ public class SquadTest {
 
     @Test
     public void getInstanceTest(){
-        //TODO: change this test and add more tests :)
         assertEquals(sq, Squad.getInstance(), "getInstance failed");
     }
 

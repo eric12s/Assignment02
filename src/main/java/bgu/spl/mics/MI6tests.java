@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * TODO - READ ME
+ *
  * For running the tests do the following:
  *  1. Add MI6test file under bgu.spl.mics
  *  2. args[0] - Path for the main folder extracted from zip (which jsons and output folders inside)
@@ -45,8 +45,8 @@ public class MI6tests {
             System.out.println("Run number "+ counter + " completed in " + took+" Millis\n\n\n");
             testReport.add("Test with input" +counter+".json completed - " + diary.getReports().size() + "/" +diary.getTotal() + " completed out of total attempted missions. Total runtime "+ took+" Millis");
             Thread.sleep(1000);
-            diary.clear(); //TODO must be added for tests
-            broker.clear(); //TODO must be added for tests
+            diary.clear();
+            broker.clear();
             Thread.sleep(1000);
             counter++;
         }

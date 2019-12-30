@@ -24,7 +24,6 @@ public class Moneypenny extends Subscriber {
 		super("Moneypenny " + _id);
 		id = _id;
 		squad = Squad.getInstance();
-		// TODO Implement this
 	}
 
 	@Override
@@ -41,6 +40,8 @@ public class Moneypenny extends Subscriber {
 			Pair<List<String>, Integer> pair = new Pair<>(squad.getAgentsNames(serialNumbers), id);
 			complete(e, pair);
 			if(b){
+				boolean isTer = isTerminated();
+				boolean isTrue = e.getSendEvent().get();
 				if(!isTerminated() && e.getSendEvent() != null && e.getSendEvent().get()){
 					Squad.getInstance().sendAgents(serialNumbers, e.getMissionInfo().getDuration());
 				}

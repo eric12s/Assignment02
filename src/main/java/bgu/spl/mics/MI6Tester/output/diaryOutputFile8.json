@@ -1,6 +1,22 @@
 {
   "reports": [
     {
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -11,7 +27,7 @@
       ],
       "gadgetName": "Demonic Alien Containment Box",
       "timeIssued": 1,
-      "QTime": 1,
+      "QTime": 4,
       "timeCreated": 1
     },
     {
@@ -25,24 +41,8 @@
       ],
       "gadgetName": "Interdimensional cable TV box2",
       "timeIssued": 9,
-      "QTime": 9,
+      "QTime": 12,
       "timeCreated": 9
-    },
-    {
-      "M": 0,
-      "Moneypenny": 0,
-      "agentsSerialNumbers": [
-        "000",
-        "001"
-      ],
-      "agentsNames": [
-        "Krombopulos Michael",
-        "Jan Michael Vincent"
-      ],
-      "gadgetName": "Ionic Defibulizer",
-      "timeIssued": 1,
-      "QTime": 10,
-      "timeCreated": 1
     },
     {
       "M": 2,

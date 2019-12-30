@@ -1,8 +1,9 @@
 {
   "reports": [
     {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
       "M": 0,
-      "Moneypenny": 0,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "001"
       ],
@@ -15,24 +16,171 @@
       "timeCreated": 6
     },
     {
-      "M": 0,
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Jessica"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 3,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy",
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Futuristic guns5",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 4,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Rick Sanchez",
+        "Stealy"
+      ],
+      "gadgetName": "Butter-passing robot3",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
         "001",
         "005"
       ],
       "agentsNames": [
+        "Cousin Nicky",
         "Jerry Smith",
         "Mr. Meeseeks"
       ],
-      "gadgetName": "Curse Remover2",
+      "gadgetName": "Futuristic guns3",
       "timeIssued": 16,
-      "QTime": 16,
+      "QTime": 21,
       "timeCreated": 16
     },
     {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 10,
+      "QTime": 21,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Jessica"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 10,
+      "QTime": 21,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Rick Sanchez"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 19,
+      "QTime": 21,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
       "M": 11,
       "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Futuristic guns4",
+      "timeIssued": 14,
+      "QTime": 21,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 10,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Shrink ray",
+      "timeIssued": 14,
+      "QTime": 21,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 12,
+      "Moneypenny": 12,
       "agentsSerialNumbers": [
         "002",
         "004"
@@ -43,12 +191,13 @@
       ],
       "gadgetName": "Dark matter2",
       "timeIssued": 14,
-      "QTime": 16,
+      "QTime": 21,
       "timeCreated": 14
     },
     {
-      "M": 8,
-      "Moneypenny": 8,
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 7,
+      "Moneypenny": 7,
       "agentsSerialNumbers": [
         "003"
       ],
@@ -57,51 +206,9 @@
       ],
       "gadgetName": "Microverse battery3",
       "timeIssued": 11,
-      "QTime": 26,
+      "QTime": 21,
       "timeCreated": 11
-    },
-    {
-      "M": 4,
-      "Moneypenny": 6,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Jerry Smith"
-      ],
-      "gadgetName": "Demonic Alien Containment Box2",
-      "timeIssued": 10,
-      "QTime": 26,
-      "timeCreated": 10
-    },
-    {
-      "M": 12,
-      "Moneypenny": 11,
-      "agentsSerialNumbers": [
-        "005"
-      ],
-      "agentsNames": [
-        "Mr. Meeseeks"
-      ],
-      "gadgetName": "Shrink ray",
-      "timeIssued": 14,
-      "QTime": 32,
-      "timeCreated": 14
-    },
-    {
-      "M": 9,
-      "Moneypenny": 12,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Jerry Smith"
-      ],
-      "gadgetName": "Futuristic guns4",
-      "timeIssued": 14,
-      "QTime": 32,
-      "timeCreated": 14
     }
   ],
-  "total": 20
+  "total": 26
 }

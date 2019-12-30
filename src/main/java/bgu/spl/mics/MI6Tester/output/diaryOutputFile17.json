@@ -18,6 +18,64 @@
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Grappling Shoes5",
+      "timeIssued": 14,
+      "QTime": 15,
+      "timeCreated": 14
+    },
+    {
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold",
+        "Snowball"
+      ],
+      "gadgetName": "Meeseeks Box3",
+      "timeIssued": 9,
+      "QTime": 15,
+      "timeCreated": 9
+    },
+    {
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 4,
+      "QTime": 29,
+      "timeCreated": 4
+    },
+    {
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 2,
+      "QTime": 29,
+      "timeCreated": 2
+    },
+    {
+      "M": 1,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
         "000",
         "001",
         "002"
@@ -29,7 +87,7 @@
       ],
       "gadgetName": "Shrink ray2",
       "timeIssued": 14,
-      "QTime": 15,
+      "QTime": 49,
       "timeCreated": 14
     },
     {
@@ -47,70 +105,8 @@
       ],
       "gadgetName": "Laser Gun",
       "timeIssued": 8,
-      "QTime": 16,
+      "QTime": 49,
       "timeCreated": 8
-    },
-    {
-      "M": 5,
-      "Moneypenny": 5,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Mr. Goldenfold"
-      ],
-      "gadgetName": "Time freezer2",
-      "timeIssued": 8,
-      "QTime": 16,
-      "timeCreated": 8
-    },
-    {
-      "M": 2,
-      "Moneypenny": 2,
-      "agentsSerialNumbers": [
-        "005"
-      ],
-      "agentsNames": [
-        "King Jellybean"
-      ],
-      "gadgetName": "Froopyland Chalk",
-      "timeIssued": 2,
-      "QTime": 16,
-      "timeCreated": 2
-    },
-    {
-      "M": 9,
-      "Moneypenny": 8,
-      "agentsSerialNumbers": [
-        "000",
-        "004"
-      ],
-      "agentsNames": [
-        "Mr. Goldenfold",
-        "Snowball"
-      ],
-      "gadgetName": "Meeseeks Box3",
-      "timeIssued": 9,
-      "QTime": 44,
-      "timeCreated": 9
-    },
-    {
-      "M": 7,
-      "Moneypenny": 7,
-      "agentsSerialNumbers": [
-        "001",
-        "003",
-        "005"
-      ],
-      "agentsNames": [
-        "Tinkles",
-        "Morty Smith",
-        "King Jellybean"
-      ],
-      "gadgetName": "Shrink ray4",
-      "timeIssued": 9,
-      "QTime": 44,
-      "timeCreated": 9
     }
   ],
   "total": 17

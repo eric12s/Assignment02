@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Weddings are basically funerals with cake.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -21,38 +22,24 @@
       "timeCreated": 6
     },
     {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
       "M": 1,
-      "Moneypenny": 6,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
-        "002",
-        "007"
+        "003"
       ],
       "agentsNames": [
-        "Krombopulos Michael",
-        "Beta VII"
+        "Mr. Needful"
       ],
-      "gadgetName": "Meeseeks Box2",
-      "timeIssued": 10,
-      "QTime": 20,
-      "timeCreated": 10
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
     },
     {
-      "M": 4,
-      "Moneypenny": 4,
-      "agentsSerialNumbers": [
-        "004"
-      ],
-      "agentsNames": [
-        "Baby Legs"
-      ],
-      "gadgetName": "Neutrino bomb",
-      "timeIssued": 9,
-      "QTime": 20,
-      "timeCreated": 9
-    },
-    {
-      "M": 3,
-      "Moneypenny": 2,
+      "missionName": "Oh Summer, haha first race war, huh?",
+      "M": 2,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "000",
         "003",
@@ -67,11 +54,44 @@
       ],
       "gadgetName": "Curse Remover3",
       "timeIssued": 7,
-      "QTime": 20,
+      "QTime": 15,
       "timeCreated": 7
     },
     {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
       "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "002",
+        "007"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Beta VII"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 10,
+      "QTime": 15,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 9,
+      "QTime": 15,
+      "timeCreated": 9
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 5,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
         "007"
@@ -81,12 +101,32 @@
       ],
       "gadgetName": "Neutrino bomb2",
       "timeIssued": 10,
-      "QTime": 33,
+      "QTime": 15,
       "timeCreated": 10
     },
     {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 3,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Baby Legs",
+        "Beth Smith"
+      ],
+      "gadgetName": "Love Potion3",
+      "timeIssued": 8,
+      "QTime": 15,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
       "M": 7,
-      "Moneypenny": 3,
+      "Moneypenny": 7,
       "agentsSerialNumbers": [
         "002"
       ],
@@ -95,64 +135,13 @@
       ],
       "gadgetName": "Butter-passing robot",
       "timeIssued": 21,
-      "QTime": 41,
+      "QTime": 21,
       "timeCreated": 21
     },
     {
-      "M": 11,
-      "Moneypenny": 14,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Jerry Smith"
-      ],
-      "gadgetName": "Butter-passing robot2",
-      "timeIssued": 31,
-      "QTime": 48,
-      "timeCreated": 31
-    },
-    {
-      "M": 0,
-      "Moneypenny": 0,
-      "agentsSerialNumbers": [
-        "001",
-        "002",
-        "004"
-      ],
-      "agentsNames": [
-        "Lighthouse Chief",
-        "Krombopulos Michael",
-        "Baby Legs"
-      ],
-      "gadgetName": "Interdimensional cable TV box4",
-      "timeIssued": 33,
-      "QTime": 54,
-      "timeCreated": 33
-    },
-    {
-      "M": 1,
-      "Moneypenny": 4,
-      "agentsSerialNumbers": [
-        "001",
-        "003",
-        "005",
-        "006"
-      ],
-      "agentsNames": [
-        "Lighthouse Chief",
-        "Mr. Needful",
-        "Evil Morty",
-        "Beth Smith"
-      ],
-      "gadgetName": "Shrink ray2",
-      "timeIssued": 38,
-      "QTime": 68,
-      "timeCreated": 38
-    },
-    {
+      "missionName": "Pluto\u0027s a planet.",
       "M": 8,
-      "Moneypenny": 9,
+      "Moneypenny": 8,
       "agentsSerialNumbers": [
         "001",
         "002",
@@ -167,11 +156,192 @@
       ],
       "gadgetName": "Interdimensional cable TV box4",
       "timeIssued": 23,
-      "QTime": 79,
+      "QTime": 23,
       "timeCreated": 23
     },
     {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Krombopulos Michael",
+        "Beth Smith"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "Mr. Needful",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 39,
+      "QTime": 40,
+      "timeCreated": 39
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Beth Smith",
+        "Beta VII"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 36,
+      "QTime": 40,
+      "timeCreated": 36
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Mr. Needful"
+      ],
+      "gadgetName": "Meeseeks Box5",
+      "timeIssued": 33,
+      "QTime": 46,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Jerry Smith"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 31,
+      "QTime": 46,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 38,
+      "QTime": 46,
+      "timeCreated": 38
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Mr. Needful",
+        "Baby Legs"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 44,
+      "QTime": 46,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Mr. Needful",
+        "Evil Morty",
+        "Beth Smith"
+      ],
+      "gadgetName": "Shrink ray2",
+      "timeIssued": 38,
+      "QTime": 46,
+      "timeCreated": 38
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
       "M": 13,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Lighthouse Chief",
+        "Mr. Needful",
+        "Beth Smith"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 32,
+      "QTime": 46,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 14,
       "Moneypenny": 13,
       "agentsSerialNumbers": [
         "003",
@@ -183,9 +353,265 @@
       ],
       "gadgetName": "Dream inceptor",
       "timeIssued": 32,
-      "QTime": 79,
+      "QTime": 46,
       "timeCreated": 32
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 2,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Mr. Needful"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 33,
+      "QTime": 48,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Krombopulos Michael",
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional cable TV box4",
+      "timeIssued": 33,
+      "QTime": 48,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Beth Smith",
+        "Beta VII"
+      ],
+      "gadgetName": "Futuristic guns5",
+      "timeIssued": 33,
+      "QTime": 48,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 10,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Meeseeks Box",
+      "timeIssued": 44,
+      "QTime": 62,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Beth Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 33,
+      "QTime": 62,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 16,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Krombopulos Michael",
+        "Beth Smith",
+        "Beta VII"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 32,
+      "QTime": 62,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 14,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Mr. Needful"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 52,
+      "QTime": 62,
+      "timeCreated": 52
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 2,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Beth Smith"
+      ],
+      "gadgetName": "Meeseeks Box2",
+      "timeIssued": 70,
+      "QTime": 75,
+      "timeCreated": 70
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 15,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "005",
+        "008"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Baby Legs",
+        "Evil Morty",
+        "King Jellybean"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 33,
+      "QTime": 82,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 7,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Beth Smith"
+      ],
+      "gadgetName": "Neutrino bomb4",
+      "timeIssued": 80,
+      "QTime": 82,
+      "timeCreated": 80
+    },
+    {
+      "missionName": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn\u0027t.",
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Krombopulos Michael",
+        "Evil Morty",
+        "Beta VII"
+      ],
+      "gadgetName": "Meeseeks Box3",
+      "timeIssued": 31,
+      "QTime": 82,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 6,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Space cruiser3",
+      "timeIssued": 75,
+      "QTime": 82,
+      "timeCreated": 75
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Jerry Smith",
+        "Lighthouse Chief",
+        "Mr. Needful",
+        "Beth Smith"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 49,
+      "QTime": 82,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 12,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "006"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Beth Smith"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 50,
+      "QTime": 82,
+      "timeCreated": 50
     }
   ],
-  "total": 28
+  "total": 42
 }

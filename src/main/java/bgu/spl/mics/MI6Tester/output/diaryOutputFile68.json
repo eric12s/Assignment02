@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,6 +16,7 @@
       "timeCreated": 4
     },
     {
+      "missionName": "Aww, gee, you got me there Rick.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -29,22 +31,9 @@
       "timeCreated": 8
     },
     {
-      "M": 1,
-      "Moneypenny": 1,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Krombopulos Michael"
-      ],
-      "gadgetName": "Froopyland Chalk",
-      "timeIssued": 13,
-      "QTime": 14,
-      "timeCreated": 13
-    },
-    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 2,
-      "Moneypenny": 3,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "000",
         "001"
@@ -55,28 +44,13 @@
       ],
       "gadgetName": "Portal gun",
       "timeIssued": 9,
-      "QTime": 21,
+      "QTime": 9,
       "timeCreated": 9
     },
     {
-      "M": 1,
-      "Moneypenny": 3,
-      "agentsSerialNumbers": [
-        "000",
-        "001"
-      ],
-      "agentsNames": [
-        "Krombopulos Michael",
-        "King Jellybean"
-      ],
-      "gadgetName": "Froopyland Chalk2",
-      "timeIssued": 15,
-      "QTime": 23,
-      "timeCreated": 15
-    },
-    {
+      "missionName": "Keep Summer safe.",
       "M": 3,
-      "Moneypenny": 2,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000"
       ],
@@ -85,10 +59,41 @@
       ],
       "gadgetName": "Morty\u0027s Mind Blowers",
       "timeIssued": 10,
-      "QTime": 28,
+      "QTime": 10,
       "timeCreated": 10
     },
     {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
       "M": 2,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
@@ -101,10 +106,92 @@
       ],
       "gadgetName": "Portal gun",
       "timeIssued": 13,
-      "QTime": 29,
+      "QTime": 13,
       "timeCreated": 13
     },
     {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean"
+      ],
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -114,12 +201,30 @@
         "Krombopulos Michael"
       ],
       "gadgetName": "Futuristic guns2",
-      "timeIssued": 12,
-      "QTime": 29,
-      "timeCreated": 12
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
     },
     {
-      "M": 3,
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 25,
+      "QTime": 27,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 2,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
         "001"
@@ -128,10 +233,42 @@
         "King Jellybean"
       ],
       "gadgetName": "Space cruiser",
-      "timeIssued": 14,
+      "timeIssued": 25,
+      "QTime": 27,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "King Jellybean"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Krombopulos Michael",
+        "King Jellybean"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 34,
       "QTime": 34,
-      "timeCreated": 14
+      "timeCreated": 34
     }
   ],
-  "total": 13
+  "total": 17
 }

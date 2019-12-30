@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Keep Summer safe.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -17,6 +18,7 @@
       "timeCreated": 3
     },
     {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -33,28 +35,9 @@
       "timeCreated": 8
     },
     {
-      "M": 7,
-      "Moneypenny": 7,
-      "agentsSerialNumbers": [
-        "000",
-        "002",
-        "003",
-        "007"
-      ],
-      "agentsNames": [
-        "Mr. Poopybutthole",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Morty Smith",
-        "Baby Legs"
-      ],
-      "gadgetName": "Neutrino bomb",
-      "timeIssued": 17,
-      "QTime": 18,
-      "timeCreated": 17
-    },
-    {
-      "M": 3,
-      "Moneypenny": 3,
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "002",
         "005",
@@ -67,96 +50,13 @@
       ],
       "gadgetName": "Interdimensional Goggles2",
       "timeIssued": 10,
-      "QTime": 26,
+      "QTime": 10,
       "timeCreated": 10
     },
     {
-      "M": 5,
-      "Moneypenny": 5,
-      "agentsSerialNumbers": [
-        "000"
-      ],
-      "agentsNames": [
-        "Mr. Poopybutthole"
-      ],
-      "gadgetName": "Cognition amplifier2",
-      "timeIssued": 12,
-      "QTime": 26,
-      "timeCreated": 12
-    },
-    {
-      "M": 9,
-      "Moneypenny": 9,
-      "agentsSerialNumbers": [
-        "004"
-      ],
-      "agentsNames": [
-        "Tinkles"
-      ],
-      "gadgetName": "Laser Gun",
-      "timeIssued": 24,
-      "QTime": 32,
-      "timeCreated": 24
-    },
-    {
-      "M": 6,
-      "Moneypenny": 6,
-      "agentsSerialNumbers": [
-        "001",
-        "002",
-        "006"
-      ],
-      "agentsNames": [
-        "Shrimply Pibbles",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Loggins"
-      ],
-      "gadgetName": "Futuristic guns",
-      "timeIssued": 13,
-      "QTime": 32,
-      "timeCreated": 13
-    },
-    {
-      "M": 8,
-      "Moneypenny": 8,
-      "agentsSerialNumbers": [
-        "000",
-        "003"
-      ],
-      "agentsNames": [
-        "Mr. Poopybutthole",
-        "Morty Smith"
-      ],
-      "gadgetName": "Laser Gun",
-      "timeIssued": 22,
-      "QTime": 34,
-      "timeCreated": 22
-    },
-    {
-      "M": 7,
-      "Moneypenny": 7,
-      "agentsSerialNumbers": [
-        "001",
-        "002",
-        "006",
-        "007",
-        "008"
-      ],
-      "agentsNames": [
-        "Shrimply Pibbles",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Loggins",
-        "Baby Legs",
-        "Evil Morty"
-      ],
-      "gadgetName": "Combat suit",
-      "timeIssued": 51,
-      "QTime": 53,
-      "timeCreated": 51
-    },
-    {
-      "M": 2,
-      "Moneypenny": 2,
+      "missionName": "Keep Summer safe.",
+      "M": 3,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "000",
         "001",
@@ -173,10 +73,302 @@
       ],
       "gadgetName": "Froopyland Chalk",
       "timeIssued": 10,
-      "QTime": 58,
+      "QTime": 10,
       "timeCreated": 10
     },
     {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Loggins"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 9,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 24,
+      "QTime": 27,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Morty Smith"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 22,
+      "QTime": 27,
+      "timeCreated": 22
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "003",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Morty Smith",
+        "Baby Legs"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 17,
+      "QTime": 27,
+      "timeCreated": 17
+    },
+    {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 11,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 10,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Tinkles",
+        "Evil Morty"
+      ],
+      "gadgetName": "Interdimensional Goggles3",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "004",
+        "009"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Shrimply Pibbles",
+        "Morty Smith",
+        "Tinkles",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Morty Smith",
+        "Loggins",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 38,
+      "QTime": 38,
+      "timeCreated": 38
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Morty Smith",
+        "Scary Terry"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 15,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Scary Terry"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 41,
+      "QTime": 41,
+      "timeCreated": 41
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 16,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 41,
+      "QTime": 41,
+      "timeCreated": 41
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Shrimply Pibbles",
+        "Tinkles",
+        "Loggins",
+        "Evil Morty"
+      ],
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 46,
+      "QTime": 47,
+      "timeCreated": 46
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 44,
+      "QTime": 47,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
       "M": 0,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
@@ -195,32 +387,11 @@
       ],
       "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
       "timeIssued": 43,
-      "QTime": 77,
+      "QTime": 47,
       "timeCreated": 43
     },
     {
-      "M": 10,
-      "Moneypenny": 10,
-      "agentsSerialNumbers": [
-        "000",
-        "001",
-        "002",
-        "004",
-        "008"
-      ],
-      "agentsNames": [
-        "Mr. Poopybutthole",
-        "Shrimply Pibbles",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Tinkles",
-        "Evil Morty"
-      ],
-      "gadgetName": "Interdimensional Goggles3",
-      "timeIssued": 32,
-      "QTime": 87,
-      "timeCreated": 32
-    },
-    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
       "M": 1,
       "Moneypenny": 3,
       "agentsSerialNumbers": [
@@ -237,9 +408,340 @@
       ],
       "gadgetName": "Cognition amplifier2",
       "timeIssued": 44,
-      "QTime": 87,
+      "QTime": 57,
       "timeCreated": 44
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "001",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Scary Terry",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 51,
+      "QTime": 57,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Cognition amplifier3",
+      "timeIssued": 48,
+      "QTime": 57,
+      "timeCreated": 48
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 8,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Loggins",
+        "Baby Legs"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 54,
+      "QTime": 59,
+      "timeCreated": 54
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Tinkles",
+        "Loggins",
+        "Evil Morty"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 51,
+      "QTime": 59,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 14,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "002",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Scary Terry",
+        "Baby Legs"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 62,
+      "QTime": 63,
+      "timeCreated": 62
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 11,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Morty Smith",
+        "Tinkles",
+        "Evil Morty"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 56,
+      "QTime": 63,
+      "timeCreated": 56
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 12,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Baby Legs"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 56,
+      "QTime": 63,
+      "timeCreated": 56
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 9,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Morty Smith",
+        "Loggins"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 55,
+      "QTime": 63,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Loggins",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 51,
+      "QTime": 63,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 0,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 70,
+      "QTime": 74,
+      "timeCreated": 70
+    },
+    {
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 16,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Scary Terry"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 65,
+      "QTime": 74,
+      "timeCreated": 65
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 13,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "003",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Shrimply Pibbles",
+        "Morty Smith",
+        "Loggins",
+        "Baby Legs"
+      ],
+      "gadgetName": "Interdimensional Goggles",
+      "timeIssued": 62,
+      "QTime": 74,
+      "timeCreated": 62
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 10,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Morty Smith",
+        "Scary Terry",
+        "Loggins",
+        "Evil Morty"
+      ],
+      "gadgetName": "Meeseeks Box3",
+      "timeIssued": 55,
+      "QTime": 74,
+      "timeCreated": 55
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 15,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "006"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Morty Smith",
+        "Loggins"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 64,
+      "QTime": 74,
+      "timeCreated": 64
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "007"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole",
+        "Baby Legs"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 74,
+      "QTime": 74,
+      "timeCreated": 74
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 1,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Loggins",
+        "Baby Legs",
+        "Evil Morty"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 71,
+      "QTime": 74,
+      "timeCreated": 71
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 3,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Shrimply Pibbles",
+        "Tinkles"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 76,
+      "QTime": 80,
+      "timeCreated": 76
     }
   ],
-  "total": 30
+  "total": 43
 }

@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Keep Summer safe.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -21,8 +22,9 @@
       "timeCreated": 2
     },
     {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
       "M": 1,
-      "Moneypenny": 2,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "003",
         "005"
@@ -37,6 +39,247 @@
       "timeCreated": 2
     },
     {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jerry\u0027s Mytholog",
+        "Summer Smith",
+        "Eyeholes Man",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Evil Morty",
+        "Eyeholes Man",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Snuffles"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "008"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Snuffles",
+        "Jerry\u0027s Mytholog",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 7,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Interdimensional cable TV box2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "004",
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Jerry\u0027s Mytholog",
+        "Summer Smith",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Combat suit3",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "002",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Summer Smith",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Dark matter2",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
+      "M": 9,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jerry\u0027s Mytholog",
+        "Summer Smith",
+        "Eyeholes Man",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster3",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 10,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Snuffles",
+        "Evil Morty",
+        "Stealy",
+        "Summer Smith",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002",
+        "003",
+        "007"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Baby Legs",
+        "Snuffles",
+        "Evil Morty",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Evil Morty",
+        "Stealy"
+      ],
+      "gadgetName": "Time freezer3",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Stealy"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster3",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
       "M": 14,
       "Moneypenny": 14,
       "agentsSerialNumbers": [
@@ -57,37 +300,228 @@
       "timeCreated": 13
     },
     {
-      "M": 5,
-      "Moneypenny": 9,
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 15,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
+      "M": 16,
+      "Moneypenny": 16,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006",
+        "008",
+        "009"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Snuffles",
+        "Summer Smith",
+        "Cousin Nicky",
+        "Beta VII"
+      ],
+      "gadgetName": "Curse Remover3",
+      "timeIssued": 14,
+      "QTime": 14,
+      "timeCreated": 14
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 17,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jerry\u0027s Mytholog",
+        "Stealy",
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 15,
+      "QTime": 15,
+      "timeCreated": 15
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snuffles",
+        "Stealy",
+        "Summer Smith"
+      ],
+      "gadgetName": "Futuristic guns3",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
+    },
+    {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 13,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "000",
+        "005"
+      ],
+      "agentsNames": [
+        "Birdperson",
+        "Stealy"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 28,
+      "QTime": 28,
+      "timeCreated": 28
+    },
+    {
+      "missionName": "Weddings are basically funerals with cake.",
+      "M": 12,
+      "Moneypenny": 13,
       "agentsSerialNumbers": [
         "003"
       ],
       "agentsNames": [
         "Evil Morty"
       ],
-      "gadgetName": "Interdimensional cable TV box2",
-      "timeIssued": 8,
-      "QTime": 22,
-      "timeCreated": 8
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 27,
+      "QTime": 28,
+      "timeCreated": 27
     },
     {
-      "M": 12,
-      "Moneypenny": 12,
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 8,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Morty\u0027s Mind Blowers2",
+      "timeIssued": 23,
+      "QTime": 28,
+      "timeCreated": 23
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 6,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "006",
+        "008"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Futuristic guns2",
+      "timeIssued": 23,
+      "QTime": 28,
+      "timeCreated": 23
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Evil Morty"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 22,
+      "QTime": 28,
+      "timeCreated": 22
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Eyeholes Man"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 20,
+      "QTime": 28,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "008"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 20,
+      "QTime": 38,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 15,
+      "Moneypenny": 15,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Dream inceptor4",
+      "timeIssued": 29,
+      "QTime": 38,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 6,
+      "Moneypenny": 5,
       "agentsSerialNumbers": [
         "000",
-        "003",
-        "005"
+        "007"
       ],
       "agentsNames": [
         "Birdperson",
-        "Evil Morty",
-        "Stealy"
+        "Eyeholes Man"
       ],
-      "gadgetName": "Time freezer3",
-      "timeIssued": 11,
-      "QTime": 34,
-      "timeCreated": 11
+      "gadgetName": "Butter-passing robot4",
+      "timeIssued": 33,
+      "QTime": 38,
+      "timeCreated": 33
     }
   ],
-  "total": 23
+  "total": 42
 }

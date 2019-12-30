@@ -1,7 +1,40 @@
 {
   "reports": [
     {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "008"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold",
+        "Squanchy"
+      ],
+      "gadgetName": "Combat suit5",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
       "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Grappling Shoes2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "Well then get your shit together. Get it all together and put it in a backpack, all your shit, so it\u0027s together. ...and if you gotta take it somewhere, take it somewhere ya know? Take it to the shit store and sell it, or put it in a shit museum. I don\u0027t care what you do, you just gotta get it together... Get your shit together.",
+      "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
@@ -17,29 +50,20 @@
       "timeCreated": 1
     },
     {
-      "M": 0,
-      "Moneypenny": 1,
-      "agentsSerialNumbers": [
-        "004"
-      ],
-      "agentsNames": [
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
-      ],
-      "gadgetName": "Grappling Shoes2",
-      "timeIssued": 1,
-      "QTime": 1,
-      "timeCreated": 1
-    },
-    {
+      "missionName": "Go home and drink, grandpa.",
       "M": 3,
       "Moneypenny": 3,
       "agentsSerialNumbers": [
-        "002",
-        "008"
+        "004",
+        "005",
+        "007",
+        "009"
       ],
       "agentsNames": [
-        "Mr. Goldenfold",
-        "Squanchy"
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Lighthouse Chief",
+        "Jerry\u0027s Mytholog",
+        "Loggins"
       ],
       "gadgetName": "Combat suit5",
       "timeIssued": 1,
@@ -47,65 +71,140 @@
       "timeCreated": 1
     },
     {
-      "M": 1,
-      "Moneypenny": 2,
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 7,
+      "Moneypenny": 7,
       "agentsSerialNumbers": [
-        "004",
-        "005",
+        "003",
+        "006",
         "007",
         "009"
       ],
       "agentsNames": [
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
-        "Lighthouse Chief",
+        "Arthricia",
+        "Rick Sanchez",
         "Jerry\u0027s Mytholog",
         "Loggins"
       ],
-      "gadgetName": "Combat suit5",
-      "timeIssued": 1,
-      "QTime": 17,
-      "timeCreated": 1
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
     },
     {
-      "M": 12,
-      "Moneypenny": 14,
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 8,
+      "Moneypenny": 8,
       "agentsSerialNumbers": [
         "001",
-        "007",
-        "009"
-      ],
-      "agentsNames": [
-        "Stealy",
-        "Jerry\u0027s Mytholog",
-        "Loggins"
-      ],
-      "gadgetName": "Purge Suit4",
-      "timeIssued": 5,
-      "QTime": 18,
-      "timeCreated": 5
-    },
-    {
-      "M": 10,
-      "Moneypenny": 10,
-      "agentsSerialNumbers": [
-        "000",
         "002",
-        "004",
         "005",
+        "006",
         "008"
       ],
       "agentsNames": [
-        "Evil Morty",
+        "Stealy",
         "Mr. Goldenfold",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
         "Lighthouse Chief",
+        "Rick Sanchez",
         "Squanchy"
       ],
-      "gadgetName": "Froopyland Chalk9",
-      "timeIssued": 4,
-      "QTime": 18,
-      "timeCreated": 4
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Ionic Defibulizer3",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Lighthouse Chief"
+      ],
+      "gadgetName": "Microverse battery7",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 6,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006",
+        "009"
+      ],
+      "agentsNames": [
+        "Mr. Goldenfold",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Rick Sanchez",
+        "Loggins"
+      ],
+      "gadgetName": "Love Potion4",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "005"
+      ],
+      "agentsNames": [
+        "Stealy",
+        "Lighthouse Chief"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 6,
+      "QTime": 15,
+      "timeCreated": 6
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 5,
+      "QTime": 15,
+      "timeCreated": 5
     }
   ],
-  "total": 21
+  "total": 26
 }

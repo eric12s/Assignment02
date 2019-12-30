@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,6 +16,7 @@
       "timeCreated": 2
     },
     {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -29,6 +31,22 @@
       "timeCreated": 6
     },
     {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
       "M": 3,
       "Moneypenny": 3,
       "agentsSerialNumbers": [
@@ -41,26 +59,28 @@
       ],
       "gadgetName": "Ionic Defibulizer",
       "timeIssued": 14,
-      "QTime": 15,
+      "QTime": 14,
       "timeCreated": 14
     },
     {
-      "M": 2,
-      "Moneypenny": 2,
+      "missionName": "Where are my testicles, Summer?",
+      "M": 4,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "001"
       ],
       "agentsNames": [
         "Mr. Poopybutthole"
       ],
-      "gadgetName": "Combat suit",
-      "timeIssued": 7,
-      "QTime": 26,
-      "timeCreated": 7
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 16,
+      "QTime": 16,
+      "timeCreated": 16
     },
     {
-      "M": 2,
-      "Moneypenny": 2,
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 5,
+      "Moneypenny": 5,
       "agentsSerialNumbers": [
         "000",
         "001"
@@ -69,12 +89,13 @@
         "Mr. Meeseeks",
         "Mr. Poopybutthole"
       ],
-      "gadgetName": "Timeline viewer",
-      "timeIssued": 30,
-      "QTime": 37,
-      "timeCreated": 30
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 18,
+      "QTime": 18,
+      "timeCreated": 18
     },
     {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -87,9 +108,158 @@
       ],
       "gadgetName": "Dark matter",
       "timeIssued": 27,
-      "QTime": 46,
+      "QTime": 27,
       "timeCreated": 27
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster",
+      "timeIssued": 27,
+      "QTime": 27,
+      "timeCreated": 27
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 30,
+      "QTime": 31,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 34,
+      "QTime": 34,
+      "timeCreated": 34
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 37,
+      "QTime": 37,
+      "timeCreated": 37
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 39,
+      "QTime": 39,
+      "timeCreated": 39
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Mr. Meeseeks",
+        "Mr. Poopybutthole"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
     }
   ],
-  "total": 12
+  "total": 16
 }

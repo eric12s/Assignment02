@@ -34,24 +34,24 @@ public class MI6Runner {
     private static TimeService timeService;
 
     public static void main(String[] args) {
-        initialize(args);
+            initialize(args);
 
-        // start all threads
-        for (Thread thread : threadPool)
-            thread.start();
+            // start all threads
+            for (Thread thread : threadPool)
+                thread.start();
 
-        // join all threads to the current thread
-        for (Thread thread : threadPool) {
-            try {
-                thread.join();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+            // join all threads to the current thread
+            for (Thread thread : threadPool) {
+                try {
+                    thread.join();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
-        }
 
-        // after the threads finish their tasks
-        inventory.printToFile(args[1]);
-        diary.printToFile(args[2]);
+            // after the threads finish their tasks
+            inventory.printToFile(args[1]);
+            diary.printToFile(args[2]);
     }
 
     public static void initialize(String args[]) {

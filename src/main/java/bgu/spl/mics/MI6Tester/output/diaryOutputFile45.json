@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,6 +16,7 @@
       "timeCreated": 1
     },
     {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
       "M": 1,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -31,8 +33,43 @@
       "timeCreated": 1
     },
     {
-      "M": 4,
-      "Moneypenny": 4,
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Morty Smith",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 2,
+      "QTime": 2,
+      "timeCreated": 2
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Arthricia"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 4,
+      "QTime": 7,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 3,
+      "Moneypenny": 3,
       "agentsSerialNumbers": [
         "001"
       ],
@@ -41,9 +78,92 @@
       ],
       "gadgetName": "Love Potion",
       "timeIssued": 2,
-      "QTime": 2,
+      "QTime": 7,
       "timeCreated": 2
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 3,
+      "QTime": 7,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Arthricia"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 3,
+      "QTime": 7,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Morty Smith"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 6,
+      "QTime": 7,
+      "timeCreated": 6
+    },
+    {
+      "missionName": "Snuffles was my slave name, you can call me snowball because my fur is pretty and white.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Froopyland Chalk",
+      "timeIssued": 5,
+      "QTime": 8,
+      "timeCreated": 5
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Arthricia"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 5,
+      "QTime": 8,
+      "timeCreated": 5
     }
   ],
-  "total": 9
+  "total": 16
 }

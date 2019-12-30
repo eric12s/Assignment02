@@ -1,8 +1,26 @@
 {
   "reports": [
     {
-      "M": 0,
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 1,
       "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Timeline viewer3",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 0,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "004",
         "005"
@@ -17,22 +35,60 @@
       "timeCreated": 1
     },
     {
-      "M": 1,
-      "Moneypenny": 1,
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
-        "005",
-        "007"
+        "002",
+        "003",
+        "004"
       ],
       "agentsNames": [
-        "Jan Michael Vincent",
-        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+        "Tinkles",
+        "Gazorpazorpfield",
+        "Arthricia"
       ],
-      "gadgetName": "Timeline viewer3",
-      "timeIssued": 1,
-      "QTime": 8,
-      "timeCreated": 1
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
     },
     {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Time freezer2",
+      "timeIssued": 5,
+      "QTime": 5,
+      "timeCreated": 5
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
       "M": 5,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
@@ -49,11 +105,33 @@
       ],
       "gadgetName": "Portal gun2",
       "timeIssued": 7,
-      "QTime": 20,
+      "QTime": 7,
       "timeCreated": 7
     },
     {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
       "M": 6,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "005",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Jan Michael Vincent",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 7,
+      "QTime": 7,
+      "timeCreated": 7
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 7,
       "Moneypenny": 7,
       "agentsSerialNumbers": [
         "005"
@@ -63,10 +141,11 @@
       ],
       "gadgetName": "Combat suit2",
       "timeIssued": 8,
-      "QTime": 20,
+      "QTime": 8,
       "timeCreated": 8
     },
     {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
       "M": 8,
       "Moneypenny": 8,
       "agentsSerialNumbers": [
@@ -83,40 +162,121 @@
       ],
       "gadgetName": "Shrink ray",
       "timeIssued": 9,
-      "QTime": 31,
+      "QTime": 9,
       "timeCreated": 9
     },
     {
-      "M": 4,
-      "Moneypenny": 4,
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 9,
+      "Moneypenny": 9,
       "agentsSerialNumbers": [
         "000",
-        "003"
+        "002",
+        "005",
+        "006"
       ],
       "agentsNames": [
         "Lighthouse Chief",
-        "Gazorpazorpfield"
+        "Tinkles",
+        "Jan Michael Vincent",
+        "Fart"
       ],
-      "gadgetName": "Time freezer2",
-      "timeIssued": 5,
-      "QTime": 31,
-      "timeCreated": 5
+      "gadgetName": "Demonic Alien Containment Box3",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
     },
     {
-      "M": 15,
-      "Moneypenny": 0,
+      "missionName": "Don’t even trip dawg.",
+      "M": 10,
+      "Moneypenny": 10,
       "agentsSerialNumbers": [
-        "004"
+        "003",
+        "004",
+        "006"
       ],
       "agentsNames": [
-        "Arthricia"
+        "Gazorpazorpfield",
+        "Arthricia",
+        "Fart"
       ],
-      "gadgetName": "Ionic Defibulizer",
-      "timeIssued": 21,
-      "QTime": 44,
-      "timeCreated": 21
+      "gadgetName": "Combat suit2",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
     },
     {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "006"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Gazorpazorpfield",
+        "Jan Michael Vincent",
+        "Fart"
+      ],
+      "gadgetName": "Butter-passing robot2",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 12,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Tinkles"
+      ],
+      "gadgetName": "Portal gun3",
+      "timeIssued": 13,
+      "QTime": 13,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 13,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "003",
+        "005"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 14,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
       "M": 0,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -131,9 +291,496 @@
       ],
       "gadgetName": "Space cruiser",
       "timeIssued": 21,
-      "QTime": 56,
+      "QTime": 21,
       "timeCreated": 21
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 15,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 21,
+      "QTime": 21,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 1,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Dream inceptor4",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 2,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Arthricia",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 24,
+      "QTime": 24,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 4,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "003",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Gazorpazorpfield",
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Space cruiser5",
+      "timeIssued": 25,
+      "QTime": 25,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 3,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Snowball",
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Emergency Bionic Arm3",
+      "timeIssued": 25,
+      "QTime": 26,
+      "timeCreated": 25
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "000",
+        "004"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Arthricia"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 26,
+      "QTime": 26,
+      "timeCreated": 26
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 6,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Snowball"
+      ],
+      "gadgetName": "Neutrino bomb",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "Let me out, what you see is not the same person as me. My life\u0027s a lie. I\u0027m not who you\u0027re looking. Let me out. Set me free. I\u0027m really old. This isn\u0027t me. My real body is slowly dieing in a vat. Is anybody listening? Can anyone understand? Stop looking at me like that and actually help me. Help me. Help me I\u0027m gunna die.",
+      "M": 8,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Laser Gun2",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "001",
+        "003"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Gazorpazorpfield"
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 31,
+      "QTime": 31,
+      "timeCreated": 31
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 9,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Snowball"
+      ],
+      "gadgetName": "Laser Gun3",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 11,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Tinkles"
+      ],
+      "gadgetName": "Combat suit2",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
+      "M": 10,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "004",
+        "005",
+        "007",
+        "008"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr.",
+        "Snuffles"
+      ],
+      "gadgetName": "Love Potion2",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 12,
+      "Moneypenny": 13,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Tinkles",
+        "Arthricia",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
+      "M": 13,
+      "Moneypenny": 14,
+      "agentsSerialNumbers": [
+        "005"
+      ],
+      "agentsNames": [
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 36,
+      "QTime": 36,
+      "timeCreated": 36
+    },
+    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
+      "M": 14,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "005",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Tinkles",
+        "Jan Michael Vincent",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Timeline viewer",
+      "timeIssued": 38,
+      "QTime": 38,
+      "timeCreated": 38
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 15,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Dream inceptor3",
+      "timeIssued": 40,
+      "QTime": 40,
+      "timeCreated": 40
+    },
+    {
+      "missionName": "Listen, I\u0027m not the nicest guy in the universe, because I\u0027m the smartest, and being nice is something stupid people do to hedge their bets.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Space cruiser5",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 43,
+      "QTime": 43,
+      "timeCreated": 43
+    },
+    {
+      "missionName": "Oh yeah, If you think my Rick is Dead, then he is alive. If you think you\u0027re safe, then he\u0027s coming for you.",
+      "M": 2,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Tinkles",
+        "Gazorpazorpfield",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Portal gun5",
+      "timeIssued": 44,
+      "QTime": 44,
+      "timeCreated": 44
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 3,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "006"
+      ],
+      "agentsNames": [
+        "Fart"
+      ],
+      "gadgetName": "Timeline viewer4",
+      "timeIssued": 45,
+      "QTime": 45,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 4,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Arthricia"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 46,
+      "QTime": 46,
+      "timeCreated": 46
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 5,
+      "Moneypenny": 7,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 6,
+      "Moneypenny": 8,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004",
+        "007"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Snowball",
+        "Arthricia",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Interdimensional cable TV box4",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 7,
+      "Moneypenny": 9,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "006"
+      ],
+      "agentsNames": [
+        "Lighthouse Chief",
+        "Tinkles",
+        "Fart"
+      ],
+      "gadgetName": "Dream inceptor2",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 8,
+      "Moneypenny": 10,
+      "agentsSerialNumbers": [
+        "007"
+      ],
+      "agentsNames": [
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Curse Remover2",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 9,
+      "Moneypenny": 11,
+      "agentsSerialNumbers": [
+        "003",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Gazorpazorpfield",
+        "Arthricia",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 52,
+      "QTime": 52,
+      "timeCreated": 52
+    },
+    {
+      "missionName": "Yo! What up my glip glops!",
+      "M": 10,
+      "Moneypenny": 12,
+      "agentsSerialNumbers": [
+        "001",
+        "004",
+        "006",
+        "007"
+      ],
+      "agentsNames": [
+        "Snowball",
+        "Arthricia",
+        "Fart",
+        "Revolio \u0027Gearhead\u0027 Clockberg, Jr."
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 52,
+      "QTime": 52,
+      "timeCreated": 52
     }
   ],
-  "total": 24
+  "total": 45
 }

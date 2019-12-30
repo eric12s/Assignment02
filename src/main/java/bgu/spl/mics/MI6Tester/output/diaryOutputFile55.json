@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Hello Jerry, come to rub my face in urine again?",
       "M": 1,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -17,6 +18,22 @@
       "timeCreated": 1
     },
     {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
       "M": 2,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -29,10 +46,71 @@
       ],
       "gadgetName": "Curse Remover",
       "timeIssued": 3,
-      "QTime": 12,
+      "QTime": 3,
       "timeCreated": 3
     },
     {
+      "missionName": "I\u0027m the devil. What should I do when I fail? Give myself an ice cream?",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 4,
+      "QTime": 6,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 0,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 4,
+      "QTime": 7,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Ionic Defibulizer2",
+      "timeIssued": 5,
+      "QTime": 7,
+      "timeCreated": 5
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 9,
+      "QTime": 9,
+      "timeCreated": 9
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
       "M": 2,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -43,12 +121,13 @@
         "Squanchy",
         "Beth\u0027s Mytholog"
       ],
-      "gadgetName": "Purge Suit",
-      "timeIssued": 5,
-      "QTime": 16,
-      "timeCreated": 5
+      "gadgetName": "Ionic Defibulizer",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
     },
     {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
       "M": 0,
       "Moneypenny": 1,
       "agentsSerialNumbers": [
@@ -57,11 +136,43 @@
       "agentsNames": [
         "Squanchy"
       ],
-      "gadgetName": "Ionic Defibulizer2",
-      "timeIssued": 1,
-      "QTime": 21,
-      "timeCreated": 1
+      "gadgetName": "Curse Remover",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Squanchy"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 17,
+      "QTime": 17,
+      "timeCreated": 17
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Squanchy",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 23,
+      "QTime": 23,
+      "timeCreated": 23
     }
   ],
-  "total": 7
+  "total": 13
 }

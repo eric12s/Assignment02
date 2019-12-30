@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "I like what you got.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -15,20 +16,7 @@
       "timeCreated": 15
     },
     {
-      "M": 3,
-      "Moneypenny": 3,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Beth\u0027s Mytholog"
-      ],
-      "gadgetName": "Grappling Shoes",
-      "timeIssued": 20,
-      "QTime": 25,
-      "timeCreated": 20
-    },
-    {
+      "missionName": "Sometimes science is a lot more art, than science. A lot of people don\u0027t get that.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -43,7 +31,23 @@
       "timeCreated": 23
     },
     {
-      "M": 1,
+      "missionName": "I want that Mulan McNugget sauce, Morty!",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 20,
+      "QTime": 25,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 2,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
         "000"
@@ -53,26 +57,47 @@
       ],
       "gadgetName": "Time freezer",
       "timeIssued": 18,
-      "QTime": 48,
+      "QTime": 35,
       "timeCreated": 18
     },
     {
-      "M": 0,
-      "Moneypenny": 2,
+      "missionName": "Keep Summer safe.",
+      "M": 1,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
-        "000"
+        "000",
+        "001"
       ],
       "agentsNames": [
-        "Summer Smith"
+        "Summer Smith",
+        "Beth\u0027s Mytholog"
       ],
-      "gadgetName": "Love Potion",
-      "timeIssued": 47,
-      "QTime": 51,
-      "timeCreated": 47
+      "gadgetName": "Laser Gun",
+      "timeIssued": 16,
+      "QTime": 35,
+      "timeCreated": 16
     },
     {
+      "missionName": "He\u0027s not a hot girl. He can\u0027t just bail on his life and set up shop in someone else\u0027s.",
       "M": 1,
-      "Moneypenny": 3,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Butter-passing robot",
+      "timeIssued": 30,
+      "QTime": 35,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "There is no god, Summer; gotta rip that band-aid off now you\u0027ll thank me later.",
+      "M": 2,
+      "Moneypenny": 2,
       "agentsSerialNumbers": [
         "000",
         "001"
@@ -83,9 +108,122 @@
       ],
       "gadgetName": "Grappling Shoes",
       "timeIssued": 37,
-      "QTime": 58,
+      "QTime": 37,
       "timeCreated": 37
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 45,
+      "QTime": 45,
+      "timeCreated": 45
+    },
+    {
+      "missionName": "Keep Summer safe.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Summer Smith"
+      ],
+      "gadgetName": "Love Potion",
+      "timeIssued": 47,
+      "QTime": 47,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Space cruiser",
+      "timeIssued": 53,
+      "QTime": 54,
+      "timeCreated": 53
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 52,
+      "QTime": 54,
+      "timeCreated": 52
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 60,
+      "QTime": 62,
+      "timeCreated": 60
+    },
+    {
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Emergency Bionic Arm",
+      "timeIssued": 60,
+      "QTime": 62,
+      "timeCreated": 60
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Summer Smith",
+        "Jan Michael Vincent"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 55,
+      "QTime": 62,
+      "timeCreated": 55
     }
   ],
-  "total": 10
+  "total": 14
 }

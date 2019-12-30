@@ -1,8 +1,9 @@
 {
   "reports": [
     {
+      "missionName": "Uncertainty is inherently unsustainable. Eventually, everything either is or isn\u0027t.",
       "M": 0,
-      "Moneypenny": 3,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
         "001",
@@ -19,7 +20,91 @@
       "timeCreated": 1
     },
     {
+      "missionName": "I don\u0027t get it and I don\u0027t need to.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Snowball"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 3,
+      "QTime": 3,
+      "timeCreated": 3
+    },
+    {
+      "missionName": "Great, now I have to take over an entire planet because of your stupid boobs.",
       "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Arthricia"
+      ],
+      "gadgetName": "Dark matter4",
+      "timeIssued": 4,
+      "QTime": 4,
+      "timeCreated": 4
+    },
+    {
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 6,
+      "QTime": 6,
+      "timeCreated": 6
+    },
+    {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Baby Legs"
+      ],
+      "gadgetName": "Purge Suit4",
+      "timeIssued": 10,
+      "QTime": 10,
+      "timeCreated": 10
+    },
+    {
+      "missionName": "You\u0027re our boy dog, don\u0027t even trip.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Arthricia",
+        "Baby Legs"
+      ],
+      "gadgetName": "Dark matter4",
+      "timeIssued": 12,
+      "QTime": 12,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Meeseeks are not born into this world fumbling for meaning, Jerry! We are created to serve a single purpose, for which we go to any lengths to fulfill.",
+      "M": 6,
       "Moneypenny": 6,
       "agentsSerialNumbers": [
         "000",
@@ -37,22 +122,9 @@
       "timeCreated": 14
     },
     {
+      "missionName": "Aww, gee, you got me there Rick.",
       "M": 7,
-      "Moneypenny": 4,
-      "agentsSerialNumbers": [
-        "001"
-      ],
-      "agentsNames": [
-        "Arthricia"
-      ],
-      "gadgetName": "Dark matter4",
-      "timeIssued": 4,
-      "QTime": 20,
-      "timeCreated": 4
-    },
-    {
-      "M": 5,
-      "Moneypenny": 3,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
         "004"
@@ -63,44 +135,117 @@
       ],
       "gadgetName": "Purge Suit",
       "timeIssued": 16,
-      "QTime": 31,
+      "QTime": 16,
       "timeCreated": 16
     },
     {
-      "M": 6,
-      "Moneypenny": 0,
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
+      "M": 8,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Arthricia",
+        "Snowball"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 19,
+      "QTime": 19,
+      "timeCreated": 19
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 0,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
+      "timeIssued": 20,
+      "QTime": 20,
+      "timeCreated": 20
+    },
+    {
+      "missionName": "Oh, I\u0027m sorry Morty, are you the scientist or are you the kid who wanted to get laid?",
+      "M": 1,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Baby Legs",
+        "Snowball"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "The first rule of space travel kids is always check out distress beacons. Nine out of ten times it\u0027s a ship full of dead aliens and a bunch of free shit! One out of ten times it\u0027s a deadly trap, but... I\u0027m ready to roll those dice!",
+      "M": 2,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "003"
       ],
       "agentsNames": [
         "Beth\u0027s Mytholog"
       ],
-      "gadgetName": "Shrink ray3",
-      "timeIssued": 6,
+      "gadgetName": "Shrink ray",
+      "timeIssued": 31,
       "QTime": 31,
-      "timeCreated": 6
+      "timeCreated": 31
     },
     {
-      "M": 4,
+      "missionName": "WUBBA LUBBA DUB DUBS!!!",
+      "M": 3,
       "Moneypenny": 5,
       "agentsSerialNumbers": [
         "000",
-        "001",
-        "002"
+        "003",
+        "004"
       ],
       "agentsNames": [
         "Cousin Nicky",
-        "Arthricia",
-        "Baby Legs"
+        "Beth\u0027s Mytholog",
+        "Snowball"
       ],
-      "gadgetName": "Dark matter4",
-      "timeIssued": 12,
+      "gadgetName": "Dark matter2",
+      "timeIssued": 31,
       "QTime": 31,
-      "timeCreated": 12
+      "timeCreated": 31
     },
     {
+      "missionName": "Weddings are basically funerals with cake.",
       "M": 4,
-      "Moneypenny": 5,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Laser Gun",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 5,
+      "Moneypenny": 0,
       "agentsSerialNumbers": [
         "004"
       ],
@@ -109,9 +254,264 @@
       ],
       "gadgetName": "Morty\u0027s Mind Blowers",
       "timeIssued": 33,
-      "QTime": 52,
+      "QTime": 33,
       "timeCreated": 33
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 6,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "001"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Arthricia"
+      ],
+      "gadgetName": "Shrink ray3",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Where are my testicles, Summer?",
+      "M": 7,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "I like what you got.",
+      "M": 8,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Beth\u0027s Mytholog",
+        "Snowball"
+      ],
+      "gadgetName": "Cognition amplifier2",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 0,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Dream inceptor",
+      "timeIssued": 39,
+      "QTime": 39,
+      "timeCreated": 39
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 1,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Baby Legs",
+        "Snowball"
+      ],
+      "gadgetName": "Portal gun3",
+      "timeIssued": 39,
+      "QTime": 39,
+      "timeCreated": 39
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 2,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "001",
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Baby Legs",
+        "Snowball"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster3",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "It\u0027s a figure of speech, Morty! They\u0027re bureaucrats! I don\u0027t respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
+      "M": 3,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier",
+      "timeIssued": 42,
+      "QTime": 42,
+      "timeCreated": 42
+    },
+    {
+      "missionName": "HI! I\u0027M MR MEESEEKS! LOOK AT ME!",
+      "M": 4,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Snowball"
+      ],
+      "gadgetName": "Microverse battery",
+      "timeIssued": 43,
+      "QTime": 43,
+      "timeCreated": 43
+    },
+    {
+      "missionName": "This isn\u0027t Game of Thrones, Morty.",
+      "M": 5,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Purge Suit2",
+      "timeIssued": 47,
+      "QTime": 47,
+      "timeCreated": 47
+    },
+    {
+      "missionName": "I hate to break it to you, but what people call \u0027love\u0027 is just a chemical reaction that compels animals to breed. It hits hard Morty then it slowly fades leaving you stranded in a failing marriage. I did it. Your parents are going to do it. Break the cycle Morty, rise above, focus on science.",
+      "M": 6,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Beth\u0027s Mytholog",
+        "Snowball"
+      ],
+      "gadgetName": "Emergency Bionic Arm2",
+      "timeIssued": 48,
+      "QTime": 48,
+      "timeCreated": 48
+    },
+    {
+      "missionName": "Traditionally, science fairs are a father/son thing. Well, scientifically, traditions are an idiot thing.",
+      "M": 7,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 49,
+      "QTime": 49,
+      "timeCreated": 49
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 8,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "002",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Beth\u0027s Mytholog",
+        "Snowball"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 50,
+      "QTime": 50,
+      "timeCreated": 50
+    },
+    {
+      "missionName": "It\u0027s fine, everything is fine. Theres an infinite number of realities Morty and in a few dozen of those I got lucky and turned everything back to normal.",
+      "M": 0,
+      "Moneypenny": 6,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Snowball"
+      ],
+      "gadgetName": "Combat suit",
+      "timeIssued": 51,
+      "QTime": 51,
+      "timeCreated": 51
+    },
+    {
+      "missionName": "Ohh yea, you gotta get schwifty.",
+      "M": 1,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Snowball"
+      ],
+      "gadgetName": "Purge Suit3",
+      "timeIssued": 56,
+      "QTime": 56,
+      "timeCreated": 56
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001",
+        "003",
+        "004"
+      ],
+      "agentsNames": [
+        "Arthricia",
+        "Beth\u0027s Mytholog",
+        "Snowball"
+      ],
+      "gadgetName": "Laser Gun3",
+      "timeIssued": 56,
+      "QTime": 56,
+      "timeCreated": 56
     }
   ],
-  "total": 16
+  "total": 30
 }

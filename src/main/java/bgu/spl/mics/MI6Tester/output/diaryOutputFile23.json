@@ -1,6 +1,7 @@
 {
   "reports": [
     {
+      "missionName": "Get off the high road Summer. We all got pink eye because you wouldn\u0027t stop texting on the toilet.",
       "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
@@ -17,21 +18,23 @@
       "timeCreated": 5
     },
     {
-      "M": 0,
-      "Moneypenny": 0,
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 1,
+      "Moneypenny": 1,
       "agentsSerialNumbers": [
         "003"
       ],
       "agentsNames": [
         "Jerry\u0027s Mytholog"
       ],
-      "gadgetName": "Dark matter",
-      "timeIssued": 12,
-      "QTime": 18,
-      "timeCreated": 12
+      "gadgetName": "Neutrino bomb2",
+      "timeIssued": 8,
+      "QTime": 8,
+      "timeCreated": 8
     },
     {
-      "M": 4,
+      "missionName": "Yo! What up my glip glops!",
+      "M": 2,
       "Moneypenny": 2,
       "agentsSerialNumbers": [
         "001",
@@ -43,10 +46,11 @@
       ],
       "gadgetName": "Shrink ray",
       "timeIssued": 8,
-      "QTime": 18,
+      "QTime": 8,
       "timeCreated": 8
     },
     {
+      "missionName": "Having a family doesn\u0027t mean that you stop being an individual.",
       "M": 3,
       "Moneypenny": 3,
       "agentsSerialNumbers": [
@@ -57,23 +61,293 @@
       ],
       "gadgetName": "Curse Remover",
       "timeIssued": 10,
-      "QTime": 18,
+      "QTime": 10,
       "timeCreated": 10
     },
     {
-      "M": 1,
-      "Moneypenny": 1,
+      "missionName": "So what if the most meaningful day in your life was a simulation operating at minimum complexity.",
+      "M": 4,
+      "Moneypenny": 4,
       "agentsSerialNumbers": [
         "003"
       ],
       "agentsNames": [
         "Jerry\u0027s Mytholog"
       ],
-      "gadgetName": "Neutrino bomb2",
-      "timeIssued": 8,
+      "gadgetName": "Dark matter2",
+      "timeIssued": 11,
+      "QTime": 11,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "Don’t even trip dawg.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier4",
+      "timeIssued": 11,
+      "QTime": 16,
+      "timeCreated": 11
+    },
+    {
+      "missionName": "No no, If I wanted to be sober, I wouldn’t have gotten drunk.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Demonic Alien Containment Box3",
+      "timeIssued": 13,
+      "QTime": 16,
+      "timeCreated": 13
+    },
+    {
+      "missionName": "That just sounds like slavery with extra steps.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Dark matter",
+      "timeIssued": 12,
+      "QTime": 16,
+      "timeCreated": 12
+    },
+    {
+      "missionName": "Aw, c\u0027mon Rick. That doesn\u0027t seem so bad.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002",
+        "004"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Lighthouse Chief"
+      ],
+      "gadgetName": "Demonic Alien Containment Box2",
+      "timeIssued": 22,
+      "QTime": 25,
+      "timeCreated": 22
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Froopyland Chalk3",
+      "timeIssued": 24,
+      "QTime": 25,
+      "timeCreated": 24
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Portal gun2",
+      "timeIssued": 22,
+      "QTime": 25,
+      "timeCreated": 22
+    },
+    {
+      "missionName": "This sounds like something The One True Morty might say.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Futuristic guns",
+      "timeIssued": 18,
+      "QTime": 25,
+      "timeCreated": 18
+    },
+    {
+      "missionName": "Existence is pain to a meeseeks Jerry, and we will do anything to alleviate that pain.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Grappling Shoes",
+      "timeIssued": 21,
+      "QTime": 25,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "Pluto\u0027s a planet.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001"
+      ],
+      "agentsNames": [
+        "Baby Legs"
+      ],
+      "gadgetName": "Dark matter3",
+      "timeIssued": 21,
+      "QTime": 25,
+      "timeCreated": 21
+    },
+    {
+      "missionName": "That\u0027s the difference between you and me, Morty. I never go back to the carpet store.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "003"
+      ],
+      "agentsNames": [
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Time freezer",
+      "timeIssued": 27,
       "QTime": 27,
-      "timeCreated": 8
+      "timeCreated": 27
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Cognition amplifier3",
+      "timeIssued": 29,
+      "QTime": 29,
+      "timeCreated": 29
+    },
+    {
+      "missionName": "Aww, gee, you got me there Rick.",
+      "M": 4,
+      "Moneypenny": 4,
+      "agentsSerialNumbers": [
+        "002",
+        "003"
+      ],
+      "agentsNames": [
+        "Cousin Nicky",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "Nobody exists on purpose. Nobody belongs anywhere. Everybody is going to die.",
+      "M": 5,
+      "Moneypenny": 5,
+      "agentsSerialNumbers": [
+        "000"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog"
+      ],
+      "gadgetName": "Curse Remover",
+      "timeIssued": 30,
+      "QTime": 30,
+      "timeCreated": 30
+    },
+    {
+      "missionName": "What about the reality where Hitler cured cancer, Morty? The answer is: Don\u0027t think about it.",
+      "M": 0,
+      "Moneypenny": 0,
+      "agentsSerialNumbers": [
+        "002"
+      ],
+      "agentsNames": [
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Portal gun",
+      "timeIssued": 32,
+      "QTime": 32,
+      "timeCreated": 32
+    },
+    {
+      "missionName": "Go home and drink, grandpa.",
+      "M": 1,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "000",
+        "003"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Jerry\u0027s Mytholog"
+      ],
+      "gadgetName": "Purge Suit",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "I\u0027m more than just a hammer.",
+      "M": 2,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "000",
+        "002"
+      ],
+      "agentsNames": [
+        "Beth\u0027s Mytholog",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Interdimensional Goggles2",
+      "timeIssued": 33,
+      "QTime": 33,
+      "timeCreated": 33
+    },
+    {
+      "missionName": "Little tip, Morty. Never clean DNA vials with your spit.",
+      "M": 3,
+      "Moneypenny": 3,
+      "agentsSerialNumbers": [
+        "001",
+        "002"
+      ],
+      "agentsNames": [
+        "Baby Legs",
+        "Cousin Nicky"
+      ],
+      "gadgetName": "Demonic Alien Containment Box",
+      "timeIssued": 35,
+      "QTime": 35,
+      "timeCreated": 35
     }
   ],
-  "total": 11
+  "total": 22
 }

@@ -1,27 +1,60 @@
 {
   "reports": [
     {
+      "missionName": "Oh Summer, haha first race war, huh?",
       "M": 2,
+      "Moneypenny": 1,
+      "agentsSerialNumbers": [
+        "004",
+        "005"
+      ],
+      "agentsNames": [
+        "Morty Jr.",
+        "Tammy Gueterman"
+      ],
+      "gadgetName": "Particle Beam Wrist Watch \u0026 Snake Holster2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "What is my purpose. You pass butter. Oh My God. Yeah, Welcome to the club pal.",
+      "M": 0,
       "Moneypenny": 0,
       "agentsSerialNumbers": [
         "000",
         "001",
         "002",
-        "003",
-        "005"
+        "008",
+        "009"
       ],
       "agentsNames": [
         "Beth Smith",
         "Mr. Needful",
         "Snuffles",
-        "King Jellybean",
-        "Tammy Gueterman"
+        "Beta VII",
+        "Dr. Glip-Glop"
       ],
-      "gadgetName": "Shrink ray3",
+      "gadgetName": "Froopyland Chalk2",
+      "timeIssued": 1,
+      "QTime": 1,
+      "timeCreated": 1
+    },
+    {
+      "missionName": "Can somebody just let me out of here? If I die in a cage I lose a bet.",
+      "M": 4,
+      "Moneypenny": 2,
+      "agentsSerialNumbers": [
+        "004"
+      ],
+      "agentsNames": [
+        "Morty Jr."
+      ],
+      "gadgetName": "Laser Gun7",
       "timeIssued": 1,
       "QTime": 1,
       "timeCreated": 1
     }
   ],
-  "total": 19
+  "total": 21
 }

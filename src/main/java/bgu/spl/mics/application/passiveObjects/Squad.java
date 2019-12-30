@@ -16,7 +16,6 @@ import java.util.Map;
 public class Squad {
 
 	private Map<String, Agent> agents;
-    private MessageBroker mb = MessageBrokerImpl.getInstance();
 
 	private static class SquadHolder{
 	    private static Squad instance = new Squad();
